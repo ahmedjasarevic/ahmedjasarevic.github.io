@@ -12,23 +12,19 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v3  # Updated to v3
+        uses: actions/checkout@v3
 
       - name: Setup Node
-        uses: actions/setup-node@v3  # Updated to v3
-        with:
-          node-version: 16
+        uses: actions/setup-node@v3
 
       - name: Install dependencies
-        uses: actions/npm@v1  # Updated to v1
-        with:
-          cache: 'npm'
+        uses: bahmutov/npm-install@v1
 
       - name: Build project
         run: npm run build
 
       - name: Upload production-ready build files
-        uses: actions/upload-artifact@v3  # Updated to v3
+        uses: actions/upload-artifact@v3
         with:
           name: production-files
           path: ./dist
@@ -41,7 +37,7 @@ jobs:
 
     steps:
       - name: Download artifact
-        uses: actions/download-artifact@v3  # Updated to v3
+        uses: actions/download-artifact@v3
         with:
           name: production-files
           path: ./dist
