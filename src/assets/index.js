@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import website from "./website.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -33,7 +34,7 @@ import teleteg from "./company/teleteg.png";
 import universVacancesIcon from "./company/universVacancesIcon.svg";
 
 import amoviedatabase from "./amoviedatabase.png";
-import bosniatravel from "./bosniatravel.png";
+import kacunba from "./kacunba.png";
 import nutrilog from "./nutrilog.png";
 
 export {
@@ -61,7 +62,7 @@ export {
   politehnicki,
   fiverr,
   amoviedatabase,
-  bosniatravel,
+  kacunba,
   nutrilog,
   python,
   mysql,
@@ -70,5 +71,6 @@ export {
   wordpress,
   bootstrap,
   teleteg,
-  universVacancesIcon
+  universVacancesIcon,
+  website
 };

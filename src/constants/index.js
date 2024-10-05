@@ -17,7 +17,7 @@ import {
     figma,
     docker,
     amoviedatabase,
-    bosniatravel,
+    kacunba,
     nutrilog,
     threejs,
     mysql,
@@ -227,6 +227,26 @@ import {
   
   const projects = [
     {
+      "name": "Kacun",
+      "description": "Website dedicated to the association of beekeepers and honey producers in Bosnia and Herzegovina. It provides information about beekeeping practices, honey varieties, and promotes local honey products.",
+      "tags": [
+        {
+          "name": "wordpress",
+          "color": "blue-text-gradient"
+        },
+        {
+          "name": "elementor",
+          "color": "green-text-gradient"
+        },
+        {
+          "name": "seo",
+          "color": "pink-text-gradient"
+        }
+      ],
+      image: kacunba,
+      website_link: "https://kacun.ba/",
+    }, 
+    {
       name: "A Movie Database",
       description:
         "A web application that allows users to browse and search for movies, view movie details and ratings, and leave reviews.",
@@ -245,28 +265,7 @@ import {
         },
       ],
       image: amoviedatabase,
-      source_code_link: "https://github.com/ahmedjasarevic/a-movie-database/",
-    },
-    {
-      name: "Bosnia Travel",
-      description:
-        "React travel website focused on Bosnia and Herzegovina. It provides information about the country's history and popular destinations.",
-      tags: [
-        {
-          name: "react",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "css",
-          color: "green-text-gradient",
-        },
-        {
-          name: "js",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: bosniatravel,
-      source_code_link: "https://github.com/ahmedjasarevic/BosniaTravel",
+      source_code_link: "https://github.com/ahmedjasarevic/a-movie-database",
     },
     {
       name: "NutriLog",
@@ -288,7 +287,7 @@ import {
       ],
       image: nutrilog,
       source_code_link: "https://github.com/ahmedjasarevic/NutriLog",
-    },
+    }
   ];
   
   export { services, technologies, experiences, testimonials, projects };
