@@ -35,7 +35,7 @@ import universVacancesIcon from "./company/universVacancesIcon.svg";
 
 import amoviedatabase from "./amoviedatabase.png";
 import kacunba from "./kacunba.png";
-import nutrilog from "./nutrilog.png";
+import pel from "./pel.png";
 
 export {
   logo,
@@ -63,7 +63,7 @@ export {
   fiverr,
   amoviedatabase,
   kacunba,
-  nutrilog,
+  pel,
   python,
   mysql,
   nextjs,

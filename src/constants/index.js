@@ -18,7 +18,7 @@ import {
     docker,
     amoviedatabase,
     kacunba,
-    nutrilog,
+    pel,
     threejs,
     mysql,
     nextjs,
@@ -268,25 +268,25 @@ import {
       source_code_link: "https://github.com/ahmedjasarevic/a-movie-database",
     },
     {
-      name: "NutriLog",
+      name: "Pannonian eSports League",
       description:
-        "NutriLog is a web application that helps users find the calorie content and nutritional values of various foods",
-      tags: [
+        "A comprehensive website for the Pannonian eSports League, featuring league standings, player profiles, and match schedules",
+      "tags": [
         {
-          name: "django",
-          color: "blue-text-gradient",
+          "name": "wordpress",
+          "color": "blue-text-gradient"
         },
         {
-          name: "chart.js",
-          color: "green-text-gradient",
+          "name": "elementor",
+          "color": "green-text-gradient"
         },
         {
-          name: "api-ninjas",
-          color: "pink-text-gradient",
-        },
+          "name": "seo",
+          "color": "pink-text-gradient"
+        }
       ],
-      image: nutrilog,
-      source_code_link: "https://github.com/ahmedjasarevic/NutriLog",
+      image: pel,
+      website_link: "https://paneleague.com/",
     }
   ];
   
