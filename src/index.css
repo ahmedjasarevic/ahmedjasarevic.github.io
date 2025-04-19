@@ -206,3 +206,7 @@
 .chat-inputs textarea[data-v-2a7fb1c3]{
   color: black !important;
 }
+
+.chat-window-wrapper .chat-window-toggle .chat-window-wrapper .chat-window-toggle:hover, .chat-window-wrapper .chat-window-toggle:focus{
+  background: #915eff !important;
+}
