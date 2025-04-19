@@ -9,10 +9,19 @@ const App = () => {
       .then(({ createChat }) => {
         createChat({
           webhookUrl: 'https://n8n-62tp.onrender.com/webhook/e137dfbb-3366-4952-a287-dfa789ff6bbf/chat',
+          defaultLanguage: 'en',
           initialMessages: [
             "Hello! 👋",
-            "My name is Ahmed. How can I help you today? "
-          ]
+            "I'm Ahmed — feel free to ask me anything or book a meeting. I'm here to help you out!"
+          ],
+          i18n: {
+        	en: {
+              title: 'Let’s talk! 💬',
+             subtitle: "Got a question or want to book a meeting? I’m here 24/7 to assist you.",
+              getStarted: 'Begin Chat',
+              inputPlaceholder: 'What can I help you with?',
+            },
+        	},
         });
       });
   }, []);
