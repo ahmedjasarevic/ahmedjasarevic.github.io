@@ -15,12 +15,12 @@ const App = () => {
             "I'm Ahmed — feel free to ask me anything or book a meeting. I'm here to help you out!"
           ],
           i18n: {
-        	en: {
-              title: 'Let’s talk! 💬',
-             subtitle: "Got a question or want to book a meeting? I’m here 24/7 to assist you.",
-              getStarted: 'Begin Chat',
-              inputPlaceholder: 'What can I help you with?',
-            },
+          	en: {
+                  title: 'Let’s talk! 💬',
+                  subtitle: "Got a question or want to book a meeting? I’m here 24/7 to assist you.",
+                  getStarted: 'Begin Chat',
+                  inputPlaceholder: 'What can I help you with?',
+              },
         	},
         });
       });
