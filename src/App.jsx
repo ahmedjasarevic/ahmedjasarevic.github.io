@@ -16,7 +16,7 @@ const App = () => {
           ],
           i18n: {
           	en: {
-                  title: 'Let’s talk! 💬',
+                  title: 'Ahmed 💬',
                   subtitle: "Got a question or want to book a meeting? I’m here 24/7 to assist you.",
                   getStarted: 'Begin Chat',
                   inputPlaceholder: 'What can I help you with?',
