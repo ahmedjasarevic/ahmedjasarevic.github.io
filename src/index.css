@@ -207,6 +207,8 @@
   color: black !important;
 }
 
-.chat-window-wrapper .chat-window-toggle .chat-window-wrapper .chat-window-toggle:hover, .chat-window-wrapper .chat-window-toggle:focus{
+.chat-window-wrapper .chat-window-toggle,
+.chat-window-wrapper .chat-window-toggle:hover,
+.chat-window-wrapper .chat-window-toggle:focus {
   background: #915eff !important;
 }
