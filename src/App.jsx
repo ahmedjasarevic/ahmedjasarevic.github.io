@@ -11,7 +11,7 @@ const App = () => {
           webhookUrl: 'https://n8n-62tp.onrender.com/webhook/e137dfbb-3366-4952-a287-dfa789ff6bbf/chat',
           initialMessages: [
             "Hello! 👋",
-            "My name is Ahmed. How can I help you today?"
+            "My name is Ahmed. How can I help you today? "
           ]
         });
       });
