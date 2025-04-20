@@ -212,3 +212,7 @@
 .chat-window-wrapper .chat-window-toggle:focus {
   background: #915eff !important;
 }
+
+.w-full{
+  width: 96% !important;
+}
