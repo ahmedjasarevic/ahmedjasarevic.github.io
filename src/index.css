@@ -213,8 +213,10 @@
   background: #915eff !important;
 }
 
-.w-full{
-  width: 96% !important;
+@media (max-width: 768px) {
+  .w-full {
+    width: 97% !important;
+  }
 }
 
 
