@@ -41,6 +41,6 @@
   color: #888;
 }
 
-.chat-inputs textarea[data-v-31e29ba2]:focus, .chat-inputs textarea[data-v-31e29ba2]{
-  color:black;
+.chat-inputs textarea[data-v-31e29ba2]{
+  color:black !important
 }
