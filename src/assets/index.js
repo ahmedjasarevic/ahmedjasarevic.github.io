@@ -36,6 +36,9 @@ import universVacancesIcon from "./company/universVacancesIcon.svg";
 import amoviedatabase from "./amoviedatabase.png";
 import kacunba from "./kacunba.png";
 import pel from "./pel.png";
+import domumgradnja from "./domumgradnja.png";
+import technooutlet from "./technooutlet.png";
+import josipkrnic from "./josipkrnic.png";
 
 export {
   logo,
@@ -72,5 +75,8 @@ export {
   bootstrap,
   teleteg,
   universVacancesIcon,
-  website
+  website,
+  domumgradnja,
+  josipkrnic,
+  technooutlet
 };
