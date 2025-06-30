@@ -28,6 +28,7 @@ import django from "./tech/django.png";
 import wordpress from "./tech/wordpress.png";
 import bootstrap from "./tech/bootstrap.png";
 
+
 import fiverr from "./company/fiverr.png";
 import politehnicki from "./company/politehnicki.png";
 import teleteg from "./company/teleteg.png";
