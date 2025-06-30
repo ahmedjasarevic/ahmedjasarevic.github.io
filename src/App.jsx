@@ -17,28 +17,12 @@ const App = () => {
           i18n: {
           	en: {
                   title: 'Ahmed 💬',
-                  subtitle: "Got a question or want to book a meeting? I’m here 24/7 to assist you.",
-                  getStarted: 'Begin Chat',
-                  inputPlaceholder: 'What can I help you with?',
+                  subtitle: "Got a question or want to book a meeting? I’ma here 24/7 to assist you.",
+                  getStarted: 'Begin Chat'
               },
         	},
-          theme: {
-    chatBackground: '#ffffff', // pozadina
-    mainColor: '#2f855a', // glavna boja (npr. dugmad, header)
-    userMessageBubble: {
-      backgroundColor: '#e2f0d9',
-      textColor: '#000000'
-    },
-    botMessageBubble: {
-      backgroundColor: '#f5f5f5',
-      textColor: '#000000'
-    },
-    input: {
-      backgroundColor: '#ffffff',
-      textColor: '#000000',
-      borderColor: '#cccccc'
-    }
-  }
+          
+         
         });
       });
   }, []);
