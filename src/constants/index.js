@@ -28,7 +28,10 @@ import {
     fiverr,
     politehnicki,
     teleteg,
-    universVacancesIcon
+    universVacancesIcon,
+    domumgradnja,
+    josipkrnic,
+    technooutlet
   } from "../assets";
   
   export const navLinks = [
@@ -226,7 +229,43 @@ import {
   ];
   
   const projects = [
-    {
+     {
+    name: "Domumgradnja",
+    description:
+      "Corporate website for a construction company in Croatia, showcasing services and completed projects with a modern and responsive design.",
+    tags: [
+      { name: "wordpress", color: "blue-text-gradient" },
+      { name: "css", color: "green-text-gradient" },
+      { name: "elementor", color: "pink-text-gradient" },
+    ],
+    image: domumgradnja,
+    website_link: "https://domumgradnja.hr",
+  },
+   {
+    name: "Josip Krnić Photography",
+    description:
+      "Minimalist and elegant portfolio website for a professional photographer, optimized for high-res images and easy navigation.",
+    tags: [
+      { name: "wordpress", color: "blue-text-gradient" },
+      { name: "portfolio", color: "pink-text-gradient" },
+      { name: "image-optimization", color: "green-text-gradient" },
+    ],
+    image: josipkrnic,
+    website_link: "https://josipkrnicphotography.hr",
+  },
+   {
+    name: "TechnoOutlet Store",
+    description:
+      "Full-featured WooCommerce store for electronics, with product variations, payment gateways, and coupon management.",
+    tags: [
+      { name: "woocommerce", color: "blue-text-gradient" },
+      { name: "payment gateways", color: "green-text-gradient" },
+      { name: "ecommerce", color: "pink-text-gradient" },
+    ],
+    image: technooutlet,
+    website_link: "https://technooutlet.hr",
+  },
+      {
       "name": "Kacun",
       "description": "Website dedicated to the association of beekeepers and honey producers in Bosnia and Herzegovina. It provides information about beekeeping practices, honey varieties, and promotes local honey products.",
       "tags": [
@@ -249,7 +288,7 @@ import {
     {
       name: "A Movie Database",
       description:
-        "A web application that allows users to browse and search for movies, view movie details and ratings, and leave reviews.",
+        "A web application that allows users to browse and search for movies through an extensive and regularly updated database. Users can view detailed information about each movie, including synopsis and cast",
       tags: [
         {
           name: "django",
