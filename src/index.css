@@ -216,3 +216,7 @@
 .w-full{
   width: 96% !important;
 }
+
+textarea[data-test-id="chat-input"] {
+  color: var(--chat--input--text-color, black) !important;
+}
