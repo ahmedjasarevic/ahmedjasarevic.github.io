@@ -22,6 +22,23 @@ const App = () => {
                   inputPlaceholder: 'What can I help you with?',
               },
         	},
+          theme: {
+    chatBackground: '#ffffff', // pozadina
+    mainColor: '#2f855a', // glavna boja (npr. dugmad, header)
+    userMessageBubble: {
+      backgroundColor: '#e2f0d9',
+      textColor: '#000000'
+    },
+    botMessageBubble: {
+      backgroundColor: '#f5f5f5',
+      textColor: '#000000'
+    },
+    input: {
+      backgroundColor: '#ffffff',
+      textColor: '#000000',
+      borderColor: '#cccccc'
+    }
+  }
         });
       });
   }, []);
