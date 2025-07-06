@@ -224,3 +224,7 @@
 body textarea[data-test-id="chat-input"] {
   color: black !important;
 }
+
+.chat-message.chat-message-from-user:not(.chat-message-transparent){
+  color: rgb(145 94 255 / var(--tw-text-opacity)) !important;
+}
