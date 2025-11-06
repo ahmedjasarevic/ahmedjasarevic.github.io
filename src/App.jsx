@@ -8,7 +8,7 @@ const App = () => {
     import('https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js')
       .then(({ createChat }) => {
         createChat({
-          webhookUrl: 'https://n8n-gjkiqtod.eu-central-1.clawcloudrun.com/webhook/e137dfbb-3366-4952-a287-dfa789ff6bbf/chat',
+          webhookUrl: 'https://n8n-62tp.onrender.com/webhook/9213a468-3ef7-4e09-b375-ce822dd7bdfc/chat',
           defaultLanguage: 'en',
           initialMessages: [
             "Hello! 👋",
