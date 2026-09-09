@@ -58,7 +58,7 @@ import {
     {
       id: "scrapers",
       title: "Scrapers",
-      url: "/scrapers.html",
+      url: "/scrapers/",
     },
   ];
   

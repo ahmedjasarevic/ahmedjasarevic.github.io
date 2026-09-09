@@ -12,7 +12,7 @@ const LIMIT = 100;
 const CONCURRENCY = 10;
 
 const SITE_URL = 'https://ahmedjasarevic.github.io';
-const SCRAPERS_URL = `${SITE_URL}/scrapers.html`;
+const SCRAPERS_URL = `${SITE_URL}/scrapers/`;
 const OG_IMAGE_URL = `${SITE_URL}/og-banner.svg`;
 
 const ROOT = path.join(__dirname, '..');
@@ -20,7 +20,7 @@ const PUBLIC_DIR = path.join(ROOT, 'public');
 const DATA_DIR = path.join(PUBLIC_DIR, 'data');
 const ACTORS_PATH = path.join(DATA_DIR, 'actors.json');
 const HTML_TEMPLATE_PATH = path.join(__dirname, 'scrapers.template.html');
-const HTML_PATH = path.join(PUBLIC_DIR, 'scrapers.html');
+const HTML_PATH = path.join(PUBLIC_DIR, 'scrapers', 'index.html');
 const SITEMAP_PATH = path.join(PUBLIC_DIR, 'sitemap.xml');
 
 const OTHER = 'Other';
@@ -399,6 +399,7 @@ function buildJsonLd(actors) {
     '@context': 'https://schema.org',
     '@type': 'ItemList',
     name: 'Apify Scrapers by Ahmed Jasarevic',
+    url: SCRAPERS_URL,
     description: `Collection of ${actors.length} public Apify actors for web scraping and automation.`,
     numberOfItems: actors.length,
     itemListElement: actors.map((actor, i) => ({
@@ -436,7 +437,7 @@ function updateSitemapDate() {
   const today = new Date().toISOString().split('T')[0];
   let sitemap = fs.readFileSync(SITEMAP_PATH, 'utf8');
   sitemap = sitemap.replace(
-    /(<loc>https:\/\/ahmedjasarevic\.github\.io\/scrapers\.html<\/loc>\s*<lastmod>)[^<]+(<\/lastmod>)/,
+    /(<loc>https:\/\/ahmedjasarevic\.github\.io\/scrapers\/<\/loc>\s*<lastmod>)[^<]+(<\/lastmod>)/,
     `$1${today}$2`
   );
   fs.writeFileSync(SITEMAP_PATH, sitemap, 'utf8');
@@ -557,6 +558,8 @@ async function main() {
   if (!fs.existsSync(HTML_TEMPLATE_PATH)) {
     throw new Error(`Template not found: ${HTML_TEMPLATE_PATH}`);
   }
+  const htmlDir = path.dirname(HTML_PATH);
+  if (!fs.existsSync(htmlDir)) fs.mkdirSync(htmlDir, { recursive: true });
   const template = fs.readFileSync(HTML_TEMPLATE_PATH, 'utf8');
   const html = renderHtml(template, sorted, stats, categoryNames, buildJsonLd(sorted));
   fs.writeFileSync(HTML_PATH, html, 'utf8');
