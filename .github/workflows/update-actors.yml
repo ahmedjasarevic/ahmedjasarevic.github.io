@@ -24,7 +24,7 @@ jobs:
       - name: Check for changes
         id: changes
         run: |
-          if git diff --quiet public/data/actors.json public/sitemap.xml public/scrapers/index.html; then
+          if git diff --quiet public/data/actors.json public/sitemap.xml public/scrapers.html public/scrapers/index.html; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/data/actors.json public/sitemap.xml public/scrapers/index.html
+          git add public/data/actors.json public/sitemap.xml public/scrapers.html public/scrapers/index.html
           git commit -m "chore: refresh actor list [automated]"
           git push
 

@@ -21,6 +21,7 @@ const DATA_DIR = path.join(PUBLIC_DIR, 'data');
 const ACTORS_PATH = path.join(DATA_DIR, 'actors.json');
 const HTML_TEMPLATE_PATH = path.join(__dirname, 'scrapers.template.html');
 const HTML_PATH = path.join(PUBLIC_DIR, 'scrapers', 'index.html');
+const LEGACY_HTML_PATH = path.join(PUBLIC_DIR, 'scrapers.html');
 const SITEMAP_PATH = path.join(PUBLIC_DIR, 'sitemap.xml');
 
 const OTHER = 'Other';
@@ -563,7 +564,8 @@ async function main() {
   const template = fs.readFileSync(HTML_TEMPLATE_PATH, 'utf8');
   const html = renderHtml(template, sorted, stats, categoryNames, buildJsonLd(sorted));
   fs.writeFileSync(HTML_PATH, html, 'utf8');
-  console.log(`Generated ${HTML_PATH}`);
+  fs.writeFileSync(LEGACY_HTML_PATH, html, 'utf8');
+  console.log(`Generated ${HTML_PATH} and legacy ${LEGACY_HTML_PATH}`);
 
   updateSitemapDate();
 
