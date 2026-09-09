@@ -42,3 +42,13 @@ jobs:
       - name: Ping Google sitemap
         if: steps.changes.outputs.changed == 'true'
         run: curl -s "https://www.google.com/ping?sitemap=https://ahmedjasarevic.github.io/sitemap.xml"
+
+      - name: Ping IndexNow
+        if: steps.changes.outputs.changed == 'true'
+        continue-on-error: true
+        run: |
+          HTTP_CODE=$(curl -s -o /tmp/indexnow-response.json -w "%{http_code}" -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d '{"host":"ahmedjasarevic.github.io","key":"41041159-a782-4fcd-b8f5-55a2ffdca2d6","keyLocation":"https://ahmedjasarevic.github.io/41041159-a782-4fcd-b8f5-55a2ffdca2d6.txt","urlList":["https://ahmedjasarevic.github.io/","https://ahmedjasarevic.github.io/scrapers/"]}')
+          echo "IndexNow HTTP status: ${HTTP_CODE} (200/202 = accepted)"
+          cat /tmp/indexnow-response.json
