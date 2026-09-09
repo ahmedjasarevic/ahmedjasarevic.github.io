@@ -33,6 +33,7 @@ import fiverr from "./company/fiverr.png";
 import politehnicki from "./company/politehnicki.png";
 import teleteg from "./company/teleteg.png";
 import universVacancesIcon from "./company/universVacancesIcon.svg";
+import bloomteq from "./company/bloomteq.png";
 
 import amoviedatabase from "./amoviedatabase.png";
 import kacunba from "./kacunba.png";
@@ -76,6 +77,7 @@ export {
   bootstrap,
   teleteg,
   universVacancesIcon,
+  bloomteq,
   website,
   domumgradnja,
   josipkrnic,

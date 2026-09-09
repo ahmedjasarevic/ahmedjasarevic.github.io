@@ -28,6 +28,7 @@ import {
     fiverr,
     politehnicki,
     teleteg,
+    bloomteq,
     domumgradnja,
     josipkrnic,
     technooutlet
@@ -185,8 +186,9 @@ import {
     {
       title: "Full Stack Developer Intern",
       company_name: "Bloomteq",
-      icon: web,
-      iconBg: "#383E56",
+      company_url: "https://bloomteq.com/",
+      icon: bloomteq,
+      iconBg: "#FBFAFF",
       date: "Apr 2026 - Present",
       points: [
         "Building HR and business automation platforms supporting 100+ employees.",
