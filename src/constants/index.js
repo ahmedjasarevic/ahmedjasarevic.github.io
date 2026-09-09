@@ -28,7 +28,6 @@ import {
     fiverr,
     politehnicki,
     teleteg,
-    universVacancesIcon,
     domumgradnja,
     josipkrnic,
     technooutlet
@@ -148,6 +147,34 @@ import {
       icon: bootstrap,
       color: '#33FF33' 
     },
+    {
+      name: "PHP",
+      color: '#777BB4'
+    },
+    {
+      name: "Laravel",
+      color: '#FF2D20'
+    },
+    {
+      name: "Angular",
+      color: '#DD0031'
+    },
+    {
+      name: "C++",
+      color: '#00599C'
+    },
+    {
+      name: "PostgreSQL",
+      color: '#336791'
+    },
+    {
+      name: "Apify",
+      color: '#F9A825'
+    },
+    {
+      name: "n8n",
+      color: '#EA4B71'
+    },
   ];
   
 
@@ -156,57 +183,52 @@ import {
   
   const experiences = [
     {
+      title: "Full Stack Developer Intern",
+      company_name: "Bloomteq",
+      icon: web,
+      iconBg: "#383E56",
+      date: "Apr 2026 - Present",
+      points: [
+        "Building HR and business automation platforms supporting 100+ employees.",
+        "Implementing authentication, role-based access control, and system integrations.",
+        "Integrating AI-powered workflows and third-party APIs to automate business processes.",
+      ],
+    },
+    {
       title: "Freelance Web Developer",
-      company_name: "Fiverr",
+      company_name: "Fiverr & Direct Clients",
       company_url: "https://www.fiverr.com/",
       icon: fiverr,
       iconBg: "#383E56",
       date: "2022 - Present",
       points: [
-        "Providing custom web scraping solutions using Python.",
-        "Successfully completed over 15 projects with 5-star ratings.",
-        "Developing websites using Django, WordPress, HTML, CSS, and JavaScript.",
-        "Delivering high-quality results based on client requirements.",
+        "Delivered custom web applications and automation solutions for 25+ international clients.",
+        "Built solutions across e-commerce, real estate, consulting, and SaaS industries.",
+        "Managed projects end-to-end, from requirements gathering to deployment and maintenance.",
       ],
     },
     {
       title: "Full Stack Developer",
       company_name: "Teleteg",
-      company_url:"https://teleteg.com/",
-      icon: teleteg, 
-      iconBg: "#F1F1F1", 
+      company_url: "https://teleteg.com/",
+      icon: teleteg,
+      iconBg: "#F1F1F1",
       date: "2023 - 2024",
       points: [
-        "Developed and enhanced Telegram Django/Python based search engine functionalities.",
-        "Implemented payment methods and integrated secure payment gateways.",
-        "Designed and managed a referral program to boost user engagement.",
-        "Worked on UI/UX design to improve user experience and interface.",
+        "Built and maintained a Telegram search platform using Django and Python.",
+        "Developed subscription management, payment processing, and referral systems.",
+        "Optimized backend services for searching millions of Telegram groups and channels.",
       ],
     },
     {
-      title: "Web Scraping Developer",
-      company_name: "Univers Vacances",
-      company_url: "https://www.univers-vacances.fr/",
-      icon: universVacancesIcon,
-      iconBg: "#383E56", 
-      date: "2023 - Present",
-      points: [
-        "Developed and maintained web scraping scripts to retrieve hotel data from various sites including Booking.com.",
-        "Implemented data extraction techniques to collect and process hotel information efficiently.",
-        "Created and optimized scripts for automated data collection and integration into databases.",
-        "Ensured data accuracy and reliability for client reporting and analysis.",
-      ],
-    },
-    {
-      title: "Software Engineering",
+      title: "Bachelor of Software Engineering",
       company_name: "Politehnicki fakultet Zenica",
       icon: politehnicki,
       company_url: "https://ptf.unze.ba/en/",
       iconBg: "#F1F1F1",
-      date: "2023 - Present",
+      date: "2023 - 2026",
       points: [
-        "Studying and applying advanced web development techniques.",
-        "Participating in university projects focused on technology and innovation.",
+        "Studying software engineering with a focus on web development and AI-powered systems.",
       ],
     },
   ];

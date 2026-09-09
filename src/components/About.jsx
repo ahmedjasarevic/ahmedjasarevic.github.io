@@ -32,11 +32,9 @@ const About = () => {
     <motion.p 
     className='mt-4 text-secondary text-[17px max-w-3xl leading-[30px]'
     variants={fadeIn("", "", 0.1, 1)}>
-As a student enrolled in Politehnički fakultet, focusing on software engineering, I am deeply immersed in the world of technology and innovation.
+Full-Stack Software Engineer with 4+ years of experience building SaaS platforms, AI-powered applications, automation systems, and custom business solutions.
 
-With a passion for crafting efficient and elegant solutions, I have honed my skills in a wide array of programming languages and frameworks. Proficient in C, C++, SQL, Python, and beyond, I thrive in environments where logical thinking and problem-solving are paramount.
-
-With a solid foundation in both backend and frontend development, I am adept at translating ideas into tangible, user-centric solution
+From web scraping and RAG pipelines to LLM integrations, I turn complex problems into efficient, production-ready products. Experienced across Laravel, Angular, Python, Django, and modern frontend stacks, I have delivered 20+ projects for international clients across e-commerce, real estate, consulting, and B2B industries — taking ideas from requirements gathering through development to deployment and maintenance.
     </motion.p>
     <div className='mt-20 flex flex-wrap gap-10'>
       {services.map((service,index) => (
