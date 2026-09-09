@@ -368,8 +368,38 @@
     .card-header {
       display: flex;
       align-items: flex-start;
-      justify-content: space-between;
-      gap: 12px;
+      gap: 14px;
+    }
+
+    .card-thumb {
+      width: 56px;
+      height: 56px;
+      border-radius: 12px;
+      object-fit: cover;
+      flex-shrink: 0;
+      background: var(--color-black-100);
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    }
+
+    .card-thumb-fallback {
+      width: 56px;
+      height: 56px;
+      border-radius: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+      background: var(--color-accent);
+      color: var(--color-white-100);
+      font-size: 24px;
+      font-weight: 700;
+      text-transform: uppercase;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.35);
+    }
+
+    .card-header-info {
+      flex: 1;
+      min-width: 0;
     }
 
     .card-title {
@@ -380,6 +410,8 @@
     }
 
     .card-category {
+      display: inline-block;
+      margin-top: 6px;
       font-size: 12px;
       font-weight: 600;
       text-transform: uppercase;
@@ -387,7 +419,6 @@
       padding: 4px 10px;
       border-radius: 999px;
       white-space: nowrap;
-      flex-shrink: 0;
     }
 
     .card-desc {
@@ -648,14 +679,25 @@
 
       function renderStats(actors) {
         const totalUsers = actors.reduce((sum, a) => sum + (a.totalUsers || 0), 0);
-        const categories = new Set(actors.map(a => a.category)).size;
+        const categories = new Set(actors.map(a => a.displayCategory || 'Other')).size;
         document.getElementById('statTotal').textContent = actors.length;
         document.getElementById('statUsers').textContent = formatNumber(totalUsers);
         document.getElementById('statCategories').textContent = categories;
       }
 
       function renderPills(actors) {
-        const cats = [...new Set(actors.map(a => a.category))].sort();
+        const counts = {};
+        actors.forEach(a => {
+          const dc = a.displayCategory || 'Other';
+          counts[dc] = (counts[dc] || 0) + 1;
+        });
+
+        const cats = Object.keys(counts).sort((x, y) => {
+          if (x === 'Other') return 1;
+          if (y === 'Other') return -1;
+          return counts[y] - counts[x];
+        });
+
         const container = document.getElementById('categoryPills');
         container.innerHTML = '';
 
@@ -689,14 +731,15 @@
         const sort = document.getElementById('sortSelect').value;
 
         if (activeCategory) {
-          actors = actors.filter(a => a.category === activeCategory);
+          actors = actors.filter(a => (a.displayCategory || 'Other') === activeCategory);
         }
 
         if (query) {
           actors = actors.filter(a =>
             a.title.toLowerCase().includes(query) ||
             a.description.toLowerCase().includes(query) ||
-            a.category.toLowerCase().includes(query)
+            (a.category || '').toLowerCase().includes(query) ||
+            (a.displayCategory || 'Other').toLowerCase().includes(query)
           );
         }
 
@@ -731,7 +774,8 @@
         grid.className = 'cards-grid';
 
         actors.forEach(actor => {
-          const color = getCategoryColor(actor.category);
+          const displayCategory = actor.displayCategory || actor.category || 'Other';
+          const color = getCategoryColor(displayCategory);
           let pricingLabel = '';
           const model = actor.pricing && actor.pricing.model;
           const price = actor.pricing && actor.pricing.pricePerUnit;
@@ -747,12 +791,19 @@
             pricingLabel = model.charAt(0).toUpperCase() + model.slice(1);
           }
 
+          const thumb = actor.imageUrl
+            ? '<img class="card-thumb" src="' + escapeHtml(actor.imageUrl) + '" alt="" loading="lazy">'
+            : '<div class="card-thumb-fallback">' + escapeHtml((actor.title || '?').charAt(0)) + '</div>';
+
           const card = document.createElement('div');
           card.className = 'actor-card';
           card.innerHTML = `
             <div class="card-header">
-              <div class="card-title">${escapeHtml(actor.title)}</div>
-              <span class="card-category" style="background:${color.bg};color:${color.text}">${escapeHtml(actor.category)}</span>
+              ${thumb}
+              <div class="card-header-info">
+                <div class="card-title">${escapeHtml(actor.title)}</div>
+                <span class="card-category" style="background:${color.bg};color:${color.text}">${escapeHtml(displayCategory)}</span>
+              </div>
             </div>
             <div class="card-desc">${escapeHtml(actor.description)}</div>
             <div class="card-meta">
