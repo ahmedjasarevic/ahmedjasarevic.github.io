@@ -449,7 +449,7 @@
       "pricePerUnit": 0.0009
     },
     "totalUsers": 3,
-    "totalRuns": 33,
+    "totalRuns": 34,
     "lastModified": "2026-09-06T15:29:19.484Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -582,7 +582,7 @@
       "pricePerUnit": 0.0019
     },
     "totalUsers": 1,
-    "totalRuns": 40,
+    "totalRuns": 41,
     "lastModified": "2026-09-06T14:27:12.552Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -601,7 +601,7 @@
       "pricePerUnit": 0.00095
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 30,
     "lastModified": "2026-09-06T14:27:00.730Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -829,7 +829,7 @@
       "pricePerUnit": 0.0025
     },
     "totalUsers": 23,
-    "totalRuns": 268,
+    "totalRuns": 269,
     "lastModified": "2026-09-06T14:22:07.385Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -886,7 +886,7 @@
       "pricePerUnit": 0.0025
     },
     "totalUsers": 2,
-    "totalRuns": 45,
+    "totalRuns": 46,
     "lastModified": "2026-09-06T14:10:55.799Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1380,7 +1380,7 @@
       "pricePerUnit": 0.005
     },
     "totalUsers": 2,
-    "totalRuns": 28,
+    "totalRuns": 29,
     "lastModified": "2026-09-06T12:11:45.604Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1836,7 +1836,7 @@
       "pricePerUnit": 0.0028
     },
     "totalUsers": 2,
-    "totalRuns": 239,
+    "totalRuns": 240,
     "lastModified": "2026-09-06T12:11:35.903Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2026,7 +2026,7 @@
       "pricePerUnit": 0.004
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 15,
     "lastModified": "2026-09-06T12:11:31.583Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2064,7 +2064,7 @@
       "pricePerUnit": 0.003
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 15,
     "lastModified": "2026-09-06T12:11:30.715Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2387,7 +2387,7 @@
       "pricePerUnit": 0.005
     },
     "totalUsers": 244,
-    "totalRuns": 18884,
+    "totalRuns": 18897,
     "lastModified": "2026-09-06T12:11:22.836Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -2615,7 +2615,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 12,
+    "totalRuns": 13,
     "lastModified": "2026-09-02T08:00:54.079Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2767,7 +2767,7 @@
       "pricePerUnit": 0.0022
     },
     "totalUsers": 175,
-    "totalRuns": 1219,
+    "totalRuns": 1221,
     "lastModified": "2026-08-31T12:27:18.118Z",
     "rating": 5,
     "hasDeepDive": false,
