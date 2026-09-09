@@ -25,11 +25,11 @@ const Navbar = () => {
                 } hover:text-white text-[18px] font-medium cursor-pointer`}
                 onClick={() => setActive(link.title)}
               >
-                <a href={`#${link.id}`}>{link.title}</a>
-              </li>
-            ))}
-          </ul>
-        </div>
+              <a href={link.url || `#${link.id}`}>{link.title}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
 
       
         {/* Icons for GitHub and LinkedIn on the right */}
@@ -75,9 +75,9 @@ const Navbar = () => {
                     setActive(link.title);
                   }}
                 >
-                  <a href={`#${link.id}`}>{link.title}</a>
-                </li>
-              ))}
+              <a href={link.url || `#${link.id}`}>{link.title}</a>
+            </li>
+          ))}
             </ul>
           </div>
         </div>

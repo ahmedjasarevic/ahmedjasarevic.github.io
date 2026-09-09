@@ -1,0 +1,44 @@
+name: Update Actors
+
+on:
+  schedule:
+    - cron: '0 3 * * 0'
+  workflow_dispatch:
+
+jobs:
+  update-actors:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch actors from Apify store
+        run: node scripts/fetch-actors.js
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if git diff --quiet public/data/actors.json public/sitemap.xml public/scrapers.html; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/data/actors.json public/sitemap.xml public/scrapers.html
+          git commit -m "chore: refresh actor list [automated]"
+          git push
+
+      - name: Ping Google sitemap
+        if: steps.changes.outputs.changed == 'true'
+        run: curl -s "https://www.google.com/ping?sitemap=https://ahmedjasarevic.github.io/sitemap.xml"
