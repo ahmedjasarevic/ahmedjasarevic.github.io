@@ -52,6 +52,28 @@ function loadExistingActors() {
   }
 }
 
+const DISPLAY_CATEGORY_MAP = {
+  real_estate: 'Real Estate',
+  jobs: 'Jobs',
+  social_media: 'Social Media',
+  videos: 'Social Media',
+  lead_generation: 'Lead Generation',
+  agents: 'Lead Generation',
+  ecommerce: 'E-commerce',
+  seo_tools: 'SEO & AI Tools',
+  ai: 'SEO & AI Tools',
+  automation: 'SEO & AI Tools',
+  developer_tools: 'SEO & AI Tools',
+  travel: 'Travel',
+  news: 'Other',
+};
+
+const OTHER_CATEGORY = 'Other';
+
+function deriveDisplayCategory(rawCategory) {
+  return DISPLAY_CATEGORY_MAP[rawCategory] || OTHER_CATEGORY;
+}
+
 function derivePricing(info) {
   if (!info) return { model: 'unknown', pricePerUnit: null };
 
@@ -90,13 +112,16 @@ function normalizeActor(raw, existingMap) {
 
   const stats = raw.stats || {};
   const categories = Array.isArray(raw.categories) ? raw.categories : [];
+  const rawCategory = categories.length ? categories[0].toLowerCase() : 'uncategorized';
 
   return {
     title: raw.title || raw.name || 'Untitled',
     slug,
     url: raw.url || `https://apify.com/${USERNAME}/${slug}`,
     description: raw.description || '',
-    category: categories.length ? categories[0].toLowerCase() : 'uncategorized',
+    category: rawCategory,
+    displayCategory: deriveDisplayCategory(rawCategory),
+    imageUrl: raw.pictureUrl || null,
     pricing: derivePricing(raw.currentPricingInfo),
     totalUsers: stats.totalUsers ?? 0,
     lastModified: stats.lastRunStartedAt || raw.lastModified || null,
