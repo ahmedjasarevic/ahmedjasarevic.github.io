@@ -1,5 +1,214 @@
 [
   {
+    "title": "Moz Scraper [Only $5💰/1K] | Domain Authority | Backlinks",
+    "slug": "moz-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/moz-scraper",
+    "description": "Check Moz Domain Authority, Spam Score, backlinks and ranking keywords for any list of domains - no Moz account needed. Bulk DA checks for link building and SEO competitor analysis.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TpEHUvfcbyMh0FYwD-ooAL7mKByn-moz.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 10,
+    "lastModified": "2026-09-18T09:00:13.626Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "PagineGialle Scraper $1.5/1K💰 | Italy B2B Leads | Reviews",
+    "slug": "paginegialle-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/paginegialle-scraper",
+    "description": "Collect Italian business leads from PagineGialle.it — Italy's Yellow Pages. Get phones, emails, websites, addresses, opening hours and customer reviews for B2B prospecting, CRM enrichment, local SEO and Italian market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-72AQeA5fbihq4zz7i-CbQOYPxiyo-unnamed_%2818%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": 0.0015
+    },
+    "totalUsers": 2,
+    "totalRuns": 25,
+    "lastModified": "2026-09-18T07:56:28.599Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Apartments.com Scraper $1/1K💰 | Rent Listings | US Rental Data",
+    "slug": "apartments-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/apartments-scraper",
+    "description": "Extract US rental listings from Apartments.com without an official API key. Get rent prices, beds/baths, square footage, addresses and leasing-office phones for rent comps, rental market research and apartment price monitoring.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-UX7M73A05l8a6eCkx-dp7zTxVx3J-unnamed_%2815%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 112,
+    "lastModified": "2026-09-18T07:55:58.000Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Mobile.de Scraper [Only $0.7💰] | German Car Data | Dealers",
+    "slug": "suchen-mobile-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/suchen-mobile-scraper",
+    "description": "Scrape mobile.de vehicle listings - prices, specs, dealer contacts, ratings and dealer inventories. German car market data for dealers, analysts and export/resale arbitrage.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-QfrTh6puNiicN8JCh-PbAwvljR55-unnamed_%281%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": 0.0007
+    },
+    "totalUsers": 2,
+    "totalRuns": 4,
+    "lastModified": "2026-09-17T16:09:17.600Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Copart Scraper [$0.7/1K💰] | Salvage Auctions | Bids & VINs",
+    "slug": "copart-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/copart-scraper",
+    "description": "Extract Copart salvage auction lot data - VIN, damage, bids, buy-it-now price and yard location - for car flipping, export deals, parts sourcing and auction market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-cIRPJiE9JW0AEB7KK-YwExP2exZ3-images_%286%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 14,
+    "lastModified": "2026-09-17T16:06:34.382Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Target.com Scraper [From $1.3/1K💰] | Prices | Reviews | Stock",
+    "slug": "target-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/target-scraper",
+    "description": "Extract Target.com product data — prices, ratings, reviews, UPC, DPCI, images and store-level pickup/shipping availability — for price monitoring, market research and retail price intelligence. No API key or proxy required for products.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-MCEgfkMHTYMkdbkfe-2ls9bGe6Gr-thumbnail-0067f447-c3e7-4fa0-abbe-e392fd60222d.png",
+    "category": "uncategorized",
+    "displayCategory": "Finance",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 70,
+    "lastModified": "2026-09-17T07:46:13.814Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "USAJOBS Scraper [$0.9/1K💰] | Federal Jobs | GS Pay | Clearance",
+    "slug": "usajobs-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/usajobs-scraper",
+    "description": "Extract USAJOBS federal job announcements without an API key — agency, salary range, GS pay grade, security clearance, remote & telework flags, hiring paths, duty locations and closing dates. Built for job boards, federal recruiters and hiring research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-AK8aafgFGGemhyqGm-zhuDjbpCXn-unnamed_%281%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 10,
+    "lastModified": "2026-09-16T22:01:23.937Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "99acres Scraper [Only $1.5/1k💰] | Rent, Buy, PG & Commercial",
+    "slug": "99acres-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/99acres-scraper",
+    "description": "Scrape sale and rental property listings from 99acres.com — India's largest real estate portal. Get price in INR lakh/crore, BHK, area, locality + GPS coordinates, amenities, RERA ID, builder/agent contact, photos and verification status for market research and price monitoring.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-dmPqVj9sak5IuiP44-QgKXtf7BdH-sMUIjSpJT1zbkPiNM-actor-8MgxjO4SGMmtdmsDu-H3QFCJkgeM-99acres_log",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 11,
+    "lastModified": "2026-09-16T15:55:17.659Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Zocdoc Scraper [Only $3.5/1K💰] | Doctor Ratings & Availability",
+    "slug": "zocdoc-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/zocdoc-scraper",
+    "description": "Scrape Zocdoc doctors by specialty and location for healthcare lead generation: doctor names, specialties, ratings, reviews, insurance flags, next-available appointment slots, addresses, phone numbers and coordinates. Fast API-based scraping — no browser, no login.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gcSgPV0cDKKmz4LvR-jDr3673FFA-zocdoc_logo.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 8,
+    "lastModified": "2026-09-16T15:55:07.255Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Care.com Scraper [Only $4/1K💰] | Caregiver Leads | Senior Care",
+    "slug": "care-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/care-scraper",
+    "description": "Extract caregiver, nanny, babysitter and senior care provider profiles from care.com by service and location: hourly rates, ratings, experience, bios and CareCheck background-check badges. Built for home care agency lead generation and caregiver market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-2YEcR4nDvfiAxpi5e-5CrEI0E1PR-carelogo.png",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 7,
+    "lastModified": "2026-09-16T15:54:44.239Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Inmuebles24 Scraper [Only $0.9💰] | Mexico Property + Leads",
+    "slug": "inmuebles24-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/inmuebles24-scraper",
+    "description": "Scrape Inmuebles24.com — Mexico's largest real estate marketplace. Get property listings with prices, area, bedrooms, location and publisher WhatsApp/phone leads for Mexico real estate market research and lead generation.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-DPYRtu3dF6yoPDh6p-3n6SFJAGLe-inmuebles_24_logo.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 99,
+    "lastModified": "2026-09-16T14:49:45.051Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
     "title": "Linktree Lead Scraper  💰 | Categories | Creators | Leads",
     "slug": "linktree-advanced-lead-scraper",
     "url": "https://apify.com/ahmed_jasarevic/linktree-advanced-lead-scraper",
@@ -9,10 +218,10 @@
     "displayCategory": "Lead Generation",
     "pricing": {
       "model": "pay-per-event",
-      "pricePerUnit": 0.005
+      "pricePerUnit": null
     },
     "totalUsers": 21,
-    "totalRuns": 158,
+    "totalRuns": 160,
     "lastModified": "2026-09-16T09:37:48.282Z",
     "rating": 5.000000000000001,
     "hasDeepDive": false,
@@ -28,10 +237,10 @@
     "displayCategory": "Lead Generation",
     "pricing": {
       "model": "pay-per-event",
-      "pricePerUnit": 0.005
+      "pricePerUnit": null
     },
-    "totalUsers": 251,
-    "totalRuns": 19334,
+    "totalUsers": 252,
+    "totalRuns": 19551,
     "lastModified": "2026-09-16T09:37:11.612Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -50,7 +259,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 9,
-    "totalRuns": 330,
+    "totalRuns": 333,
     "lastModified": "2026-09-15T22:11:03.067Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -69,28 +278,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 10,
     "lastModified": "2026-09-15T20:13:09.979Z",
-    "rating": null,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Inmuebles24 Scraper [Only $0.0009💰] | Mexico Property + Leads",
-    "slug": "inmuebles24-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/inmuebles24-scraper",
-    "description": "Scrape Inmuebles24.com — Mexico's largest real estate marketplace. Get property listings with prices, area, bedrooms, location and publisher WhatsApp/phone leads for Mexico real estate market research and lead generation.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-DPYRtu3dF6yoPDh6p-3n6SFJAGLe-inmuebles_24_logo.jfif",
-    "category": "uncategorized",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 85,
-    "lastModified": "2026-09-15T19:51:46.566Z",
-    "rating": null,
+    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -107,7 +297,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 64,
+    "totalRuns": 66,
     "lastModified": "2026-09-15T19:30:03.336Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -126,7 +316,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 28,
-    "totalRuns": 381,
+    "totalRuns": 384,
     "lastModified": "2026-09-15T16:53:57.269Z",
     "rating": 5.000000000000001,
     "hasDeepDive": false,
@@ -145,7 +335,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 48,
+    "totalRuns": 50,
     "lastModified": "2026-09-15T15:08:30.507Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -164,9 +354,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 30,
+    "totalRuns": 32,
     "lastModified": "2026-09-15T15:08:28.761Z",
-    "rating": null,
+    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -183,7 +373,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 31,
     "lastModified": "2026-09-14T22:03:22.924Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -202,7 +392,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 65,
+    "totalRuns": 67,
     "lastModified": "2026-09-14T22:02:24.529Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -221,7 +411,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 33,
+    "totalRuns": 35,
     "lastModified": "2026-09-14T21:58:43.415Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -240,7 +430,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 37,
+    "totalRuns": 39,
     "lastModified": "2026-09-14T21:57:50.828Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -259,7 +449,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 35,
     "lastModified": "2026-09-14T21:56:54.830Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -278,7 +468,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 44,
+    "totalRuns": 46,
     "lastModified": "2026-09-14T21:56:21.920Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -297,7 +487,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 31,
     "lastModified": "2026-09-14T21:55:36.233Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -316,7 +506,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 41,
+    "totalRuns": 43,
     "lastModified": "2026-09-14T21:54:18.597Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -335,7 +525,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 22,
     "lastModified": "2026-09-14T21:53:35.152Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -354,7 +544,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 62,
+    "totalRuns": 64,
     "lastModified": "2026-09-14T21:52:38.094Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -373,7 +563,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 20,
     "lastModified": "2026-09-14T21:51:11.806Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -392,7 +582,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 12,
-    "totalRuns": 237,
+    "totalRuns": 245,
     "lastModified": "2026-09-14T21:38:33.264Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -411,7 +601,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 40,
     "lastModified": "2026-09-14T18:29:06.464Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -430,7 +620,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 10,
     "lastModified": "2026-09-14T18:28:43.045Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -449,7 +639,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 10,
     "lastModified": "2026-09-14T14:42:54.552Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -468,7 +658,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 19,
+    "totalRuns": 21,
     "lastModified": "2026-09-14T14:42:53.633Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -487,7 +677,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 12,
     "lastModified": "2026-09-14T14:42:52.582Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -506,7 +696,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 10,
     "lastModified": "2026-09-14T14:00:10.931Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -525,7 +715,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 77,
+    "totalRuns": 79,
     "lastModified": "2026-09-14T14:00:02.749Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -543,8 +733,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 23,
+    "totalUsers": 4,
+    "totalRuns": 28,
     "lastModified": "2026-09-14T13:59:58.417Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -562,8 +752,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 31,
+    "totalUsers": 3,
+    "totalRuns": 35,
     "lastModified": "2026-09-14T13:59:54.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -582,7 +772,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 13,
+    "totalRuns": 15,
     "lastModified": "2026-09-14T13:59:43.710Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -600,8 +790,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 21,
+    "totalUsers": 2,
+    "totalRuns": 24,
     "lastModified": "2026-09-14T13:59:36.608Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -619,8 +809,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 41,
+    "totalUsers": 3,
+    "totalRuns": 49,
     "lastModified": "2026-09-14T13:59:32.828Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -639,7 +829,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 19,
+    "totalRuns": 21,
     "lastModified": "2026-09-14T13:59:29.205Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -658,7 +848,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 24,
+    "totalRuns": 26,
     "lastModified": "2026-09-14T13:59:25.008Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -677,7 +867,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 23,
+    "totalRuns": 25,
     "lastModified": "2026-09-14T13:59:20.896Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -696,7 +886,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 30,
+    "totalRuns": 32,
     "lastModified": "2026-09-14T13:59:17.187Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -715,7 +905,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 156,
+    "totalRuns": 158,
     "lastModified": "2026-09-14T13:59:13.675Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -733,8 +923,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 46,
+    "totalUsers": 1,
+    "totalRuns": 49,
     "lastModified": "2026-09-14T13:59:09.494Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -753,7 +943,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 10,
     "lastModified": "2026-09-14T13:25:58.139Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -772,7 +962,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 13,
+    "totalRuns": 15,
     "lastModified": "2026-09-14T13:25:47.539Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -791,7 +981,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 6,
+    "totalRuns": 8,
     "lastModified": "2026-09-14T13:25:43.689Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -810,7 +1000,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 51,
+    "totalRuns": 54,
     "lastModified": "2026-09-14T13:25:32.665Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -829,7 +1019,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 17,
+    "totalRuns": 19,
     "lastModified": "2026-09-14T13:25:21.063Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -848,7 +1038,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 7,
+    "totalRuns": 9,
     "lastModified": "2026-09-14T13:25:17.445Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -867,7 +1057,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 17,
+    "totalRuns": 19,
     "lastModified": "2026-09-14T13:25:09.973Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -886,7 +1076,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 11,
+    "totalRuns": 13,
     "lastModified": "2026-09-14T13:24:43.662Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -905,7 +1095,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 24,
+    "totalRuns": 26,
     "lastModified": "2026-09-14T13:24:36.059Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -924,7 +1114,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 72,
+    "totalRuns": 74,
     "lastModified": "2026-09-14T13:24:32.010Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -942,8 +1132,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 38,
+    "totalUsers": 4,
+    "totalRuns": 44,
     "lastModified": "2026-09-14T13:24:23.765Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -962,7 +1152,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 13,
+    "totalRuns": 15,
     "lastModified": "2026-09-14T13:24:16.675Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -981,7 +1171,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 12,
+    "totalRuns": 14,
     "lastModified": "2026-09-14T13:14:09.155Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -999,8 +1189,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 13,
+    "totalUsers": 3,
+    "totalRuns": 16,
     "lastModified": "2026-09-14T13:14:05.033Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1019,7 +1209,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 5,
+    "totalRuns": 7,
     "lastModified": "2026-09-14T13:14:01.359Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1038,7 +1228,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 41,
+    "totalRuns": 43,
     "lastModified": "2026-09-14T13:13:57.561Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1057,7 +1247,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 40,
+    "totalRuns": 42,
     "lastModified": "2026-09-14T13:13:53.432Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1076,7 +1266,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 22,
     "lastModified": "2026-09-14T13:13:46.178Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1095,7 +1285,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 30,
+    "totalRuns": 32,
     "lastModified": "2026-09-14T13:13:42.166Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1114,7 +1304,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 23,
+    "totalRuns": 25,
     "lastModified": "2026-09-14T13:13:34.889Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1133,7 +1323,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 22,
     "lastModified": "2026-09-14T13:13:31.157Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1152,7 +1342,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 27,
+    "totalRuns": 29,
     "lastModified": "2026-09-14T13:13:27.161Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1171,7 +1361,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 7,
+    "totalRuns": 9,
     "lastModified": "2026-09-14T13:13:23.941Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1190,7 +1380,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 57,
+    "totalRuns": 63,
     "lastModified": "2026-09-14T13:13:20.099Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1209,7 +1399,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 36,
+    "totalRuns": 38,
     "lastModified": "2026-09-14T13:13:13.075Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1228,7 +1418,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 24,
+    "totalRuns": 26,
     "lastModified": "2026-09-14T13:13:09.448Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1247,7 +1437,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 17,
+    "totalRuns": 19,
     "lastModified": "2026-09-14T13:13:05.929Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1265,8 +1455,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 19,
+    "totalUsers": 3,
+    "totalRuns": 22,
     "lastModified": "2026-09-14T13:12:55.422Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1285,7 +1475,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 26,
+    "totalRuns": 28,
     "lastModified": "2026-09-14T13:12:51.523Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1304,7 +1494,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 22,
+    "totalRuns": 24,
     "lastModified": "2026-09-14T13:12:47.843Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1323,7 +1513,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 50,
+    "totalRuns": 52,
     "lastModified": "2026-09-14T13:12:43.978Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1342,7 +1532,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 22,
     "lastModified": "2026-09-14T13:12:40.173Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1361,7 +1551,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 19,
+    "totalRuns": 21,
     "lastModified": "2026-09-14T13:12:36.288Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1380,7 +1570,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 23,
     "lastModified": "2026-09-14T13:12:32.565Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1399,7 +1589,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 23,
     "lastModified": "2026-09-14T13:12:28.695Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1418,7 +1608,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 22,
+    "totalRuns": 24,
     "lastModified": "2026-09-14T12:58:11.094Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1437,7 +1627,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 87,
+    "totalRuns": 89,
     "lastModified": "2026-09-14T12:58:04.313Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1455,8 +1645,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 27,
+    "totalUsers": 3,
+    "totalRuns": 31,
     "lastModified": "2026-09-14T12:57:56.806Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1475,7 +1665,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 43,
+    "totalRuns": 47,
     "lastModified": "2026-09-14T12:57:50.550Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1494,7 +1684,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 28,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T12:57:43.498Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1513,7 +1703,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 48,
+    "totalRuns": 51,
     "lastModified": "2026-09-14T12:57:37.901Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1532,7 +1722,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 41,
+    "totalRuns": 43,
     "lastModified": "2026-09-14T12:57:27.175Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1551,7 +1741,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 25,
+    "totalRuns": 27,
     "lastModified": "2026-09-14T12:57:18.673Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1570,7 +1760,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 63,
+    "totalRuns": 65,
     "lastModified": "2026-09-14T12:57:08.314Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1589,7 +1779,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 28,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T12:57:01.830Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1608,7 +1798,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 37,
     "lastModified": "2026-09-14T12:56:50.472Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1627,7 +1817,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 28,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T12:56:41.298Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1646,7 +1836,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 28,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T12:56:34.860Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1665,7 +1855,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 28,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T12:56:28.580Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1684,7 +1874,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 27,
+    "totalRuns": 29,
     "lastModified": "2026-09-14T12:56:22.148Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1703,7 +1893,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 30,
+    "totalRuns": 32,
     "lastModified": "2026-09-14T12:56:15.842Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1722,7 +1912,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 27,
+    "totalRuns": 29,
     "lastModified": "2026-09-14T12:56:09.661Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1741,7 +1931,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 28,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T12:55:55.378Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1760,7 +1950,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 66,
+    "totalRuns": 68,
     "lastModified": "2026-09-14T12:34:44.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1779,7 +1969,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 36,
+    "totalRuns": 38,
     "lastModified": "2026-09-14T12:34:37.026Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1798,7 +1988,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 31,
     "lastModified": "2026-09-14T12:34:32.542Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1817,7 +2007,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 30,
+    "totalRuns": 32,
     "lastModified": "2026-09-14T12:34:25.377Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1835,8 +2025,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 50,
+    "totalUsers": 7,
+    "totalRuns": 60,
     "lastModified": "2026-09-14T12:34:21.600Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1855,7 +2045,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 40,
+    "totalRuns": 42,
     "lastModified": "2026-09-14T12:34:18.067Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1874,7 +2064,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 31,
+    "totalRuns": 33,
     "lastModified": "2026-09-14T12:34:14.444Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1892,8 +2082,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 164,
+    "totalUsers": 6,
+    "totalRuns": 182,
     "lastModified": "2026-09-14T12:34:10.983Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1912,7 +2102,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 36,
+    "totalRuns": 38,
     "lastModified": "2026-09-14T12:34:07.448Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1931,7 +2121,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 47,
+    "totalRuns": 49,
     "lastModified": "2026-09-14T12:34:03.946Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1950,7 +2140,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 32,
+    "totalRuns": 34,
     "lastModified": "2026-09-14T12:33:56.866Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1969,7 +2159,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 35,
     "lastModified": "2026-09-14T12:33:53.271Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1988,7 +2178,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 36,
     "lastModified": "2026-09-14T12:33:48.436Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2007,7 +2197,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 41,
     "lastModified": "2026-09-14T12:33:41.671Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2026,7 +2216,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 32,
+    "totalRuns": 34,
     "lastModified": "2026-09-14T12:33:35.097Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2045,7 +2235,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 52,
+    "totalRuns": 54,
     "lastModified": "2026-09-14T12:33:28.303Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2064,7 +2254,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 35,
+    "totalRuns": 37,
     "lastModified": "2026-09-14T12:33:21.181Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2083,7 +2273,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 36,
     "lastModified": "2026-09-14T12:33:14.701Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2102,7 +2292,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 57,
+    "totalRuns": 59,
     "lastModified": "2026-09-14T12:33:08.352Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2121,7 +2311,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 45,
+    "totalRuns": 47,
     "lastModified": "2026-09-14T12:33:01.711Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2140,7 +2330,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 57,
+    "totalRuns": 59,
     "lastModified": "2026-09-14T12:32:54.887Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2159,7 +2349,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 40,
+    "totalRuns": 42,
     "lastModified": "2026-09-14T12:32:47.937Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2178,7 +2368,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 43,
+    "totalRuns": 45,
     "lastModified": "2026-09-14T12:32:39.843Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2197,7 +2387,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 41,
+    "totalRuns": 43,
     "lastModified": "2026-09-14T12:19:53.391Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2215,8 +2405,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 50,
+    "totalUsers": 1,
+    "totalRuns": 53,
     "lastModified": "2026-09-14T12:19:50.044Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2235,7 +2425,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 42,
+    "totalRuns": 44,
     "lastModified": "2026-09-14T12:19:46.484Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2254,7 +2444,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 42,
+    "totalRuns": 44,
     "lastModified": "2026-09-14T12:19:42.728Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2273,7 +2463,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 56,
+    "totalRuns": 58,
     "lastModified": "2026-09-14T12:19:34.291Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2311,7 +2501,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 191,
+    "totalRuns": 193,
     "lastModified": "2026-09-14T12:19:27.293Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2330,7 +2520,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 78,
-    "totalRuns": 267,
+    "totalRuns": 269,
     "lastModified": "2026-09-14T12:19:23.888Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2349,7 +2539,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 167,
+    "totalRuns": 169,
     "lastModified": "2026-09-14T12:19:21.091Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2368,7 +2558,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 13,
-    "totalRuns": 156,
+    "totalRuns": 158,
     "lastModified": "2026-09-14T12:19:18.609Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2387,7 +2577,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 8,
-    "totalRuns": 157,
+    "totalRuns": 159,
     "lastModified": "2026-09-14T12:19:15.488Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2406,7 +2596,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 146,
+    "totalRuns": 148,
     "lastModified": "2026-09-14T12:19:12.100Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2425,7 +2615,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 140,
+    "totalRuns": 142,
     "lastModified": "2026-09-14T12:19:08.652Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2444,7 +2634,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 152,
+    "totalRuns": 154,
     "lastModified": "2026-09-14T12:19:05.806Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2463,7 +2653,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 147,
+    "totalRuns": 149,
     "lastModified": "2026-09-14T12:19:00.254Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2482,7 +2672,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 171,
+    "totalRuns": 174,
     "lastModified": "2026-09-14T12:18:57.801Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2500,8 +2690,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 18,
-    "totalRuns": 3797,
+    "totalUsers": 19,
+    "totalRuns": 3800,
     "lastModified": "2026-09-14T12:18:54.806Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2520,7 +2710,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 23,
-    "totalRuns": 275,
+    "totalRuns": 277,
     "lastModified": "2026-09-14T12:18:51.407Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2538,8 +2728,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 271,
+    "totalUsers": 4,
+    "totalRuns": 301,
     "lastModified": "2026-09-14T12:18:47.868Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2558,7 +2748,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 12,
-    "totalRuns": 202,
+    "totalRuns": 204,
     "lastModified": "2026-09-14T12:18:44.483Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2577,7 +2767,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 32,
-    "totalRuns": 217,
+    "totalRuns": 219,
     "lastModified": "2026-09-14T12:18:41.697Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2596,7 +2786,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 56,
+    "totalRuns": 58,
     "lastModified": "2026-09-14T12:14:59.431Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -2615,7 +2805,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 8,
-    "totalRuns": 257,
+    "totalRuns": 259,
     "lastModified": "2026-09-14T11:57:29.324Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2634,7 +2824,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 10,
-    "totalRuns": 278,
+    "totalRuns": 280,
     "lastModified": "2026-09-14T11:45:58.424Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2652,8 +2842,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 177,
-    "totalRuns": 1268,
+    "totalUsers": 178,
+    "totalRuns": 1279,
     "lastModified": "2026-09-14T11:42:56.976Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -2672,7 +2862,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 9,
-    "totalRuns": 382,
+    "totalRuns": 384,
     "lastModified": "2026-09-14T11:42:50.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2691,7 +2881,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 168,
+    "totalRuns": 170,
     "lastModified": "2026-09-14T11:42:44.867Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2710,7 +2900,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 172,
+    "totalRuns": 174,
     "lastModified": "2026-09-14T11:42:43.064Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2729,7 +2919,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 162,
+    "totalRuns": 164,
     "lastModified": "2026-09-14T11:42:40.800Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2748,7 +2938,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 14,
-    "totalRuns": 394,
+    "totalRuns": 396,
     "lastModified": "2026-09-14T11:42:38.758Z",
     "rating": 3.044236573534491,
     "hasDeepDive": false,
@@ -2767,7 +2957,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 30,
-    "totalRuns": 472,
+    "totalRuns": 475,
     "lastModified": "2026-09-14T10:55:22.252Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2786,7 +2976,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 25,
-    "totalRuns": 198,
+    "totalRuns": 200,
     "lastModified": "2026-09-14T10:55:15.829Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2805,7 +2995,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 153,
+    "totalRuns": 155,
     "lastModified": "2026-09-14T10:55:07.224Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2824,7 +3014,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 17,
-    "totalRuns": 221,
+    "totalRuns": 223,
     "lastModified": "2026-09-14T10:55:04.930Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2843,7 +3033,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 10,
-    "totalRuns": 190,
+    "totalRuns": 192,
     "lastModified": "2026-09-14T10:54:58.737Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2862,7 +3052,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 17,
-    "totalRuns": 540,
+    "totalRuns": 603,
     "lastModified": "2026-09-14T10:54:56.123Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2881,7 +3071,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 20,
-    "totalRuns": 292,
+    "totalRuns": 296,
     "lastModified": "2026-09-14T10:54:39.147Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2900,7 +3090,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 66,
-    "totalRuns": 654,
+    "totalRuns": 656,
     "lastModified": "2026-09-14T10:54:32.378Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -2918,8 +3108,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 12,
+    "totalUsers": 3,
+    "totalRuns": 16,
     "lastModified": "2026-09-14T10:31:43.396Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2938,7 +3128,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 154,
+    "totalRuns": 156,
     "lastModified": "2026-09-14T09:24:51.791Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2956,8 +3146,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 100,
+    "totalUsers": 2,
+    "totalRuns": 106,
     "lastModified": "2026-09-14T09:23:34.194Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2976,7 +3166,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 7,
+    "totalRuns": 9,
     "lastModified": "2026-09-14T09:12:36.186Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2995,7 +3185,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 178,
+    "totalRuns": 180,
     "lastModified": "2026-09-14T09:05:42.506Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -3014,7 +3204,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 70,
+    "totalRuns": 72,
     "lastModified": "2026-09-14T08:59:21.202Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3033,7 +3223,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 16,
     "lastModified": "2026-09-14T08:39:11.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3052,7 +3242,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 47,
+    "totalRuns": 49,
     "lastModified": "2026-09-11T15:18:13.050Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3071,7 +3261,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 184,
+    "totalRuns": 186,
     "lastModified": "2026-09-11T14:56:31.956Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3090,7 +3280,7 @@
       "pricePerUnit": 0.004
     },
     "totalUsers": 45,
-    "totalRuns": 575,
+    "totalRuns": 577,
     "lastModified": "2026-09-10T16:00:31.082Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3109,7 +3299,7 @@
       "pricePerUnit": 0.0028
     },
     "totalUsers": 2,
-    "totalRuns": 246,
+    "totalRuns": 248,
     "lastModified": "2026-09-10T16:00:30.261Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3128,7 +3318,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 25,
+    "totalRuns": 28,
     "lastModified": "2026-09-10T09:31:33.422Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3147,7 +3337,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 144,
+    "totalRuns": 146,
     "lastModified": "2026-09-09T17:14:49.135Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3166,7 +3356,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 46,
+    "totalRuns": 48,
     "lastModified": "2026-09-06T18:08:10.152Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3185,7 +3375,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 43,
+    "totalRuns": 45,
     "lastModified": "2026-09-06T15:29:22.502Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3204,7 +3394,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 77,
+    "totalRuns": 79,
     "lastModified": "2026-09-06T15:29:20.756Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -3222,8 +3412,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 79,
+    "totalUsers": 2,
+    "totalRuns": 83,
     "lastModified": "2026-09-06T14:17:15.176Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3242,7 +3432,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 275,
+    "totalRuns": 277,
     "lastModified": "2026-09-06T12:24:49.282Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3261,7 +3451,7 @@
       "pricePerUnit": 0.0005
     },
     "totalUsers": 2,
-    "totalRuns": 219,
+    "totalRuns": 221,
     "lastModified": "2026-09-06T12:12:25.301Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3279,8 +3469,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 15,
-    "totalRuns": 295,
+    "totalUsers": 16,
+    "totalRuns": 298,
     "lastModified": "2026-09-06T12:11:41.092Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -3299,7 +3489,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 156,
+    "totalRuns": 158,
     "lastModified": "2026-09-06T12:11:38.645Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3318,7 +3508,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 7,
-    "totalRuns": 178,
+    "totalRuns": 180,
     "lastModified": "2026-09-06T12:11:32.009Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3337,7 +3527,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 18,
-    "totalRuns": 207,
+    "totalRuns": 209,
     "lastModified": "2026-09-06T12:11:23.295Z",
     "rating": 0,
     "hasDeepDive": false,
