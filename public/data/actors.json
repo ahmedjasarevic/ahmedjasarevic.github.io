@@ -1,5 +1,1829 @@
 [
   {
+    "title": "Despegar Reviews Scraper [Only $1.5/1K💰] | Hotels | Scores",
+    "slug": "despegar-reviews-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/despegar-reviews-scraper",
+    "description": "Scrape complete hotel review sets from any Despegar country site — Mexico, Argentina, Colombia, Chile and more — with reviewer, traveller type, month, score and liked/disliked comments, plus six category scores and AI summaries. No browser, no API key, $0.0015 per review.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-NWx9pXtLqYX6k9t47-A38CsOLLYg-images_%2815%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Travel",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 22,
+    "lastModified": "2026-10-04T05:03:18.322Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Ticketmaster Scraper [Only $2/1K💰] | Events | Ticket Status",
+    "slug": "ticketmaster-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/ticketmaster-scraper",
+    "description": "Scrape Ticketmaster events — concerts, sports and theater with venue, dates, ticket status, lineups and images. No API key needed, $0.002 per event.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-n8gslL67i5DYOQabw-d8favHeGcD-images_%2814%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 71,
+    "lastModified": "2026-10-04T05:03:14.649Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "OpenRent Scraper [Only $0.5/1K💰] | UK Rentals | Property Data",
+    "slug": "openrent-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/openrent-scraper",
+    "description": "Scrape OpenRent UK rental listings — rent PCM/PW, deposit, EPC, landlord response and photos. Cheapest on the Store: $0.0005 per listing detail, $0.00015 per search card.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-847hvXJ3jj6s2ArPQ-BCQUf5CgwR-images_%2813%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 30,
+    "lastModified": "2026-10-04T05:03:11.217Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "DesignCrowd Scraper [Only $4/1K💰] | Contests | Designers",
+    "slug": "designcrowd-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/designcrowd-scraper",
+    "description": "Scrape DesignCrowd design contests and designer profiles — prize budgets, deadlines, briefs, ratings, rankings and earnings. No browser, flat $0.004 per record.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-8e5YymCkerezXCUUF-ufbDaSNEgW-images_%2812%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 18,
+    "lastModified": "2026-10-04T05:03:06.582Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Uber Eats Scraper [Only $2/1K💰] | Menus | Restaurant Data",
+    "slug": "ubereats-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/ubereats-scraper",
+    "description": "Scrape Uber Eats restaurant data — full menus with prices, ratings, cuisines, hours and delivery info via Uber's internal JSON API. No browser, no API key. $0.002/restaurant.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-NKqqcg5l5NTP8UvjH-vJaHG261qb-uber.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 35,
+    "lastModified": "2026-10-04T05:03:01.184Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Cardmarket Scraper [Only $0.9/1K💰] | TCG Price Tracking",
+    "slug": "cardmarket-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/cardmarket-scraper",
+    "description": "Scrape Cardmarket TCG card prices — trends, 1/7/30-day averages, cheapest and foil prices for Magic, Pokemon, Yu-Gi-Oh, One Piece, Lorcana. Browserless, no proxy, $0.0009/card.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-BQVZxOTuFOqyWIyno-sHGLYqZS0d-cardmarket.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 67,
+    "lastModified": "2026-10-02T22:25:37.031Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Snapchat Scraper | Profiles | Stories | Spotlight | Lenses",
+    "slug": "snapchat-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/snapchat-scraper",
+    "description": "Public Snapchat data without login: profiles with subscriber counts, stories, highlights, Spotlight videos, lenses, Explore and Discover feeds, comments and transcripts.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-jov5ja4mwL2oLBFkO-4PUB9iIwR5-images_%2810%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 29,
+    "lastModified": "2026-10-02T22:25:29.988Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "FindLaw Lawyer Scraper [Only $0.9/1K💰] | Leads | Legal Data",
+    "slug": "lawyers-findlaw-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/lawyers-findlaw-scraper",
+    "description": "Scrape FindLaw attorney and law firm leads: name, firm, phone, address with geo, practice areas, ratings and credentials. For legal lead generation and law firm databases. From $0.0009 per record.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-syfyrGuh86qbhYeKI-d1UL89x3zB-83ffbf1d-a634-4a49-889b-6c09ad33756f_thumb.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 20,
+    "lastModified": "2026-10-02T22:25:19.653Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Slickdeals Scraper [Only $3/1K💰] | Coupons | Deals Data",
+    "slug": "slickdeals-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/slickdeals-scraper",
+    "description": "Scrape Slickdeals deals: title, price, discount, coupon code, store, votes and more — via public RSS/JSON feeds, no browser. For price drop monitoring, arbitrage and deal content. $0.003 per deal.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-WVCebEe3sfeji6FlX-OHOPD24sHp-images_%2811%29.png",
+    "category": "uncategorized",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 22,
+    "lastModified": "2026-10-02T22:24:55.255Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Justia Lawyer Scraper [Only $0.9/1K💰] | Leads | Legal Data",
+    "slug": "lawyers-justia-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/lawyers-justia-scraper",
+    "description": "Scrape lawyer profiles and attorney leads from the Justia Lawyer Directory: name, firm, phone, practice areas, Justia rating, peer reviews and credentials. For legal lead generation and law firm databases. From $0.0009 per lawyer.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TqXzQaYmqfStVa4cM-uCEumQQMD2-justia_logo.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 33,
+    "lastModified": "2026-10-02T22:24:41.906Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Crexi Scraper [💰$3.5/1K] | Commercial CRE | Broker Leads",
+    "slug": "crexi-property-broker-data-scraper-pro",
+    "url": "https://apify.com/ahmed_jasarevic/crexi-property-broker-data-scraper-pro",
+    "description": "Extract commercial real estate listings and broker data from Crexi for investment research and lead generation. Build CRE deal pipelines and broker contact datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-5vaVcFMFnDyxcdtAU-MxB0p4rvmh-crexi.png",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 67,
+    "totalRuns": 723,
+    "lastModified": "2026-10-02T09:11:22.657Z",
+    "rating": 5,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "ConsumerAffairs Scraper | Reviews | Complaints | Ratings",
+    "slug": "consumeraffairs-reviews-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/consumeraffairs-reviews-scraper",
+    "description": "Extract ConsumerAffairs.com company profiles and individual customer reviews — ratings, complaint categories, company replies, and verified status — for review monitoring, complaint analysis, competitive intelligence, and market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-OHHpCzi36k5GJN4Ja-qCBc1NxoHl-images_%2811%29.png",
+    "category": "developer_tools",
+    "displayCategory": "SEO & AI Tools",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 12,
+    "totalRuns": 108,
+    "lastModified": "2026-10-02T08:47:18.344Z",
+    "rating": 5,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "RE/MAX Scraper [Only $2.5/1K💰] | Property Prices | MLS Data",
+    "slug": "remax-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/remax-scraper",
+    "description": "Scrape RE/MAX real estate listings from remax.com: price, address, beds/baths/sqft, MLS#, photos, description and listing agent. For price monitoring, market research and real estate lead generation. $0.0025 per listing.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-R3ta26IDuIOnWrBjI-QNg4hWcsHy-remax-balloon-logo-png_seeklogo-647470.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 37,
+    "lastModified": "2026-10-01T22:24:50.869Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Trusted Shops Scraper [Only $1💰] | Shop Ratings & Reviews",
+    "slug": "trustedshops-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/trustedshops-scraper",
+    "description": "Extract Trusted Shops merchant reviews and shop ratings for e-commerce reputation monitoring. Get verified customer reviews, overall rating, star distribution, certification status and TSID for any shop — no browser, no proxy, $0.001 per result.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-cWG4O4ewyJIP8lJQi-DqllggAhvQ-images_%283%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 6,
+    "lastModified": "2026-10-01T22:24:09.854Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "YCombinator Jobs Scraper [$0.75/1k💰] | YC Startup Salary",
+    "slug": "ycombinator-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/ycombinator-scraper",
+    "description": "Extract Y Combinator startup jobs: job title, company and YC batch, salary range, equity, visa sponsorship, location, skills and apply URLs — for recruiting research and salary benchmarking.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-tB9KjFaUHeD2xebeJ-kwwuQmX7xR-png-transparent-y-combinator-logo-icon-tech-companies-thumbnail.",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 18,
+    "lastModified": "2026-10-01T22:23:54.120Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "ReclameAqui Scraper [$4/1k💰] | RA1000 | Complaints",
+    "slug": "reclameaqui-com-br-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/reclameaqui-com-br-scraper",
+    "description": "Brazilian company reputation data: ReclameAqui score, RA1000 status, response rates, CNPJ, segment rank and complaint threads with company replies — for CX research and monitoring.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-7ET7QHCBkGBhKhv3A-7RWi83rP1J-images_%282%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 47,
+    "lastModified": "2026-10-01T22:22:59.932Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Broken Link Checker [Only $1💰] | Bulk URL Status | Monitor",
+    "slug": "bulk-url-checker",
+    "url": "https://apify.com/ahmed_jasarevic/bulk-url-checker",
+    "description": "Bulk-check thousands of URLs for broken links, redirects, response time and SSL expiry. Monitor mode alerts you when a link breaks. Pay per event.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-5zzisc6X0YcF3aTVV-iFKLWQoiRd-Broken-Link-Checker-API_%281%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 12,
+    "lastModified": "2026-10-01T22:22:52.274Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Discord Username Checker [CHEAP💰] | Tokenless | Brands",
+    "slug": "discord-username-checker",
+    "url": "https://apify.com/ahmed_jasarevic/discord-username-checker",
+    "description": "Bulk-check up to 500 Discord usernames per run via the official signup endpoint — tokenless, no login, no captcha. Available / taken / invalid per handle with exact error codes.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-oehphNMh22dizTw8n-bc4bBCrrs2-discord_PNG8.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 7,
+    "totalRuns": 36,
+    "lastModified": "2026-10-01T16:16:53.020Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Shopify Scraper [💰$2.35/1K] | Tech Stack | Apps | Themes",
+    "slug": "shopify-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/shopify-scraper",
+    "description": "Analyze any Shopify store — detect installed apps, theme, tech stack, social links and contact info. Extract product counts, collection structure and page speed for ecommerce intelligence.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-W5gAB3ZbLAzdsGcJE-WMjF7Ug8vJ-images_%281%29.jfif",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 44,
+    "lastModified": "2026-10-01T14:48:02.058Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Whop Scraper [💰$0.9/1K] | Communities | Digital Products",
+    "slug": "whop-community-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/whop-community-scraper",
+    "description": "Extract digital product and community data from Whop.com — pricing, member counts, ratings and creator profiles. Research paid communities, subscriptions and digital product markets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-s0v19z4Ma4QS9BVXh-TVMivv4em8-unnamed_%2816%29.png",
+    "category": "developer_tools",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 48,
+    "lastModified": "2026-10-01T14:48:00.287Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Houzz Pros Scraper [💰$1.9/1K] | Leads | Reviews | Contacts",
+    "slug": "houzz-professionals-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/houzz-professionals-scraper",
+    "description": "Extract Houzz professionals with ratings, reviews, contact info and project photos. Build home services lead lists and research contractor performance by trade.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-RitIehGArvCKLcWaA-HJavRQwoEk-vELc9qTTi4PFqNtFU-actor-tSgB4G9FxoDTuiaWh-t4ab3iaYQZ-houzz-logo.",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 172,
+    "lastModified": "2026-10-01T14:47:58.572Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Rightmove Scraper [💰$0.9/1K] | UK Property | Sold Prices",
+    "slug": "rightmove-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/rightmove-scraper",
+    "description": "Extract UK property listings from Rightmove — prices, sold prices, agent data and floor plans. Track price changes, compare sold history and build UK property market datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-PnJlREhZY7X2yJ88B-WNr7TdLcxd-app-store.png",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 8,
+    "totalRuns": 274,
+    "lastModified": "2026-10-01T14:47:56.820Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Amazon Bestsellers Scraper [💰$2.5/1K] | Prices | Rankings",
+    "slug": "amazon-bestsellers-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/amazon-bestsellers-scraper",
+    "description": "Scrape Amazon bestseller lists with full product details, prices, ratings and rankings. Track category winners, monitor product launches and build Amazon product research datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Do453WelT2QTrC5aO-nJX801xy2c-images_%285%29.png",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 13,
+    "totalRuns": 280,
+    "lastModified": "2026-10-01T14:47:54.926Z",
+    "rating": 5,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "AllMyLinks Scraper [💰$5/1K] | Creator Profiles | Emails",
+    "slug": "allmylinks-profile-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/allmylinks-profile-scraper",
+    "description": "Scrape AllMyLinks creator profiles with email discovery and social links for influencer outreach. Build creator lead lists and contact databases.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-8RFvAxvgjr83FFCIn-ofL7XD1qrf-alllinks.png",
+    "category": "ecommerce",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 67,
+    "lastModified": "2026-10-01T14:36:31.830Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Untappd Scraper [💰$0.06/1K] | Beer Data | ABV | Reviews",
+    "slug": "untappd-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/untappd-scraper",
+    "description": "Extract Untappd beer data without an API key: style, ABV, IBU, ratings and check-in counts, plus a searchable world beer catalog and recent check-in reviews. $0.06 per 1K beers.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-lTDbtEPqQuuhKiPHM-LhhUXMJ7uB-images_%286%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 83,
+    "lastModified": "2026-10-01T14:36:30.088Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Airtasker Scraper [💰$2/1K] | Tasks | Bids | 6 Countries",
+    "slug": "airtasker-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/airtasker-scraper",
+    "description": "Extract Airtasker tasks, bids, reviews and public poster & tasker profiles for gig-economy research, lead generation and price monitoring across AU, UK, US, IE, NZ and SG.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-QjgKYG0ewbaGLjBpW-dxDt29ivKt-images_%2810%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": 0.002
+    },
+    "totalUsers": 2,
+    "totalRuns": 16,
+    "lastModified": "2026-10-01T14:36:28.364Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "about.me Scraper [💰$5/1K] | Bios | Emails | B2B Leads",
+    "slug": "aboutme-profile-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/aboutme-profile-scraper",
+    "description": "Scrape about.me professional profiles by handle or URL for B2B sales prospecting, lead enrichment, recruiting and outreach: name, headline, bio, location, public emails & phones, social links, tags, interests, schools and jobs.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-An57ZULmTeCZWO3H6-9FGoOfaXxT-loading-user-icon-design-free-vector.jpg",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 45,
+    "lastModified": "2026-10-01T14:36:26.587Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Bark.com Scraper [💰$5/1K] | Seller Leads | UK & US",
+    "slug": "bark-sellers-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/bark-sellers-scraper",
+    "description": "Scrape seller profiles, services, reviews and contact details from Bark.com. Build service provider lead lists for the UK and US markets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-BkDfeIUscmOh5mM3e-yhfZgssY9p-bark_com_logo.jfif",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 56,
+    "lastModified": "2026-10-01T14:36:24.757Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Solo.to Scraper [💰$5/1K] | Creator Profiles | Emails",
+    "slug": "solo-profile-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/solo-profile-scraper",
+    "description": "Scrape Solo.to creator profiles with email extraction and social links for influencer outreach. Build creator lead lists and contact databases.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-eI2dp2LnpSSpYoFOS-MhyNm2g7mJ-images_%289%29.png",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 59,
+    "lastModified": "2026-10-01T14:36:23.022Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "PissedConsumer Scraper [💰$5/1K] | Complaints | Reviews",
+    "slug": "pissedconsumer-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/pissedconsumer-scraper",
+    "description": "Scrape PissedConsumer company reviews and complaints at $0.005 per result. Get ratings, pros, cons, reported losses, reviewer details, and company replies for brand reputation monitoring, scam checks, and consumer insight research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-AEHdWOjHjekROzrMF-Ptea5Wq5fw-pissedconsumer_logo.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 14,
+    "lastModified": "2026-10-01T14:36:20.566Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "CarGurus Scraper [💰$0.95/1K] | IMV | VIN | Dealer Data",
+    "slug": "cargurus-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/cargurus-scraper",
+    "description": "Scrape CarGurus vehicle listings with Instant Market Value, deal ratings, VIN, mileage and dealer data. Find underpriced used cars, monitor inventory and build pricing databases. $0.00095 per listing.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TajlmVvrO9Eacup65-H2rpwDNRdS-images_%281%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Automotive",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 44,
+    "lastModified": "2026-10-01T14:36:18.622Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "FAST Booking.com [💰$0.9/1K] | Hotel Reviews at Scale",
+    "slug": "fast-booking-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/fast-booking-scraper",
+    "description": "Scrape Booking.com hotel reviews at scale with fast GraphQL-based extraction and parallel requests. Get ratings, comments and sentiment data for hospitality analytics and bulk review datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-mD1vBqkLsjVskRtHa-cLkLDVfzPT-images.jpg",
+    "category": "travel",
+    "displayCategory": "Travel",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 4,
+    "totalRuns": 292,
+    "lastModified": "2026-10-01T14:36:16.899Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Gumroad Scraper [💰$4/1K] | Products | Sales | Digital",
+    "slug": "gumroad-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/gumroad-scraper",
+    "description": "Extract Gumroad product listings with pricing and sales data for digital product market research. Track creator revenue signals and product pricing across the marketplace.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-mUMX0FJURQyhOxxcY-N9lzLMVude-images_%287%29.png",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 5,
+    "totalRuns": 189,
+    "lastModified": "2026-10-01T14:36:15.237Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Tumblr Scraper [💰$2.5/1K] | Posts | Images | Tags",
+    "slug": "tumblr-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/tumblr-scraper",
+    "description": "Extract Tumblr posts with full-resolution images, tags, reblogs and engagement data. Build content research datasets, track reblog trends and analyze post performance.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-vwMMqZ0VvIcvKPOZa-lBMNl3g0lN-366151.png",
+    "category": "social_media",
+    "displayCategory": "Social Media",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 19,
+    "totalRuns": 242,
+    "lastModified": "2026-10-01T14:36:13.496Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Zoopla Scraper [💰$0.5/1K] | UK Property | Sold Prices",
+    "slug": "zoopla-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/zoopla-scraper",
+    "description": "Scrape Zoopla.co.uk for UK property listings: sale and rental prices, sold-price history, EPC ratings, agent contacts, floor area, tenure and council tax bands. Track price drops, monitor new listings and build agent lead lists across London, Manchester and all UK postcodes.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-0pkfjDFet1W22Z5hp-1szYRqfJ2A-images_%283%29.jfif",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 65,
+    "lastModified": "2026-10-01T14:36:09.501Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "We Work Remotely [💰$1.8/1K] | Remote Jobs | Salaries",
+    "slug": "we-work-remotely-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/we-work-remotely-scraper",
+    "description": "Extract remote job listings from We Work Remotely — job titles, companies, salary ranges, tags and categories. Track remote work trends, hiring patterns and salary benchmarks.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gv0iySk20AyKVBw3d-i5SRosq7sr-images_%284%29.png",
+    "category": "jobs",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 178,
+    "lastModified": "2026-10-01T14:36:03.835Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Carrd Scraper [💰$5/1K] | Profiles | Email Extract",
+    "slug": "carrd-profile-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/carrd-profile-scraper",
+    "description": "Scrape Carrd one-page profiles with email extraction and contact discovery for creator outreach. Build creator lead lists and influencer contact databases.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Kj1uKPoacltfwsd9Y-R73htNeyOB-logo.png",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 57,
+    "lastModified": "2026-10-01T14:36:02.120Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "StepStone Scraper [💰$0.9/1K] | German Jobs | Salaries",
+    "slug": "stepstone-job-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/stepstone-job-scraper",
+    "description": "Extract structured job listings from StepStone.de — titles, companies, salaries, locations and apply URLs. Germany and DACH region job market intelligence for recruitment, salary analytics and lead generation.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-5dpXc9NKjrr5ePRxw-3kidtEURyE-ngn8vRESTkseyWE6p-actor-pIVhuvHZkW2Llfjrr-8NiqKze465-stepstone.w",
+    "category": "jobs",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 168,
+    "lastModified": "2026-10-01T14:36:00.473Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Wikipedia Scraper [💰$0.7/1K] | Structured Data | RAG",
+    "slug": "wikipedia-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/wikipedia-scraper",
+    "description": "Extract structured data from Wikipedia articles — infoboxes, sections, tables and full text. Build knowledge graphs, RAG pipelines and AI training datasets from the world's largest encyclopedia.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Fg22T5bw1kCv0LJ9W-6eY5v33DVx-images_%289%29.jfif",
+    "category": "developer_tools",
+    "displayCategory": "SEO & AI Tools",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 50,
+    "lastModified": "2026-10-01T14:35:58.734Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Booking.com Scraper [💰$2.5/1K] | Hotel Reviews | Sentiment",
+    "slug": "booking-com-hotel-review-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/booking-com-hotel-review-scraper",
+    "description": "Extract hotel guest reviews from Booking.com — ratings, comments, demographics and sentiment data. Analyze guest feedback, benchmark hotel performance and build review datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-0PWwqTETzll3cKTBA-nQNl52EuY8-booking-com-logo-png_seeklogo-474475.png",
+    "category": "travel",
+    "displayCategory": "Travel",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 21,
+    "totalRuns": 311,
+    "lastModified": "2026-10-01T14:35:57.030Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "LTK Creator Scraper [💰$5/1K] | Shoppable Links | Brands",
+    "slug": "ltk-creator-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/ltk-creator-scraper",
+    "description": "Extract LTK (LikeToKnowIt) creator profiles, shoppable product links and brand mentions. Analyze influencer commerce and affiliate marketing data for market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-q5VyVBQtOvLKypxLp-uMUsyWAOHe-ltk-creator-icon-filled-256.webp",
+    "category": "social_media",
+    "displayCategory": "Social Media",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 52,
+    "lastModified": "2026-10-01T14:35:55.317Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Udemy Scraper [💰$1.5/1K] | Courses | Curriculum | Reviews",
+    "slug": "udemy-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/udemy-scraper",
+    "description": "Scrape Udemy course data — price, discount, rating, students, instructors, full curriculum and individual reviews — for e-learning market research, affiliate price tracking and AI training data. API-based, no browser, two separate datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-RjOubFdNJn80ayJdW-k6aAMRN1wm-udemy.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 19,
+    "lastModified": "2026-10-01T14:35:53.587Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "HomeAdvisor Scraper [💰$3/1K] | Contractor Leads | Elite",
+    "slug": "homeadvisor-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/homeadvisor-scraper",
+    "description": "Extract US home service professionals from HomeAdvisor/Angi by trade and location. Get company name, rating, reviews, Elite badges, services, and profile URLs - structured JSON via Angi internal API. Built for lead generation, market research, and CRM enrichment.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-HLkK5jYOPpyS3tk8k-XKn3hfxhUj-images_%283%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 65,
+    "lastModified": "2026-10-01T14:35:51.887Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "SeLoger Scraper [💰$0.8/1K] | French Property | Rentals",
+    "slug": "seloger-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/seloger-scraper",
+    "description": "Extract SeLoger French real estate listings with prices, areas and property details. Build France property datasets for rental and sale market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-5HwgbCwVv1W0APMPd-htYzCk2FRe-1200x630wa.png",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 4,
+    "totalRuns": 183,
+    "lastModified": "2026-10-01T14:35:50.176Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Campsite.bio Scraper [💰$5/1K] | Creator Profiles | Leads",
+    "slug": "campsite-bio-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/campsite-bio-scraper",
+    "description": "Extract creator profiles from Campsite.bio — bios, links, social accounts and contact data. Build influencer outreach lists and analyze link strategies for creator economy research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-qIB0lGbluLhhFcOx2-LDKwuXNZli-images_%286%29.jfif",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 45,
+    "lastModified": "2026-10-01T14:35:46.698Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "RentCafe Scraper [💰$0.9/1K] | US Apartments | Rental Data",
+    "slug": "rentcafe-property-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/rentcafe-property-scraper",
+    "description": "Extract apartment rental listings from RentCafe.com — rent prices, amenities, availability and property details. Build US rental market datasets, price trackers and property analytics.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-71EMZjcNFNTNVVu8r-47OB8AwTts-unnamed_%2814%29.png",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 50,
+    "lastModified": "2026-10-01T14:35:44.980Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Bio Links Scraper [💰$5/1K] | 6 Platforms | Creator Leads",
+    "slug": "bio-links-pack-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/bio-links-pack-scraper",
+    "description": "Scrape bio link profiles from 6 platforms — Milkshake, Shorby, Feedlink, ContactInBio, ManyLink and CarveLink. Build creator databases, contact lists and influencer outreach data.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-BdJvs52rPpdWG75ke-PzGu2pchcN-unnamed_%2813%29.png",
+    "category": "social_media",
+    "displayCategory": "Social Media",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 58,
+    "lastModified": "2026-10-01T14:35:43.049Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Stan.store Scraper [💰$5/1K] | Storefronts | Products | Pricing",
+    "slug": "stan-store-creator-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/stan-store-creator-scraper",
+    "description": "Scrape Stan.store creator storefronts with full product catalogs and pricing. Run competitive intelligence on creator businesses and track catalog changes over time.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-7H3sx0GefK3S4lf0j-JVZIGhVbzI-Stan-Store.jpg",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 58,
+    "lastModified": "2026-10-01T14:32:34.802Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Funda.nl Scraper [💰$0.5/1K] | Dutch Property | Listings",
+    "slug": "funda-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/funda-scraper",
+    "description": "Extract residential and commercial property listings from Funda.nl and FundainBusiness.nl — prices, addresses, features and images. Build Netherlands real estate databases and market datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-eob6yoaesgkSCCRU5-KAiWpbQK2K-unnamed_%284%29.png",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 5,
+    "totalRuns": 172,
+    "lastModified": "2026-10-01T14:32:32.947Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "FranchiseGator Scraper [💰$5/1K] | Fees | Units | Scores",
+    "slug": "franchise-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/franchise-scraper",
+    "description": "Extract franchise opportunities from FranchiseGator — investment ranges, franchise fees, royalty fees, brand strength scores and available units. Compare franchise costs and screen brand quality.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gzWaFjxoeMsJziyWN-aSZs2v6Kob-franchise-gator-og-logo-1.png",
+    "category": "developer_tools",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 44,
+    "lastModified": "2026-10-01T14:32:31.104Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "GoodFirms Scraper [💰$3.5/1K] | B2B Leads | Rates | Teams",
+    "slug": "goodfirms-agency-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/goodfirms-agency-scraper",
+    "description": "Extract B2B agency data from GoodFirms — company names, ratings, reviews, hourly rates, team sizes and locations. Build agency lead lists for outreach, competitor analysis and market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-GVhU4xJgUYlFdIStY-f8zwBQYdZY-goodfirms_logo.jfif",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 49,
+    "lastModified": "2026-10-01T14:32:29.268Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Yahoo Finance Scraper [💰$0.8/1K] | Stock Prices | Volume",
+    "slug": "yahoo-finance",
+    "url": "https://apify.com/ahmed_jasarevic/yahoo-finance",
+    "description": "Extract Yahoo Finance stock data for any ticker symbol — prices, trading volume and adjusted close. Build price history datasets and financial research exports.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-PiYxG7CAxV6CrZLiQ-WuPe0v026L-71V1O5g6zOL.webp",
+    "category": "automation",
+    "displayCategory": "Finance",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 169,
+    "lastModified": "2026-10-01T14:32:27.472Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Realtor.com Agent Scraper [💰$1/1K] | Leads | CRM | Reviews",
+    "slug": "realtor-agent-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/realtor-agent-scraper",
+    "description": "Extract US real estate agents from Realtor.com — phone, email, brokerage, listings, reviews, service areas and specialties. Build lead lists, enrich CRM and research agent density across US cities and ZIP codes. Pure HTTP, no browser needed.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-IHzyK5D7wtZ1fAnfi-5s4gba8Rcl-web_R_blue.jpg",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 82,
+    "lastModified": "2026-10-01T14:32:25.551Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "99designs Scraper [💰$2.9/1K] | Designers | Contests | Prizes",
+    "slug": "99designs-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/99designs-scraper",
+    "description": "Extract 99designs designer profiles and contest listings for freelance talent sourcing, design contest monitoring and market research. Get ratings, portfolio data, prizes and entry volume.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-yoB0QBzfIX9t7wQym-XQNxJVr7ba-og-image-80cfd8beb6.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 33,
+    "lastModified": "2026-10-01T14:32:23.697Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Wellfound Scraper [💰$2.5/1K] | Startup Jobs | Salaries",
+    "slug": "wellfound-startup-jobs-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/wellfound-startup-jobs-scraper",
+    "description": "Extract startup job listings and company profiles from Wellfound (AngelList) — salaries, equity, funding stages and hiring signals. Build startup market intelligence datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-nSfqsl98JS2ci137F-JHgti5eaUU-wellfound.png",
+    "category": "jobs",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 69,
+    "lastModified": "2026-10-01T14:32:21.845Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Medium Scraper [💰$0.99/1K] | Profiles | Articles | History",
+    "slug": "medium-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/medium-scraper",
+    "description": "Extract writer profiles, article listings, reading history and topic/tag discovery from Medium.com. Works via RSS feeds and the GraphQL API.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-m3nh66B4diD5Yammt-TQHVhuycbC-medium_logo_icon_189223.png",
+    "category": "uncategorized",
+    "displayCategory": "News & Content",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 52,
+    "lastModified": "2026-10-01T14:32:19.717Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Viator Reviews Scraper [💰$2.5/1K] | TripAdvisor | Tours",
+    "slug": "viator-reviews-scraper-dual-source-from-tripadvisor",
+    "url": "https://apify.com/ahmed_jasarevic/viator-reviews-scraper-dual-source-from-tripadvisor",
+    "description": "Scrape Viator and TripAdvisor tour reviews with ratings, dates and traveler data from two sources at once. Build review databases, attraction comparisons and tourism market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-nkTmoCGmk2gmnGaw7-eLYBD7rosJ-unnamed_%282%29.png",
+    "category": "travel",
+    "displayCategory": "Travel",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 18,
+    "totalRuns": 240,
+    "lastModified": "2026-10-01T14:32:17.600Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Yahoo Options Scraper [💰$1.2/1K] | Greeks | IV | Live Chains",
+    "slug": "yahoo-finance-options",
+    "url": "https://apify.com/ahmed_jasarevic/yahoo-finance-options",
+    "description": "Extract Yahoo Finance options chains with full Greeks, volume and implied volatility data for any ticker. Build options screeners, volatility research and pricing models.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-xcdGsvadKUF5cwpjq-bgseWdoL86-71V1O5g6zOL.webp",
+    "category": "automation",
+    "displayCategory": "Finance",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 185,
+    "totalRuns": 1419,
+    "lastModified": "2026-10-01T14:28:33.133Z",
+    "rating": 5,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Contra Scraper [💰$5/1K] | Freelancer Rates | Portfolios",
+    "slug": "contra-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/contra-scraper",
+    "description": "Scrape detailed freelance profiles from contra.com — hourly rates, skills, ratings, availability, portfolio projects and social links. Discover talent by profile URL or keyword.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-vp3z3JCMvIyXg1POR-Ciz7ewytsA-0x0.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 5,
+    "lastModified": "2026-10-01T14:28:31.214Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Toptal Scraper [💰$4/1K] | Freelance Jobs | Skills | Talent",
+    "slug": "toptal-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/toptal-scraper",
+    "description": "Scrape Toptal job listings, skill categories and talent network data — job titles, required skills, commitment types and hourly budgets from the world's top curated freelance platform.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Kl37qPgepLIKA2I5d-MFuFBVMyB0-images_%284%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 38,
+    "lastModified": "2026-10-01T14:28:29.383Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Clutch.co Scraper [💰$2.5/1K] | Agency Leads | Ratings | Emails",
+    "slug": "clutch-agency-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/clutch-agency-scraper",
+    "description": "Scrape Clutch.co agency profiles, ratings, reviews and contact emails for B2B lead generation and agency market research. Filter agencies by service, location and budget.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-8rFaYsSooj40GMEgg-egIXrvXGIf-images.jfif",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 120,
+    "lastModified": "2026-10-01T14:28:27.498Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Court Records Scraper [💰$1.5/1K] | Evictions | Cases | Filings",
+    "slug": "court-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/court-scraper",
+    "description": "Extract court records and eviction data from public sources — case numbers, filing dates, parties, dispositions and property addresses. Screen tenants and research legal cases.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-NLwjFHMrrrzDYqDnR-dJomj4zVWm-Eviction_court.webp",
+    "category": "developer_tools",
+    "displayCategory": "SEO & AI Tools",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 43,
+    "lastModified": "2026-10-01T14:28:25.587Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Manifest Agency Scraper [💰$5/1K] | B2B Leads | Rates | Clients",
+    "slug": "manifest-agency-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/manifest-agency-scraper",
+    "description": "Extract B2B agency profiles from The Manifest — company names, ratings, reviews, hourly rates, project sizes, team sizes, services and client data. Build qualified lead lists for agency outreach.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Z7DbETbNMLKEWIlwu-uQ3AewmuHR-og_directory.png",
+    "category": "ai",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 50,
+    "lastModified": "2026-10-01T14:28:23.757Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Website to Markdown [💰$2.8/1K] | Clean HTML for AI & RAG",
+    "slug": "website-to-clean-markdown-ai-rag-ready",
+    "url": "https://apify.com/ahmed_jasarevic/website-to-clean-markdown-ai-rag-ready",
+    "description": "Convert any website into clean, noise-free Markdown for LLM training, RAG pipelines and Custom GPTs. Strip HTML junk, keep the content, and cut OpenAI token costs. From $2.80 per 1K results.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-XbLoqacLEeUihyeKA-zJ8pIBbEZP-5883-markdown.png",
+    "category": "agents",
+    "displayCategory": "SEO & AI Tools",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": 0.0028
+    },
+    "totalUsers": 2,
+    "totalRuns": 262,
+    "lastModified": "2026-10-01T14:28:21.925Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "NPI Registry Scraper [💰$1.9/1K] | Providers | Doctors | Data",
+    "slug": "medical-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/medical-scraper",
+    "description": "Extract healthcare provider data from the NPI Registry — NPI numbers, specialties, addresses, phone numbers and insurance participation plans. Search by NPI, provider name, specialty, city or state.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-JrKqWrJE8pK55jDfu-mNAgmFJciU-5pIz5izJ3tbbbX4by-actor-OuttV9PspMD21gcdO-bqSfSZlaHL-npi.webp",
+    "category": "automation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 46,
+    "lastModified": "2026-10-01T14:28:20.058Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "ClassPass Scraper [💰$0.5/1K] | Studios | Schedules | Reviews",
+    "slug": "classpass-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/classpass-scraper",
+    "description": "Scrape ClassPass and Mindbody fitness studio data — class schedules, pricing, reviews and studio profiles. Build studio directories, pricing benchmarks and fitness market research datasets.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-kp09718WJyxWs4nxc-JVnTMOctgC-images_%2817%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 47,
+    "lastModified": "2026-10-01T14:28:18.062Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Vinted Arbitrage [💰$1.5/1K] | Cross-Country | Price Compare",
+    "slug": "vinted-cross-country-arbitrage-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/vinted-cross-country-arbitrage-scraper",
+    "description": "Scrape Vinted listings across 26 European markets, convert local prices to EUR and compare margins to find buy/sell arbitrage opportunities. Get per-market averages, medians and pairwise gross-margin reports.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-hBw1Dc0vKfkRRTM8q-usyKjMS6fm-IxH4cYtcXoxDXO98Q-actor-qxjZPSTHmCrFiYdnG-693MgiSjlD-icon-backgr",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 13,
+    "totalRuns": 232,
+    "lastModified": "2026-10-01T14:16:22.590Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "RealEstate.co.nz [💰$0.95/1K] | NZ Property | Agent Leads",
+    "slug": "realestate-co-nz-scraper-with-agents-details",
+    "url": "https://apify.com/ahmed_jasarevic/realestate-co-nz-scraper-with-agents-details",
+    "description": "Scrape New Zealand property listings from realestate.co.nz with agent names, emails and phone numbers, plus specs, price, auction dates, nearby schools and photos.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-bUEqTRkCHgXqkAaTY-OmArHhZ044-channels4_profile.jpg",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 4,
+    "totalRuns": 200,
+    "lastModified": "2026-10-01T13:57:50.217Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Skool Group Scraper [💰$2/1K] | Members | Gamification | Price",
+    "slug": "skool-group-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/skool-group-scraper",
+    "description": "Scrape Skool group pages for member counts, online stats, level distributions, gamification data, membership pricing, affiliate rates and integrations used.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-XXe7A6OchaJK6VeAq-KaphIvzQJQ-bcE6coeH8E3VHWA2N-skool.webp",
+    "category": "social_media",
+    "displayCategory": "Social Media",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 6,
+    "totalRuns": 186,
+    "lastModified": "2026-10-01T13:57:49.709Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "VIN Decoder [💰$2/1K] | Vehicle Specs | Safety Recalls | NHTSA",
+    "slug": "universal-vin-decoder-recall-auditor",
+    "url": "https://apify.com/ahmed_jasarevic/universal-vin-decoder-recall-auditor",
+    "description": "Decode any VIN to full vehicle specifications and audit open safety recalls from NHTSA - engine, transmission, ADAS features, affected components, risk summaries and remedies.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-7bhd75NGjPmBNPctm-otDmfR9PRc-blog-vin-number-lookup-hero.png",
+    "category": "developer_tools",
+    "displayCategory": "Automotive",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 25,
+    "totalRuns": 214,
+    "lastModified": "2026-10-01T13:57:49.121Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Reddit Scraper [💰$1.3/1K] | Posts | Comments | Subreddit Data",
+    "slug": "reddit-scraper-pro",
+    "url": "https://apify.com/ahmed_jasarevic/reddit-scraper-pro",
+    "description": "Scrape Reddit posts, comments, user profiles and subreddits by URL or keyword - full text, scores, authors and timestamps for sentiment, trend and market research. No Reddit API key needed.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-ICXhds4TXZQsIvRFN-6Nl9ktjgIx-reddit.png",
+    "category": "social_media",
+    "displayCategory": "Social Media",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 28,
+    "totalRuns": 398,
+    "lastModified": "2026-10-01T13:57:48.682Z",
+    "rating": 5,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Skool Scraper [💰$1.5/1K] | Members | Hidden Emails | Profiles",
+    "slug": "ultimate-skool-scraper-members-groups-hidden-emails",
+    "url": "https://apify.com/ahmed_jasarevic/ultimate-skool-scraper-members-groups-hidden-emails",
+    "description": "Scrape Skool community members with hidden emails, bios, socials, user levels and activity data. Extract group memberships, gamification status and owner details - $1.5/1K results.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-raWRBsiSIMiKmftea-Cd9MlXauG1-bcE6coeH8E3VHWA2N-skool.webp",
+    "category": "lead_generation",
+    "displayCategory": "Social Media",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 32,
+    "totalRuns": 233,
+    "lastModified": "2026-10-01T13:57:48.117Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Storia Ro Scraper [Only $1.5💰] | Bucharest | Prices",
+    "slug": "storia-ro-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/storia-ro-scraper",
+    "description": "Scrape Romanian real estate listings from storia.ro — Romania's go-to property portal, part of OLX Group. Extract price, price/m², area, rooms, city/sector, GPS coordinates and agency or owner contacts for sale and rent. From $0.0015 per listing — the cheapest Storia scraper in the Apify Store.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-jN9AfqW4XNeh1PH5t-P3H1TjwbfU-sotria.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 8,
+    "lastModified": "2026-10-01T13:29:37.691Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Zalando Scraper [💰$1.5/1K] | Fashion | Products | Prices",
+    "slug": "zalando-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/zalando-scraper",
+    "description": "💰 $1.5 / 1K results. Scrape Zalando fashion listings and collect everything you need — product details, brands, prices, sizes, availability, images, and more. Ideal for competitor monitoring, fashion research, price comparison, and large-scale product data collection.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-prBYshOhxIsaahUQ8-hbM1JXR1hG-zalando-logo.png",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 20,
+    "totalRuns": 4791,
+    "lastModified": "2026-10-01T12:07:30.451Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Linktree, Beacons & Bio Email Scraper: Extract Leads",
+    "slug": "linktree-beacons-bio-email-scraper-extract-leads",
+    "url": "https://apify.com/ahmed_jasarevic/linktree-beacons-bio-email-scraper-extract-leads",
+    "description": "Turn Linktree, Beacons and Bio URLs into real Email Leads. Scrape contact info, social handles, and affiliate links from Linktree, Beacons and influencers profiles automatically.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-3t8Np6SkOtweErTgg-THR6FmMABC-Avatar-Symbol-Canopy.png",
+    "category": "lead_generation",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 262,
+    "totalRuns": 82161,
+    "lastModified": "2026-10-01T09:30:51.749Z",
+    "rating": 5,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Decathlon Scraper [$0.50/1k💰] | Prices | Stock | Reviews",
+    "slug": "decathlon-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/decathlon-scraper",
+    "description": "Decathlon.com product data: prices, variants with per-size stock, specs, ratings and customer reviews — for price monitoring, inventory tracking and market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-pnkULJIrVe3bgseFh-czQHKr2maJ-images_%281%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Finance",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 18,
+    "lastModified": "2026-09-30T22:23:01.562Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Zimmo Scraper [Only $1.5💰] | Belgian Property | Prices",
+    "slug": "zimmo-be-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/zimmo-be-scraper",
+    "description": "Scrape Belgian real estate listings from zimmo.be — houses, apartments, offices and land for sale and rent. Full detail records: price, EPC energy label, flooding & planning info, GPS coordinates and agency contacts. The cheapest Zimmo scraper on Apify, from $0.0015 per result.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-osvczKyhtzoqqwOzi-nhGda1NQhm-unnamed.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 9,
+    "lastModified": "2026-09-30T22:22:47.623Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Roblox Username Checker [Only $0.005💰] | Bulk | Drops",
+    "slug": "roblox-username-checker",
+    "url": "https://apify.com/ahmed_jasarevic/roblox-username-checker",
+    "description": "Check Roblox username availability in bulk (up to 2,000 per run) and monitor for username drops with Discord webhook alerts. Powered by the same official auth.roblox.com endpoint the site uses. Only $0.005 per available username, $0 for taken ones.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Gm1QARpaJ4rFizl8G-aC7J8g4QvP-Roblox_Logo_2025.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 12,
+    "lastModified": "2026-09-30T22:22:12.814Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Crunchbase Scraper [$4💰] | Funding Rounds | Investors",
+    "slug": "crunchbase-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/crunchbase-scraper",
+    "description": "Scrape Crunchbase company profiles from any URL or slug: funding rounds, investors, total funding, employee count, industries, location, social links and IPO status. Export as JSON, CSV or Excel. No API key, no login.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Uf6Rnr9OK7YAa2YQI-XSJpVXw3Um-crunch.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": 0.004
+    },
+    "totalUsers": 1,
+    "totalRuns": 118,
+    "lastModified": "2026-09-30T15:49:29.047Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "OpenTable Scraper [$0.2/1K💰] | Reviews | Menus | Data",
+    "slug": "opentable-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/opentable-scraper",
+    "description": "[$0.2/1K💰] Cheapest OpenTable scraper on Apify. Scrape restaurant data: name, cuisine, price band, rating, reviews, address, hours, menus, availability slots, photos, coordinates for restaurant market research and lead generation. No login, no token.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-3kCDLj03vvG4ZeCnw-uZvHyXfQxL-images_%289%29.jfif",
+    "category": "travel",
+    "displayCategory": "Travel",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 166,
+    "lastModified": "2026-09-30T15:17:40.686Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Yell.com Scraper [$1.2/1K💰] | UK Leads | Emails & Phones",
+    "slug": "yell-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/yell-scraper",
+    "description": "Scrape UK business listings from Yell.com for lead generation: business name, email, phone, website, address, category, rating, reviews and opening hours per listing. Built for UK lead-gen agencies, SMB outreach teams, local SEO auditors and CRM enrichment.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TeNkFDXdZyxJvi5CM-EB9cq1h3TW-images_%2823%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 5,
+    "totalRuns": 157,
+    "lastModified": "2026-09-30T08:36:00.177Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Boat Trader Scraper $1.3/1K💰 | Boat Listings | Dealer Data",
+    "slug": "boattrader-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/boattrader-scraper",
+    "description": "Scrape Boat Trader — America's largest boat marketplace — for complete new and used boat listings and the full dealer directory. Track boat prices, research used boat values, build marine market intelligence. Only $1.30 per 1,000 results.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-R9cF05WF23lUqizq3-LJWs5L7B8l-0x0.png",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 185,
+    "lastModified": "2026-09-30T08:22:09.306Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Oikotie Scraper [$0.5/1k💰] | Finnish Property & Rent Data",
+    "slug": "oikotie-fi-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/oikotie-fi-scraper",
+    "description": "Scrape Oikotie.fi — Finland's largest property marketplace — for sale, rent and business listings with debt-free price, EUR/m², energy class, fees and agent direct-contact data. Built on the internal JSON API: no browser, no key, $0.0005 per listing.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-fIJbMJMgbZjIEbJOg-isiyGFZD6f-images_%2813%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 25,
+    "lastModified": "2026-09-30T08:06:31.137Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Trendyol Scraper [$0.45/1k💰] | TR/AE/SA Prices | Reviews",
+    "slug": "trendyol-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/trendyol-scraper",
+    "description": "Scrape Trendyol product data from Turkey, UAE and Saudi storefronts: price, discount, rating, favorites, seller and reviews for price monitoring (fiyat takibi) and e-commerce competitor intelligence.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-ExqVKk4hJ5gW31Ruy-56wOeEF0sa-unnamed_%2816%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 111,
+    "lastModified": "2026-09-30T08:01:06.645Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Home Depot Scraper [Only $1.5💰] | Prices | Stock | Data",
+    "slug": "homedepot-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/homedepot-scraper",
+    "description": "Scrape Home Depot product data — price, list price, promotions, ratings, per-store stock, specs, UPC and images — from product URLs, item IDs or keyword search. Store-aware pricing by ZIP code. No Home Depot API key required; $0.0015 per product on Apify.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-vA6APKJCqA7LyFxEF-U1JFTyQtmU-images_%2813%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Finance",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 146,
+    "lastModified": "2026-09-29T22:23:00.667Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Jameda Scraper [411K Docs💰] | German Leads & Reviews",
+    "slug": "jameda-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/jameda-scraper",
+    "description": "Scrape jameda.de — Germany's largest doctor directory (411K+ doctors, 2.8M reviews): specialty × city profiles with +49 phones, insurance types, languages, opening hours, ratings and patient reviews.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-w5wf3ldevLKnw6Fej-6CVyo88aLZ-images_%2815%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 14,
+    "lastModified": "2026-09-29T22:22:19.293Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "UK Planning Scraper [$5/1k💰] | Council Applications & Leads",
+    "slug": "uk-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/uk-scraper",
+    "description": "Scrape UK planning applications from all 417 councils via PlanIt or single Idox PublicAccess portals: reference, address, proposal, status, applicant and agent data for pre-market development leads. From $0.005 per application.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-n4L0EKtV2fgwj2QsU-TGqgPqqync-If4IVBeTK0VoIvmOc-actor-fyx1OmKUa5qWS8esu-E7h6rI3CPz-Simplified_",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 20,
+    "lastModified": "2026-09-29T22:21:43.303Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "ManoMano Scraper [$1.5/1k💰] | DIY Prices | 5 EU Markets",
+    "slug": "manomano-fr-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/manomano-fr-scraper",
+    "description": "Scrape ManoMano DIY & home-improvement product offers from France, Germany, Spain, Italy and UK: price, brand, seller, rating, specs, EAN and SKU via ManoMano's own Algolia API for price monitoring and e-commerce intelligence.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-oFC88e4ah7FlHYbER-gBffrH4fdP-images_%285%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 10,
+    "lastModified": "2026-09-28T22:22:26.373Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Lamudi Scraper [$1.2/1k💰] | ID/PH/MX Leads | Property Data",
+    "slug": "lamudi-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/lamudi-scraper",
+    "description": "Scrape Lamudi real estate listings from Indonesia, Philippines and Mexico: price, bedrooms, size, coordinates, amenities, photos and agent data for property market research and real estate lead generation.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-9TqjuzpGEIYtvzSAb-C4NcNdqGSm-unnamed_%2814%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 65,
+    "lastModified": "2026-09-28T22:22:06.054Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Healthgrades Scraper [$1.5/1k💰] | Doctor Leads | NPI & Reviews",
+    "slug": "healthgrades-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/healthgrades-scraper",
+    "description": "Scrape US doctor and healthcare provider profiles from Healthgrades: NPI, specialty, ratings, reviews, insurance, education and hospital affiliations for medical lead generation and healthcare market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-adkRWKamUbpsCXI0V-JaGwFOg7yC-channels4_profile_%281%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 16,
+    "lastModified": "2026-09-28T22:21:39.605Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "TheFork Scraper [$1.5/1k💰] | Restaurant Leads & Reviews",
+    "slug": "thefork-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/thefork-scraper",
+    "description": "Scrape restaurants, reviews, menus and prices from TheFork.com (TripAdvisor's European reservation platform): name, cuisine, price, rating, review text, geolocation and bookability for restaurant lead generation and hospitality market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-2hdZt9KX0ayowHODw-lxhU2grUdv-unnamed_%2813%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 22,
+    "lastModified": "2026-09-27T22:22:56.388Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Hubzu Auction Scraper [$0.9/1k💰] | Foreclosures | REO & Bids",
+    "slug": "hubzu-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/hubzu-scraper",
+    "description": "Scrape foreclosure, REO, short-sale and auction property listings from Hubzu — current and starting bids, list prices, specs and auction dates — for distressed-property leads and real estate market analysis.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-eA02AenlosJwO43eU-6ZwVdSnhzB-unnamed_%2815%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 13,
+    "lastModified": "2026-09-27T22:22:22.866Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Vivian Health Scraper [$3.5/1k💰] | Travel Nurse Jobs & Pay",
+    "slug": "vivian-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/vivian-scraper",
+    "description": "Scrape Vivian Health travel nurse and allied-health jobs with normalized weekly pay, housing and meal stipends, benefits, facility, staffing agency and recruiter data — for pay benchmarking, staffing research and healthcare market intelligence.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-a9wP7cDabZT4v0Dny-pgmZyFqrNp-unnamed_%2812%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": 0.0035
+    },
+    "totalUsers": 2,
+    "totalRuns": 27,
+    "lastModified": "2026-09-27T22:22:05.063Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Sortlist Scraper [$0.8/1k💰] | B2B Leads | Budget & Review Data",
+    "slug": "sortlist-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/sortlist-scraper",
+    "description": "Scrape B2B agency listings and profiles from Sortlist — services with budget ranges, reviews, team size, offices, social links and websites — for agency lead generation and market research. No official API needed.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-srIDyYt55kyKEc4Jj-iheej6K7gW-images_%2812%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 15,
+    "lastModified": "2026-09-27T22:21:42.060Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Checkatrade Scraper [$3/1k💰] | Reviews | UK Trades Leads",
+    "slug": "checkatrade-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/checkatrade-scraper",
+    "description": "Scrape Checkatrade, the UK's vetted tradespeople directory: company name, trade, location, rating out of 10, review count, phone and latest review text. Build UK trades lead lists, run review intelligence and research the home-services market — a real Checkatrade API alternative.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-4sUmUyJrd07L3EbK9-Oes8OoSloc-images_%285%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 73,
+    "lastModified": "2026-09-27T11:59:29.108Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "eBay Sold Items Scraper [Only $2.5/1K💰] | Price Tracker",
+    "slug": "ebay-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/ebay-scraper",
+    "description": "Extract eBay sold items data — final sold prices, shipping and total costs per completed listing — for price tracking and resale research. Search by keyword on ebay.com, or paste URLs from any eBay marketplace. Deep scan adds category path and item specifics. Only $0.0025 per result.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-rkCHa4xCzFBbMBtzS-EGoh2apChh-4axjo9opkboC48FYo-ebay_PNG22.webp",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 33,
+    "totalRuns": 494,
+    "lastModified": "2026-09-27T11:45:37.212Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
     "title": "RepVue Scraper [$0.7💰] | Sales Comp | Company Reviews",
     "slug": "repvue-scraper",
     "url": "https://apify.com/ahmed_jasarevic/repvue-scraper",
@@ -12,7 +1836,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 24,
+    "totalRuns": 30,
     "lastModified": "2026-09-27T08:52:10.791Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -31,9 +1855,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 16,
     "lastModified": "2026-09-26T22:22:54.793Z",
-    "rating": null,
+    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -50,9 +1874,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 102,
+    "totalRuns": 108,
     "lastModified": "2026-09-26T22:22:12.192Z",
-    "rating": null,
+    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -69,9 +1893,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 26,
     "lastModified": "2026-09-26T22:21:43.905Z",
-    "rating": null,
+    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -87,10 +1911,10 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 4,
+    "totalUsers": 1,
+    "totalRuns": 14,
     "lastModified": "2026-09-26T22:21:17.851Z",
-    "rating": null,
+    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -107,9 +1931,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 4,
+    "totalRuns": 10,
     "lastModified": "2026-09-26T22:21:01.547Z",
-    "rating": null,
+    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -126,7 +1950,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 17,
+    "totalRuns": 23,
     "lastModified": "2026-09-25T22:21:41.308Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -145,7 +1969,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 127,
+    "totalRuns": 133,
     "lastModified": "2026-09-25T22:21:26.618Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -164,7 +1988,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 39,
     "lastModified": "2026-09-25T22:20:58.079Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -183,7 +2007,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 37,
+    "totalRuns": 43,
     "lastModified": "2026-09-25T22:20:44.859Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -202,7 +2026,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 51,
+    "totalRuns": 57,
     "lastModified": "2026-09-25T16:02:59.615Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -221,7 +2045,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 12,
+    "totalRuns": 18,
     "lastModified": "2026-09-24T22:15:18.658Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -240,7 +2064,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 5,
+    "totalRuns": 11,
     "lastModified": "2026-09-24T22:14:58.037Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -259,7 +2083,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 7,
+    "totalRuns": 13,
     "lastModified": "2026-09-24T22:14:53.505Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -278,7 +2102,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 7,
+    "totalRuns": 13,
     "lastModified": "2026-09-24T22:14:32.882Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -297,28 +2121,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 11,
+    "totalRuns": 17,
     "lastModified": "2026-09-24T22:14:23.240Z",
     "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Amazon Bestsellers [💰$2.5/1K] | Rankings | Prices | Reviews",
-    "slug": "amazon-bestsellers-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/amazon-bestsellers-scraper",
-    "description": "Scrape Amazon bestseller lists with product details, prices, ratings, and rankings",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Do453WelT2QTrC5aO-nJX801xy2c-images_%285%29.png",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 12,
-    "totalRuns": 273,
-    "lastModified": "2026-09-24T19:01:08.530Z",
-    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -335,7 +2140,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 23,
+    "totalRuns": 28,
     "lastModified": "2026-09-23T22:14:15.283Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -354,27 +2159,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 12,
+    "totalRuns": 17,
     "lastModified": "2026-09-23T22:13:26.729Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "PissedConsumer Scraper  | Complaints & Reviews API",
-    "slug": "pissedconsumer-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/pissedconsumer-scraper",
-    "description": "Scrape PissedConsumer company reviews and complaints at $0.005 per result. Get ratings, pros, cons, reported losses, reviewer details, and company replies for brand reputation monitoring, scam checks, and consumer insight research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-AEHdWOjHjekROzrMF-Ptea5Wq5fw-pissedconsumer_logo.jfif",
-    "category": "uncategorized",
-    "displayCategory": "SEO & AI Tools",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 3,
-    "totalRuns": 9,
-    "lastModified": "2026-09-23T22:13:21.696Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -392,7 +2178,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 19,
     "lastModified": "2026-09-23T22:12:31.489Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -411,7 +2197,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 40,
+    "totalRuns": 45,
     "lastModified": "2026-09-23T22:11:49.723Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -430,7 +2216,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 35,
     "lastModified": "2026-09-23T09:45:09.196Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -449,7 +2235,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 15,
     "lastModified": "2026-09-23T08:14:31.204Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -468,9 +2254,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 117,
+    "totalRuns": 123,
     "lastModified": "2026-09-23T08:13:21.988Z",
-    "rating": 0,
+    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -487,7 +2273,7 @@
       "pricePerUnit": 0.001
     },
     "totalUsers": 3,
-    "totalRuns": 12,
+    "totalRuns": 18,
     "lastModified": "2026-09-22T22:13:13.781Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -506,7 +2292,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 22,
+    "totalRuns": 28,
     "lastModified": "2026-09-22T22:13:00.366Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -524,28 +2310,9 @@
       "model": "pay-per-event",
       "pricePerUnit": 0.001
     },
-    "totalUsers": 3,
-    "totalRuns": 32,
+    "totalUsers": 1,
+    "totalRuns": 47,
     "lastModified": "2026-09-22T22:12:46.333Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Airtasker Scraper [From $2💰] | AU UK US | Monitor",
-    "slug": "airtasker-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/airtasker-scraper",
-    "description": "Extract Airtasker tasks, bids, reviews and public poster & tasker profiles for gig-economy research, lead generation and price monitoring across AU, UK, US, IE, NZ and SG.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-QjgKYG0ewbaGLjBpW-dxDt29ivKt-images_%2810%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": 0.002
-    },
-    "totalUsers": 2,
-    "totalRuns": 10,
-    "lastModified": "2026-09-22T22:12:36.125Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -563,7 +2330,7 @@
       "pricePerUnit": 0.0009
     },
     "totalUsers": 2,
-    "totalRuns": 16,
+    "totalRuns": 22,
     "lastModified": "2026-09-22T22:11:43.430Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -582,7 +2349,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 54,
+    "totalRuns": 60,
     "lastModified": "2026-09-22T13:05:03.009Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -601,27 +2368,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 37,
+    "totalRuns": 43,
     "lastModified": "2026-09-21T22:11:44.131Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Yell.com Scraper [$1.2/1K💰] | UK Leads | Emails & Phones",
-    "slug": "yell-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/yell-scraper",
-    "description": "Scrape UK business listings from Yell.com for lead generation: business name, email, phone, website, address, category, rating, reviews and opening hours per listing. Built for UK lead-gen agencies, SMB outreach teams, local SEO auditors and CRM enrichment.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TeNkFDXdZyxJvi5CM-EB9cq1h3TW-images_%2823%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 3,
-    "totalRuns": 79,
-    "lastModified": "2026-09-21T22:11:27.824Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -639,7 +2387,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 35,
+    "totalRuns": 41,
     "lastModified": "2026-09-21T22:11:11.637Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -658,27 +2406,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 9,
+    "totalRuns": 15,
     "lastModified": "2026-09-21T22:10:55.428Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Crunchbase Scraper [$4💰] | Funding Rounds | Investors",
-    "slug": "crunchbase-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/crunchbase-scraper",
-    "description": "Scrape Crunchbase company profiles from any URL or slug: funding rounds, investors, total funding, employee count, industries, location, social links and IPO status. Export as JSON, CSV or Excel. No API key, no login.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Uf6Rnr9OK7YAa2YQI-XSJpVXw3Um-crunch.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": 0.004
-    },
-    "totalUsers": 2,
-    "totalRuns": 56,
-    "lastModified": "2026-09-20T22:11:30.166Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -696,7 +2425,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 16,
     "lastModified": "2026-09-20T22:11:19.864Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -715,7 +2444,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 44,
+    "totalRuns": 50,
     "lastModified": "2026-09-20T22:10:53.297Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -734,7 +2463,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 29,
+    "totalRuns": 36,
     "lastModified": "2026-09-20T22:10:41.415Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -752,8 +2481,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 9,
+    "totalUsers": 3,
+    "totalRuns": 17,
     "lastModified": "2026-09-20T22:10:17.292Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -772,7 +2501,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 147,
+    "totalRuns": 153,
     "lastModified": "2026-09-20T17:36:43.297Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -791,7 +2520,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 23,
-    "totalRuns": 289,
+    "totalRuns": 295,
     "lastModified": "2026-09-20T17:22:51.060Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -810,7 +2539,7 @@
       "pricePerUnit": 0.004
     },
     "totalUsers": 2,
-    "totalRuns": 59,
+    "totalRuns": 65,
     "lastModified": "2026-09-19T22:05:58.842Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -829,7 +2558,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 13,
+    "totalRuns": 19,
     "lastModified": "2026-09-19T22:04:28.347Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -848,7 +2577,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 22,
+    "totalRuns": 28,
     "lastModified": "2026-09-19T21:28:14.496Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -867,27 +2596,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 16,
     "lastModified": "2026-09-19T21:25:59.354Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "OpenTable Scraper [$0.2/1K💰] | Reviews | Menus | Data",
-    "slug": "opentable-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/opentable-scraper",
-    "description": "[$0.2/1K💰] Cheapest OpenTable scraper on Apify. Scrape restaurant data: name, cuisine, price band, rating, reviews, address, hours, menus, availability slots, photos, coordinates for restaurant market research and lead generation. No login, no token.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-3kCDLj03vvG4ZeCnw-uZvHyXfQxL-images_%289%29.jfif",
-    "category": "travel",
-    "displayCategory": "Travel",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 95,
-    "lastModified": "2026-09-19T16:52:17.816Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -905,7 +2615,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 13,
+    "totalRuns": 19,
     "lastModified": "2026-09-18T22:05:29.587Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -924,7 +2634,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 144,
+    "totalRuns": 150,
     "lastModified": "2026-09-18T22:04:14.276Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -943,7 +2653,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 109,
+    "totalRuns": 115,
     "lastModified": "2026-09-18T20:54:42.296Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -962,7 +2672,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 12,
+    "totalRuns": 18,
     "lastModified": "2026-09-18T20:52:31.321Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -980,8 +2690,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 33,
+    "totalUsers": 4,
+    "totalRuns": 44,
     "lastModified": "2026-09-18T20:52:21.353Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -999,8 +2709,8 @@
       "model": "pay-per-event",
       "pricePerUnit": 0.003
     },
-    "totalUsers": 1,
-    "totalRuns": 67,
+    "totalUsers": 3,
+    "totalRuns": 83,
     "lastModified": "2026-09-18T20:51:34.521Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1019,7 +2729,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 74,
+    "totalRuns": 80,
     "lastModified": "2026-09-18T15:40:04.269Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1037,8 +2747,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 18,
+    "totalUsers": 4,
+    "totalRuns": 29,
     "lastModified": "2026-09-18T09:00:13.626Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1057,7 +2767,7 @@
       "pricePerUnit": 0.0015
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 39,
     "lastModified": "2026-09-18T07:56:28.599Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1076,7 +2786,7 @@
       "pricePerUnit": 0.0007
     },
     "totalUsers": 3,
-    "totalRuns": 13,
+    "totalRuns": 19,
     "lastModified": "2026-09-17T16:09:17.600Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1094,8 +2804,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 26,
+    "totalUsers": 2,
+    "totalRuns": 34,
     "lastModified": "2026-09-17T16:06:34.382Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1114,7 +2824,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 83,
+    "totalRuns": 89,
     "lastModified": "2026-09-17T07:46:13.814Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1133,7 +2843,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 24,
     "lastModified": "2026-09-16T22:01:23.937Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1152,7 +2862,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 25,
+    "totalRuns": 31,
     "lastModified": "2026-09-16T15:55:17.659Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1170,8 +2880,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 16,
+    "totalUsers": 1,
+    "totalRuns": 25,
     "lastModified": "2026-09-16T15:55:07.255Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1190,7 +2900,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 15,
+    "totalRuns": 21,
     "lastModified": "2026-09-16T15:54:44.239Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1209,28 +2919,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 22,
-    "totalRuns": 170,
+    "totalRuns": 176,
     "lastModified": "2026-09-16T09:37:48.282Z",
     "rating": 5.000000000000001,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Linktree, Beacons & Bio Email Scraper: Extract Leads",
-    "slug": "linktree-beacons-bio-email-scraper-extract-leads",
-    "url": "https://apify.com/ahmed_jasarevic/linktree-beacons-bio-email-scraper-extract-leads",
-    "description": "Turn Linktree, Beacons and Bio URLs into real Email Leads. Scrape contact info, social handles, and affiliate links from Linktree, Beacons and influencers profiles automatically.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-3t8Np6SkOtweErTgg-THR6FmMABC-Avatar-Symbol-Canopy.png",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 258,
-    "totalRuns": 46277,
-    "lastModified": "2026-09-16T09:37:11.612Z",
-    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -1247,7 +2938,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 11,
-    "totalRuns": 345,
+    "totalRuns": 353,
     "lastModified": "2026-09-15T22:11:03.067Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1266,46 +2957,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 24,
     "lastModified": "2026-09-15T20:13:09.979Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Reddit Scraper [$1.3/1K] | Posts | Comments | Users",
-    "slug": "reddit-scraper-pro",
-    "url": "https://apify.com/ahmed_jasarevic/reddit-scraper-pro",
-    "description": "Scrape Reddit posts, comments, user profiles, and subreddits cheaply",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-ICXhds4TXZQsIvRFN-6Nl9ktjgIx-reddit.png",
-    "category": "social_media",
-    "displayCategory": "Social Media",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 28,
-    "totalRuns": 392,
-    "lastModified": "2026-09-15T16:53:57.269Z",
-    "rating": 5.000000000000001,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "HomeAdvisor Scraper [Only $3] | Contractor Leads",
-    "slug": "homeadvisor-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/homeadvisor-scraper",
-    "description": "Extract US home service professionals from HomeAdvisor/Angi by trade and location. Get company name, rating, reviews, Elite badges, services, and profile URLs - structured JSON via Angi internal API. Built for lead generation, market research, and CRM enrichment.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-HLkK5jYOPpyS3tk8k-XKn3hfxhUj-images_%283%29.jfif",
-    "category": "uncategorized",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 3,
-    "totalRuns": 59,
-    "lastModified": "2026-09-15T15:08:30.507Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1322,28 +2975,9 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 40,
-    "lastModified": "2026-09-15T15:08:28.761Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Wikipedia Scraper [$0.7💰/1k] | RAG & AI Training",
-    "slug": "wikipedia-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/wikipedia-scraper",
-    "description": "Extract structured data from Wikipedia articles — infoboxes, sections, tables and full text. Build knowledge graphs, RAG pipelines and AI training datasets from the world's largest encyclopedia.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Fg22T5bw1kCv0LJ9W-6eY5v33DVx-images_%289%29.jfif",
-    "category": "developer_tools",
-    "displayCategory": "SEO & AI Tools",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
     "totalUsers": 3,
-    "totalRuns": 44,
-    "lastModified": "2026-09-14T22:03:22.924Z",
+    "totalRuns": 47,
+    "lastModified": "2026-09-15T15:08:28.761Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1361,7 +2995,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 75,
+    "totalRuns": 81,
     "lastModified": "2026-09-14T22:02:24.529Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1380,7 +3014,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 43,
+    "totalRuns": 49,
     "lastModified": "2026-09-14T21:58:43.415Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1399,7 +3033,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 47,
+    "totalRuns": 53,
     "lastModified": "2026-09-14T21:57:50.828Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1418,7 +3052,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 43,
+    "totalRuns": 49,
     "lastModified": "2026-09-14T21:56:54.830Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1437,46 +3071,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 54,
+    "totalRuns": 60,
     "lastModified": "2026-09-14T21:56:21.920Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Campsite.bio Scraper | Creator Leads & Profiles",
-    "slug": "campsite-bio-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/campsite-bio-scraper",
-    "description": "Extract creator profiles from Campsite.bio — bios, links, social accounts and contact data. Build influencer outreach lists and analyze link strategies for creator economy research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-qIB0lGbluLhhFcOx2-LDKwuXNZli-images_%286%29.jfif",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 39,
-    "lastModified": "2026-09-14T21:55:36.233Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Checkatrade Scraper [$3/1k💰] | Reviews | UK Trades Leads",
-    "slug": "checkatrade-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/checkatrade-scraper",
-    "description": "Scrape Checkatrade, the UK's vetted tradespeople directory: company name, trade, location, rating out of 10, review count, phone and latest review text. Build UK trades lead lists, run review intelligence and research the home-services market — a real Checkatrade API alternative.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-4sUmUyJrd07L3EbK9-Oes8OoSloc-images_%285%29.jfif",
-    "category": "uncategorized",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 3,
-    "totalRuns": 51,
-    "lastModified": "2026-09-14T21:54:18.597Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1493,8 +3089,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 32,
+    "totalUsers": 1,
+    "totalRuns": 42,
     "lastModified": "2026-09-14T21:53:35.152Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1513,27 +3109,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 72,
+    "totalRuns": 78,
     "lastModified": "2026-09-14T21:52:38.094Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Toptal Job Scraper | Premium Freelance Jobs",
-    "slug": "toptal-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/toptal-scraper",
-    "description": "Scrapes Toptal job listings, skill categories, and talent network data. Extracts job titles, skills, commitment types, and more from the world's top freelance platform.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Kl37qPgepLIKA2I5d-MFuFBVMyB0-images_%284%29.jfif",
-    "category": "uncategorized",
-    "displayCategory": "Jobs",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 31,
-    "lastModified": "2026-09-14T21:51:11.806Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1551,7 +3128,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 24,
     "lastModified": "2026-09-14T18:28:43.045Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1570,7 +3147,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 24,
     "lastModified": "2026-09-14T14:42:54.552Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1589,7 +3166,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 26,
     "lastModified": "2026-09-14T14:42:52.582Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1608,7 +3185,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 24,
     "lastModified": "2026-09-14T14:00:10.931Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1626,8 +3203,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 98,
+    "totalUsers": 6,
+    "totalRuns": 112,
     "lastModified": "2026-09-14T14:00:02.749Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1646,7 +3223,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 36,
+    "totalRuns": 42,
     "lastModified": "2026-09-14T13:59:58.417Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1664,8 +3241,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 47,
+    "totalUsers": 5,
+    "totalRuns": 55,
     "lastModified": "2026-09-14T13:59:54.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1684,7 +3261,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 24,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T13:59:43.710Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1702,8 +3279,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 40,
+    "totalUsers": 8,
+    "totalRuns": 74,
     "lastModified": "2026-09-14T13:59:36.608Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1722,7 +3299,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 57,
+    "totalRuns": 63,
     "lastModified": "2026-09-14T13:59:32.828Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1741,7 +3318,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 35,
     "lastModified": "2026-09-14T13:59:29.205Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1760,7 +3337,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 40,
     "lastModified": "2026-09-14T13:59:25.008Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1779,7 +3356,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 39,
     "lastModified": "2026-09-14T13:59:20.896Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1798,46 +3375,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 40,
+    "totalRuns": 46,
     "lastModified": "2026-09-14T13:59:17.187Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Funda.nl Scraper | Dutch Property & Real Estate",
-    "slug": "funda-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/funda-scraper",
-    "description": "Extract residential and commercial property listings from Funda.nl and FundainBusiness.nl — prices, addresses, features and images. Netherlands real estate data.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-eob6yoaesgkSCCRU5-KAiWpbQK2K-unnamed_%284%29.png",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 5,
-    "totalRuns": 166,
-    "lastModified": "2026-09-14T13:59:13.675Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Zoopla Scraper [$0.50/1K💰] | UK Property | Leads",
-    "slug": "zoopla-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/zoopla-scraper",
-    "description": "Scrape Zoopla.co.uk for UK property listings: sale and rental prices, sold-price history, EPC ratings, agent contacts, floor area, tenure and council tax bands. Track price drops, monitor new listings and build agent lead lists across London, Manchester and all UK postcodes.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-0pkfjDFet1W22Z5hp-1szYRqfJ2A-images_%283%29.jfif",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 57,
-    "lastModified": "2026-09-14T13:59:09.494Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1854,8 +3393,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 28,
+    "totalUsers": 3,
+    "totalRuns": 46,
     "lastModified": "2026-09-14T13:25:58.139Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1874,7 +3413,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 23,
+    "totalRuns": 29,
     "lastModified": "2026-09-14T13:25:47.539Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1893,7 +3432,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 16,
+    "totalRuns": 22,
     "lastModified": "2026-09-14T13:25:43.689Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1912,7 +3451,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 73,
+    "totalRuns": 79,
     "lastModified": "2026-09-14T13:25:32.665Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1930,8 +3469,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 27,
+    "totalUsers": 1,
+    "totalRuns": 34,
     "lastModified": "2026-09-14T13:25:21.063Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1950,7 +3489,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 19,
+    "totalRuns": 25,
     "lastModified": "2026-09-14T13:25:17.445Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1968,8 +3507,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 27,
+    "totalUsers": 1,
+    "totalRuns": 35,
     "lastModified": "2026-09-14T13:25:09.973Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1988,27 +3527,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 27,
     "lastModified": "2026-09-14T13:24:43.662Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "CarGurus Scraper [Only $1💰] | IMV | Deals | Leads",
-    "slug": "cargurus-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/cargurus-scraper",
-    "description": "Scrape CarGurus vehicle listings with Instant Market Value, deal ratings, VIN, and dealer data. Find underpriced used cars, monitor inventory, and build pricing databases. $0.001 per listing.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TajlmVvrO9Eacup65-H2rpwDNRdS-images_%281%29.jfif",
-    "category": "uncategorized",
-    "displayCategory": "Automotive",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 34,
-    "lastModified": "2026-09-14T13:24:36.059Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2026,7 +3546,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 82,
+    "totalRuns": 88,
     "lastModified": "2026-09-14T13:24:32.010Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2044,8 +3564,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 65,
+    "totalUsers": 10,
+    "totalRuns": 95,
     "lastModified": "2026-09-14T13:24:23.765Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2064,7 +3584,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 23,
+    "totalRuns": 29,
     "lastModified": "2026-09-14T13:24:16.675Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2083,7 +3603,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 24,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T13:14:09.155Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2102,7 +3622,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 24,
+    "totalRuns": 30,
     "lastModified": "2026-09-14T13:14:05.033Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2121,7 +3641,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 15,
+    "totalRuns": 21,
     "lastModified": "2026-09-14T13:14:01.359Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2140,7 +3660,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 52,
+    "totalRuns": 58,
     "lastModified": "2026-09-14T13:13:57.561Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2158,8 +3678,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 30,
+    "totalUsers": 1,
+    "totalRuns": 37,
     "lastModified": "2026-09-14T13:13:46.178Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2178,7 +3698,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 40,
+    "totalRuns": 46,
     "lastModified": "2026-09-14T13:13:42.166Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2197,7 +3717,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 39,
     "lastModified": "2026-09-14T13:13:34.889Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2216,27 +3736,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 33,
+    "totalRuns": 39,
     "lastModified": "2026-09-14T13:13:31.157Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Classpass Scraper",
-    "slug": "classpass-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/classpass-scraper",
-    "description": "Scrapes fitness class schedules, studio profiles, pricing, and reviews from ClassPass and MindbodyOnline.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-kp09718WJyxWs4nxc-JVnTMOctgC-images_%2817%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 3,
-    "totalRuns": 38,
-    "lastModified": "2026-09-14T13:13:27.161Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2254,46 +3755,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 17,
+    "totalRuns": 23,
     "lastModified": "2026-09-14T13:13:23.941Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Boat Trader Scraper $1.3/1K💰 | Boat Listings | Dealer Data",
-    "slug": "boattrader-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/boattrader-scraper",
-    "description": "Scrape Boat Trader — America's largest boat marketplace — for complete new and used boat listings and the full dealer directory. Track boat prices, research used boat values, build marine market intelligence. Only $1.30 per 1,000 results.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-R9cF05WF23lUqizq3-LJWs5L7B8l-0x0.png",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 92,
-    "lastModified": "2026-09-14T13:13:20.099Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Medium Scraper Cheapest - Profiles & History",
-    "slug": "medium-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/medium-scraper",
-    "description": "Extract writer profiles, article listings, reading history, and topic/tag discovery from Medium.com via RSS feeds and GraphQL API.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-m3nh66B4diD5Yammt-TQHVhuycbC-medium_logo_icon_189223.png",
-    "category": "uncategorized",
-    "displayCategory": "News & Content",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 3,
-    "totalRuns": 46,
-    "lastModified": "2026-09-14T13:13:13.075Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2311,27 +3774,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 40,
     "lastModified": "2026-09-14T13:13:09.448Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "99designs Scraper | Design Talent | Contests",
-    "slug": "99designs-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/99designs-scraper",
-    "description": "Extract 99designs designer profiles and contest listings for freelance talent sourcing, design contest monitoring, and market research. Get ratings, portfolio data, prizes, and entry volume as structured datasets.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-yoB0QBzfIX9t7wQym-XQNxJVr7ba-og-image-80cfd8beb6.png",
-    "category": "uncategorized",
-    "displayCategory": "Jobs",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 27,
-    "lastModified": "2026-09-14T13:13:05.929Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2349,7 +3793,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 30,
+    "totalRuns": 36,
     "lastModified": "2026-09-14T13:12:55.422Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2368,7 +3812,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 36,
+    "totalRuns": 42,
     "lastModified": "2026-09-14T13:12:51.523Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2386,8 +3830,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 35,
+    "totalUsers": 5,
+    "totalRuns": 43,
     "lastModified": "2026-09-14T13:12:47.843Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2405,8 +3849,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 60,
+    "totalUsers": 3,
+    "totalRuns": 67,
     "lastModified": "2026-09-14T13:12:43.978Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2425,7 +3869,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 30,
+    "totalRuns": 36,
     "lastModified": "2026-09-14T13:12:40.173Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2444,7 +3888,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 35,
     "lastModified": "2026-09-14T13:12:36.288Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2463,7 +3907,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 31,
+    "totalRuns": 37,
     "lastModified": "2026-09-14T13:12:32.565Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2482,7 +3926,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 31,
+    "totalRuns": 37,
     "lastModified": "2026-09-14T13:12:28.695Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2501,7 +3945,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 32,
+    "totalRuns": 38,
     "lastModified": "2026-09-14T12:58:11.094Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2520,7 +3964,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 101,
+    "totalRuns": 107,
     "lastModified": "2026-09-14T12:58:04.313Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2539,7 +3983,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 39,
+    "totalRuns": 45,
     "lastModified": "2026-09-14T12:57:56.806Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2558,7 +4002,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 58,
+    "totalRuns": 64,
     "lastModified": "2026-09-14T12:57:50.550Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2577,27 +4021,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-09-14T12:57:43.498Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Realtor Agent Scraper [$1/1K💰]| Leads | CRM",
-    "slug": "realtor-agent-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/realtor-agent-scraper",
-    "description": "Extract US real estate agents from Realtor.com: phone, email, brokerage, listings, reviews, service areas and specialties. Build lead lists, enrich CRM and research agent density across US cities, states and ZIP codes. Pure HTTP, no browser needed.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-IHzyK5D7wtZ1fAnfi-5s4gba8Rcl-web_R_blue.jpg",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 76,
-    "lastModified": "2026-09-14T12:57:37.901Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2615,7 +4040,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 51,
+    "totalRuns": 57,
     "lastModified": "2026-09-14T12:57:27.175Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2634,7 +4059,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 35,
+    "totalRuns": 41,
     "lastModified": "2026-09-14T12:57:18.673Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2653,27 +4078,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 74,
+    "totalRuns": 80,
     "lastModified": "2026-09-14T12:57:08.314Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "FranchiseGator Scraper | Franchise Data | Fees",
-    "slug": "franchise-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/franchise-scraper",
-    "description": "Extract franchise opportunities from FranchiseGator — investment ranges, franchise fees, royalty fees, brand strength scores and available units.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gzWaFjxoeMsJziyWN-aSZs2v6Kob-franchise-gator-og-logo-1.png",
-    "category": "developer_tools",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 38,
-    "lastModified": "2026-09-14T12:57:01.830Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2691,7 +4097,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 47,
+    "totalRuns": 53,
     "lastModified": "2026-09-14T12:56:50.472Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2710,7 +4116,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-09-14T12:56:41.298Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2729,7 +4135,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-09-14T12:56:34.860Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2748,46 +4154,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-09-14T12:56:28.580Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Court Records Scraper CHEAP 💰 | Evictions",
-    "slug": "court-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/court-scraper",
-    "description": "Extract court records and eviction data from public sources — case numbers, filing dates, parties, dispositions and addresses. Screen tenants and research legal cases.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-NLwjFHMrrrzDYqDnR-dJomj4zVWm-Eviction_court.webp",
-    "category": "developer_tools",
-    "displayCategory": "SEO & AI Tools",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 37,
-    "lastModified": "2026-09-14T12:56:22.148Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "NPI Registry Scraper CHEAP 💰 | Providers",
-    "slug": "medical-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/medical-scraper",
-    "description": "Extract healthcare provider data from the NPI Registry — NPI numbers, specialties, addresses, phone numbers and insurance participation. Search by NPI, name, specialty, city or state.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-JrKqWrJE8pK55jDfu-mNAgmFJciU-5pIz5izJ3tbbbX4by-actor-OuttV9PspMD21gcdO-bqSfSZlaHL-npi.webp",
-    "category": "automation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 3,
-    "totalRuns": 40,
-    "lastModified": "2026-09-14T12:56:15.842Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2805,27 +4173,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 37,
+    "totalRuns": 43,
     "lastModified": "2026-09-14T12:56:09.661Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Shopify Store Scraper [$2.35💰] | Tech Stack & Apps",
-    "slug": "shopify-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/shopify-scraper",
-    "description": "Analyze any Shopify store — detect installed apps, theme, tech stack, social links and contact info. Extract product counts, collection structure and page speed metrics for ecommerce intelligence.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-W5gAB3ZbLAzdsGcJE-WMjF7Ug8vJ-images_%281%29.jfif",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 38,
-    "lastModified": "2026-09-14T12:55:55.378Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2843,7 +4192,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 76,
+    "totalRuns": 82,
     "lastModified": "2026-09-14T12:34:44.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2862,27 +4211,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 46,
+    "totalRuns": 52,
     "lastModified": "2026-09-14T12:34:37.026Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "about.me Scraper | Bios & Emails | B2B Prospecting",
-    "slug": "aboutme-profile-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/aboutme-profile-scraper",
-    "description": "Scrape about.me professional profiles by handle or URL for B2B sales prospecting, lead enrichment, recruiting and outreach: name, headline, bio, location, public emails & phones, social links, tags, interests, schools and jobs.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-An57ZULmTeCZWO3H6-9FGoOfaXxT-loading-user-icon-design-free-vector.jpg",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 39,
-    "lastModified": "2026-09-14T12:34:32.542Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2900,27 +4230,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 40,
+    "totalRuns": 46,
     "lastModified": "2026-09-14T12:34:25.377Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "ConsumerAffairs Scraper | Reviews | Complaints | Ratings",
-    "slug": "consumeraffairs-reviews-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/consumeraffairs-reviews-scraper",
-    "description": "Extract ConsumerAffairs.com company profiles and individual customer reviews — ratings, complaint categories, company replies, and verified status — for review monitoring, complaint analysis, competitive intelligence, and market research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-OHHpCzi36k5GJN4Ja-qCBc1NxoHl-images_%2811%29.png",
-    "category": "developer_tools",
-    "displayCategory": "SEO & AI Tools",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 10,
-    "totalRuns": 77,
-    "lastModified": "2026-09-14T12:34:21.600Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2938,7 +4249,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 50,
+    "totalRuns": 56,
     "lastModified": "2026-09-14T12:34:18.067Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2957,7 +4268,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 41,
+    "totalRuns": 47,
     "lastModified": "2026-09-14T12:34:14.444Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2976,7 +4287,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 8,
-    "totalRuns": 233,
+    "totalRuns": 249,
     "lastModified": "2026-09-14T12:34:10.983Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2995,7 +4306,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 49,
+    "totalRuns": 55,
     "lastModified": "2026-09-14T12:34:07.448Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3014,7 +4325,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 57,
+    "totalRuns": 63,
     "lastModified": "2026-09-14T12:34:03.946Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3033,160 +4344,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 42,
+    "totalRuns": 48,
     "lastModified": "2026-09-14T12:33:56.866Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "GoodFirms Scraper [$3.50💰] | B2B Agency Leads",
-    "slug": "goodfirms-agency-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/goodfirms-agency-scraper",
-    "description": "Extract B2B agency data from GoodFirms — company names, ratings, reviews, hourly rates, team sizes and locations. Build agency lead lists for outreach, competitor analysis and market research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-GVhU4xJgUYlFdIStY-f8zwBQYdZY-goodfirms_logo.jfif",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 43,
-    "lastModified": "2026-09-14T12:33:53.271Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Manifest Agency Scraper | B2B Agency Leads",
-    "slug": "manifest-agency-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/manifest-agency-scraper",
-    "description": "Extract B2B agency profiles from The Manifest — company names, ratings, reviews, hourly rates, project sizes, team sizes, services and client data. Build lead lists for agency outreach.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Z7DbETbNMLKEWIlwu-uQ3AewmuHR-og_directory.png",
-    "category": "ai",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 44,
-    "lastModified": "2026-09-14T12:33:48.436Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Bark.com Scraper | UK/US Leads | Service Providers",
-    "slug": "bark-sellers-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/bark-sellers-scraper",
-    "description": "Scrape seller profiles, services, reviews, and contact details from Bark.com",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-BkDfeIUscmOh5mM3e-yhfZgssY9p-bark_com_logo.jfif",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 49,
-    "lastModified": "2026-09-14T12:33:41.671Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Whop Community Scraper [ $0.9💰] | Digital Products Data",
-    "slug": "whop-community-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/whop-community-scraper",
-    "description": "Extract digital product and community data from Whop.com — pricing, member counts, ratings and creator profiles. Research paid communities and digital products.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-s0v19z4Ma4QS9BVXh-TVMivv4em8-unnamed_%2816%29.png",
-    "category": "developer_tools",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 42,
-    "lastModified": "2026-09-14T12:33:35.097Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Wellfound Startup Scraper | Jobs & Companies",
-    "slug": "wellfound-startup-jobs-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/wellfound-startup-jobs-scraper",
-    "description": "Extract startup job listings and company profiles from Wellfound (AngelList) — salaries, equity, funding stages and hiring signals. Startup market intelligence.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-nSfqsl98JS2ci137F-JHgti5eaUU-wellfound.png",
-    "category": "jobs",
-    "displayCategory": "Jobs",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 63,
-    "lastModified": "2026-09-14T12:33:28.303Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "LTK Creator Scraper | Shoppable Links & Products",
-    "slug": "ltk-creator-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/ltk-creator-scraper",
-    "description": "Extract LTK (LikeToKnowIt) creator profiles, shoppable product links and brand mentions. Analyze influencer commerce and affiliate marketing data.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-q5VyVBQtOvLKypxLp-uMUsyWAOHe-ltk-creator-icon-filled-256.webp",
-    "category": "social_media",
-    "displayCategory": "Social Media",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 46,
-    "lastModified": "2026-09-14T12:33:21.181Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "RentCafe Scraper [$0.9/1K] | US Apartments Data",
-    "slug": "rentcafe-property-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/rentcafe-property-scraper",
-    "description": "Extract apartment rental listings from RentCafe.com — rent prices, amenities, availability and property details. US rental market data and analytics.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-71EMZjcNFNTNVVu8r-47OB8AwTts-unnamed_%2814%29.png",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 44,
-    "lastModified": "2026-09-14T12:33:14.701Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Clutch.co Scraper | B2B Leads | Agency Data",
-    "slug": "clutch-agency-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/clutch-agency-scraper",
-    "description": "Scrape Clutch.co agency profiles, ratings, and contact emails for B2B lead generation and market research",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-8rFaYsSooj40GMEgg-egIXrvXGIf-images.jfif",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 67,
-    "lastModified": "2026-09-14T12:33:08.352Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3204,7 +4363,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 56,
+    "totalRuns": 66,
     "lastModified": "2026-09-14T12:33:01.711Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3223,7 +4382,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 67,
+    "totalRuns": 73,
     "lastModified": "2026-09-14T12:32:54.887Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3242,103 +4401,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 50,
+    "totalRuns": 57,
     "lastModified": "2026-09-14T12:32:47.937Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Solo.to Scraper | Creator Profiles | Email Extract",
-    "slug": "solo-profile-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/solo-profile-scraper",
-    "description": "Scrape Solo.to creator profiles with email extraction for influencer outreach and creator lead generation",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-eI2dp2LnpSSpYoFOS-MhyNm2g7mJ-images_%289%29.png",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 53,
-    "lastModified": "2026-09-14T12:32:39.843Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Carrd Scraper | One-Page Profiles | Email Extract",
-    "slug": "carrd-profile-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/carrd-profile-scraper",
-    "description": "Scrape Carrd one-page profiles with email extraction and contact discovery for creator outreach",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Kj1uKPoacltfwsd9Y-R73htNeyOB-logo.png",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 51,
-    "lastModified": "2026-09-14T12:19:53.391Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "AllMyLinks Scraper | Creator Profiles | Email Disc",
-    "slug": "allmylinks-profile-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/allmylinks-profile-scraper",
-    "description": "Scrape AllMyLinks creator profiles with email discovery for influencer outreach and lead generation",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-8RFvAxvgjr83FFCIn-ofL7XD1qrf-alllinks.png",
-    "category": "ecommerce",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 61,
-    "lastModified": "2026-09-14T12:19:50.044Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Stan.store Scraper | Storefronts | Product Data",
-    "slug": "stan-store-creator-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/stan-store-creator-scraper",
-    "description": "Scrape Stan.store creator storefronts with product catalogs and pricing for competitive intelligence",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-7H3sx0GefK3S4lf0j-JVZIGhVbzI-Stan-Store.jpg",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 52,
-    "lastModified": "2026-09-14T12:19:46.484Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Bio Links Pack | 6 Platforms | Milkshake|Shorby",
-    "slug": "bio-links-pack-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/bio-links-pack-scraper",
-    "description": "Scrape bio link profiles from Milkshake, Shorby, Feedlink, ContactInBio, ManyLink, and CarveLink",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-BdJvs52rPpdWG75ke-PzGu2pchcN-unnamed_%2813%29.png",
-    "category": "social_media",
-    "displayCategory": "Social Media",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 52,
-    "lastModified": "2026-09-14T12:19:42.728Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3356,7 +4420,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 66,
+    "totalRuns": 72,
     "lastModified": "2026-09-14T12:19:34.291Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3375,7 +4439,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 131,
+    "totalRuns": 132,
     "lastModified": "2026-09-14T12:19:30.695Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3394,7 +4458,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 201,
+    "totalRuns": 207,
     "lastModified": "2026-09-14T12:19:27.293Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3412,28 +4476,9 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 88,
-    "totalRuns": 294,
+    "totalUsers": 91,
+    "totalRuns": 305,
     "lastModified": "2026-09-14T12:19:23.888Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "SeLoger [💰$0.8/1K] | French Property | Listings",
-    "slug": "seloger-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/seloger-scraper",
-    "description": "Extract SeLoger French real estate listings with prices, areas, and property details",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-5HwgbCwVv1W0APMPd-htYzCk2FRe-1200x630wa.png",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 4,
-    "totalRuns": 177,
-    "lastModified": "2026-09-14T12:19:21.091Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3450,8 +4495,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 14,
-    "totalRuns": 167,
+    "totalUsers": 15,
+    "totalRuns": 174,
     "lastModified": "2026-09-14T12:19:18.609Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3469,8 +4514,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 8,
-    "totalRuns": 167,
+    "totalUsers": 9,
+    "totalRuns": 175,
     "lastModified": "2026-09-14T12:19:15.488Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3489,7 +4534,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 156,
+    "totalRuns": 162,
     "lastModified": "2026-09-14T12:19:12.100Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3508,27 +4553,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 150,
+    "totalRuns": 156,
     "lastModified": "2026-09-14T12:19:08.652Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "StepStone Jobs Scraper [$0.9💰] | German Job Data",
-    "slug": "stepstone-job-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/stepstone-job-scraper",
-    "description": "Extract structured job listings from StepStone.de — titles, companies, salaries, locations and apply URLs. Germany and DACH region job market intelligence for recruitment, salary analytics and lead generation.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-5dpXc9NKjrr5ePRxw-3kidtEURyE-ngn8vRESTkseyWE6p-actor-pIVhuvHZkW2Llfjrr-8NiqKze465-stepstone.w",
-    "category": "jobs",
-    "displayCategory": "Jobs",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 162,
-    "lastModified": "2026-09-14T12:19:05.806Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3546,46 +4572,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 158,
+    "totalRuns": 164,
     "lastModified": "2026-09-14T12:19:00.254Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Gumroad Scraper | Products | Sales | Digital Goods",
-    "slug": "gumroad-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/gumroad-scraper",
-    "description": "Extract Gumroad product listings with pricing and sales data for digital product market research",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-mUMX0FJURQyhOxxcY-N9lzLMVude-images_%287%29.png",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 5,
-    "totalRuns": 182,
-    "lastModified": "2026-09-14T12:18:57.801Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Zalando Scraper [💰$1.5/1K] | Fashion | Products | Prices",
-    "slug": "zalando-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/zalando-scraper",
-    "description": "💰 $1.5 / 1K results. Scrape Zalando fashion listings and collect everything you need — product details, brands, prices, sizes, availability, images, and more. Ideal for competitor monitoring, fashion research, price comparison, and large-scale product data collection.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-prBYshOhxIsaahUQ8-hbM1JXR1hG-zalando-logo.png",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 20,
-    "totalRuns": 3814,
-    "lastModified": "2026-09-14T12:18:54.806Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3603,46 +4591,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 309,
+    "totalRuns": 318,
     "lastModified": "2026-09-14T12:18:47.868Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Vinted Arbitrage [💰$1/1K] | Cross-Country | Price Compare",
-    "slug": "vinted-cross-country-arbitrage-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/vinted-cross-country-arbitrage-scraper",
-    "description": "Scrape Vinted marketplace across countries for price arbitrage and deal discovery",
-    "imageUrl": null,
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 12,
-    "totalRuns": 212,
-    "lastModified": "2026-09-14T12:18:44.483Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Ultimate Skool Cheap | Members | Groups | Emails",
-    "slug": "ultimate-skool-scraper-members-groups-hidden-emails",
-    "url": "https://apify.com/ahmed_jasarevic/ultimate-skool-scraper-members-groups-hidden-emails",
-    "description": "Deep-scrape Skool groups including member profiles, hidden emails, and engagement",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-raWRBsiSIMiKmftea-Cd9MlXauG1-bcE6coeH8E3VHWA2N-skool.webp",
-    "category": "lead_generation",
-    "displayCategory": "Social Media",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 32,
-    "totalRuns": 227,
-    "lastModified": "2026-09-14T12:18:41.697Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3660,28 +4610,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 66,
+    "totalRuns": 72,
     "lastModified": "2026-09-14T12:14:59.431Z",
     "rating": 5,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Rightmove Scraper [$0.90/1K💰] UK Property · Sold Prices",
-    "slug": "rightmove-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/rightmove-scraper",
-    "description": "Extract UK property listings from Rightmove — prices, sold prices, agent data and floor plans.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-PnJlREhZY7X2yJ88B-WNr7TdLcxd-app-store.png",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 8,
-    "totalRuns": 268,
-    "lastModified": "2026-09-14T11:57:29.324Z",
-    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -3698,28 +4629,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 10,
-    "totalRuns": 288,
+    "totalRuns": 294,
     "lastModified": "2026-09-14T11:45:58.424Z",
     "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Yahoo Options Cheap | Chains | Greeks | Live",
-    "slug": "yahoo-finance-options",
-    "url": "https://apify.com/ahmed_jasarevic/yahoo-finance-options",
-    "description": "Extract Yahoo Finance options chains with Greeks, volume, and implied volatility data",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-xcdGsvadKUF5cwpjq-bgseWdoL86-71V1O5g6zOL.webp",
-    "category": "automation",
-    "displayCategory": "Finance",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 182,
-    "totalRuns": 1320,
-    "lastModified": "2026-09-14T11:42:56.976Z",
-    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -3736,27 +4648,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 9,
-    "totalRuns": 392,
+    "totalRuns": 398,
     "lastModified": "2026-09-14T11:42:50.171Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Skool Scraper [💰$2/1K] | Groups | Members | Gamification",
-    "slug": "skool-group-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/skool-group-scraper",
-    "description": "Scrape Skool community groups with member data, levels, and gamification stats",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-XXe7A6OchaJK6VeAq-KaphIvzQJQ-bcE6coeH8E3VHWA2N-skool.webp",
-    "category": "social_media",
-    "displayCategory": "Social Media",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 5,
-    "totalRuns": 178,
-    "lastModified": "2026-09-14T11:42:44.867Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3774,27 +4667,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 182,
+    "totalRuns": 188,
     "lastModified": "2026-09-14T11:42:43.064Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "We Work Remotely Scraper | Remote Jobs | Salaries",
-    "slug": "we-work-remotely-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/we-work-remotely-scraper",
-    "description": "Extract remote job listings from We Work Remotely — job titles, companies, salary ranges, tags and categories. Track remote work trends and hiring.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gv0iySk20AyKVBw3d-i5SRosq7sr-images_%284%29.png",
-    "category": "jobs",
-    "displayCategory": "Jobs",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 172,
-    "lastModified": "2026-09-14T11:42:40.800Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3812,85 +4686,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 14,
-    "totalRuns": 404,
+    "totalRuns": 410,
     "lastModified": "2026-09-14T11:42:38.758Z",
-    "rating": 3.044236573534491,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "eBay Sold Items & Price Tracker CHEAP | Market Data",
-    "slug": "ebay-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/ebay-scraper",
-    "description": "Extract sold item data from eBay — final prices, bid counts, seller data and completion dates. Track market prices for any product category.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-rkCHa4xCzFBbMBtzS-EGoh2apChh-4axjo9opkboC48FYo-ebay_PNG22.webp",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 31,
-    "totalRuns": 484,
-    "lastModified": "2026-09-14T10:55:22.252Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "VIN Decoder Recall Auditor| Vehicle Specs | Recalls",
-    "slug": "universal-vin-decoder-recall-auditor",
-    "url": "https://apify.com/ahmed_jasarevic/universal-vin-decoder-recall-auditor",
-    "description": "Decode VIN numbers and check for open recalls with full vehicle specifications",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-7bhd75NGjPmBNPctm-otDmfR9PRc-blog-vin-number-lookup-hero.png",
-    "category": "developer_tools",
-    "displayCategory": "Automotive",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 25,
-    "totalRuns": 208,
-    "lastModified": "2026-09-14T10:55:15.829Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Yahoo Finance Data [💰$0.8/1K] | Stock Prices",
-    "slug": "yahoo-finance",
-    "url": "https://apify.com/ahmed_jasarevic/yahoo-finance",
-    "description": "Extract Yahoo Finance stock data — prices, volume, adjusted close for any ticker symbol",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-PiYxG7CAxV6CrZLiQ-WuPe0v026L-71V1O5g6zOL.webp",
-    "category": "automation",
-    "displayCategory": "Finance",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 163,
-    "lastModified": "2026-09-14T10:55:07.224Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Viator Reviews Scraper | TripAdvisor | Tours",
-    "slug": "viator-reviews-scraper-dual-source-from-tripadvisor",
-    "url": "https://apify.com/ahmed_jasarevic/viator-reviews-scraper-dual-source-from-tripadvisor",
-    "description": "Scrape Viator and TripAdvisor tour reviews with ratings, dates, and traveler data",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-nkTmoCGmk2gmnGaw7-eLYBD7rosJ-unnamed_%282%29.png",
-    "category": "travel",
-    "displayCategory": "Travel",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 17,
-    "totalRuns": 231,
-    "lastModified": "2026-09-14T10:55:04.930Z",
-    "rating": 0,
+    "rating": 3.04423657353449,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -3907,7 +4705,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 11,
-    "totalRuns": 201,
+    "totalRuns": 207,
     "lastModified": "2026-09-14T10:54:58.737Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3925,48 +4723,10 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 20,
-    "totalRuns": 614,
+    "totalUsers": 21,
+    "totalRuns": 622,
     "lastModified": "2026-09-14T10:54:56.123Z",
     "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Booking.com Review Scraper | Hotel Sentiment Data",
-    "slug": "booking-com-hotel-review-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/booking-com-hotel-review-scraper",
-    "description": "Extract hotel guest reviews from Booking.com — ratings, comments, demographics and sentiment data. Analyze guest feedback and benchmark hotel performance.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-0PWwqTETzll3cKTBA-nQNl52EuY8-booking-com-logo-png_seeklogo-474475.png",
-    "category": "travel",
-    "displayCategory": "Travel",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 20,
-    "totalRuns": 304,
-    "lastModified": "2026-09-14T10:54:39.147Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Crexi Property Scraper 💰 | CRE | Broker | Leads",
-    "slug": "crexi-property-broker-data-scraper-pro",
-    "url": "https://apify.com/ahmed_jasarevic/crexi-property-broker-data-scraper-pro",
-    "description": "Extract commercial real estate listings and broker data from Crexi for investment and lead generation",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-5vaVcFMFnDyxcdtAU-MxB0p4rvmh-crexi.png",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 66,
-    "totalRuns": 672,
-    "lastModified": "2026-09-14T10:54:32.378Z",
-    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -3982,8 +4742,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 24,
+    "totalUsers": 1,
+    "totalRuns": 31,
     "lastModified": "2026-09-14T10:31:43.396Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4002,7 +4762,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 167,
+    "totalRuns": 173,
     "lastModified": "2026-09-14T09:24:51.791Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4021,7 +4781,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 17,
+    "totalRuns": 23,
     "lastModified": "2026-09-14T09:12:36.186Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4040,7 +4800,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 188,
+    "totalRuns": 194,
     "lastModified": "2026-09-14T09:05:42.506Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -4059,7 +4819,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 80,
+    "totalRuns": 86,
     "lastModified": "2026-09-14T08:59:21.202Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4077,8 +4837,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 27,
+    "totalUsers": 2,
+    "totalRuns": 34,
     "lastModified": "2026-09-14T08:39:11.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4097,27 +4857,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 57,
+    "totalRuns": 63,
     "lastModified": "2026-09-11T15:18:13.050Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "RealEstate.co.nz [💰$0.9/1K] | NZ Property | Agents",
-    "slug": "realestate-co-nz-scraper-with-agents-details",
-    "url": "https://apify.com/ahmed_jasarevic/realestate-co-nz-scraper-with-agents-details",
-    "description": "Scrape New Zealand property listings with agent details from realestate.co.nz",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-bUEqTRkCHgXqkAaTY-OmArHhZ044-channels4_profile.jpg",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 4,
-    "totalRuns": 194,
-    "lastModified": "2026-09-11T14:56:31.956Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -4134,28 +4875,9 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 48,
-    "totalRuns": 590,
+    "totalUsers": 50,
+    "totalRuns": 606,
     "lastModified": "2026-09-10T16:00:31.082Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Website to Clean Markdown (AI & RAG Ready)",
-    "slug": "website-to-clean-markdown-ai-rag-ready",
-    "url": "https://apify.com/ahmed_jasarevic/website-to-clean-markdown-ai-rag-ready",
-    "description": "Convert any website into clean, noise-free Markdown. Perfect for training LLMs, building Custom GPTs, and RAG pipelines. Save 80% on OpenAI tokens by stripping HTML junk. From $2.80 per 1k results",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-XbLoqacLEeUihyeKA-zJ8pIBbEZP-5883-markdown.png",
-    "category": "agents",
-    "displayCategory": "SEO & AI Tools",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": 0.0028
-    },
-    "totalUsers": 2,
-    "totalRuns": 256,
-    "lastModified": "2026-09-10T16:00:30.261Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -4173,7 +4895,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 43,
     "lastModified": "2026-09-10T09:31:33.422Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4192,7 +4914,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 155,
+    "totalRuns": 161,
     "lastModified": "2026-09-09T17:14:49.135Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4210,8 +4932,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 56,
+    "totalUsers": 2,
+    "totalRuns": 66,
     "lastModified": "2026-09-06T18:08:10.152Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4230,7 +4952,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 53,
+    "totalRuns": 59,
     "lastModified": "2026-09-06T15:29:22.502Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4249,7 +4971,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 88,
+    "totalRuns": 94,
     "lastModified": "2026-09-06T15:29:20.756Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -4268,27 +4990,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 91,
+    "totalRuns": 97,
     "lastModified": "2026-09-06T14:17:15.176Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "FAST Booking.com Scraper [$0.90💰] | Reviews Scale",
-    "slug": "fast-booking-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/fast-booking-scraper",
-    "description": "Scrape Booking.com hotel reviews at scale — fast GraphQL-based extraction with parallel requests. Extract ratings, comments and sentiment data for hospitality analytics.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-mD1vBqkLsjVskRtHa-cLkLDVfzPT-images.jpg",
-    "category": "travel",
-    "displayCategory": "Travel",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 4,
-    "totalRuns": 285,
-    "lastModified": "2026-09-06T12:24:49.282Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -4306,7 +5009,7 @@
       "pricePerUnit": 0.0005
     },
     "totalUsers": 2,
-    "totalRuns": 229,
+    "totalRuns": 235,
     "lastModified": "2026-09-06T12:12:25.301Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4324,29 +5027,10 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 17,
-    "totalRuns": 314,
+    "totalUsers": 19,
+    "totalRuns": 338,
     "lastModified": "2026-09-06T12:11:41.092Z",
     "rating": 5,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Houzz Pros Scraper [$1.90/1K💰] Leads, Reviews & Contacts",
-    "slug": "houzz-professionals-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/houzz-professionals-scraper",
-    "description": "Extract Houzz professionals — ratings, reviews, contact info and project photos for home-services lead generation.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-RitIehGArvCKLcWaA-HJavRQwoEk-vELc9qTTi4PFqNtFU-actor-tSgB4G9FxoDTuiaWh-t4ab3iaYQZ-houzz-logo.",
-    "category": "lead_generation",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 166,
-    "lastModified": "2026-09-06T12:11:38.645Z",
-    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -4363,27 +5047,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 9,
-    "totalRuns": 194,
+    "totalRuns": 200,
     "lastModified": "2026-09-06T12:11:32.009Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Tumblr Scraper [$2.50/1K💰] Images, Tags & Reblogs",
-    "slug": "tumblr-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/tumblr-scraper",
-    "description": "Extract Tumblr posts — full-resolution images, tags, reblogs and engagement data for content research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-vwMMqZ0VvIcvKPOZa-lBMNl3g0lN-366151.png",
-    "category": "social_media",
-    "displayCategory": "Social Media",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 19,
-    "totalRuns": 222,
-    "lastModified": "2026-09-06T12:11:23.295Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
