@@ -54,12 +54,7 @@ import {
     {
       id: "contact",
       title: "Contact",
-    },
-    {
-      id: "scrapers",
-      title: "Scrapers",
-      url: "/scrapers/",
-    },
+    }
   ];
   
   const services = [
