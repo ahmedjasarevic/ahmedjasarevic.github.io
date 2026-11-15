@@ -1,5 +1,1031 @@
 [
   {
+    "title": "Imovirtual Scraper [$0.95/1K💰] | Portugal Homes",
+    "slug": "imovirtual-pt-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/imovirtual-pt-scraper",
+    "description": "Scrape imovirtual.pt property listings across Portugal: price, price per m², typology, area, energy certificate, condition, amenities, location, agency and photos. $0.95 per 1,000 listings.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-csADpjbNxVdJOXT9v-mY5tEOAkqS-amhTTyXy_400x400.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 4,
+    "lastModified": "2026-11-14T23:35:17.436Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Job Bank Canada Scraper [$0.90/1K💰] | Jobs",
+    "slug": "jobbank-gc-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/jobbank-gc-scraper",
+    "description": "Scrape Government of Canada Job Bank postings by keyword, NOC code and province: title, employer, location, salary, terms, requirements, remote flag, dates and apply link. $0.90 per 1,000 jobs.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TcFLY1uJu2JyyI5BF-8PbrcaWTgH-1680250274976.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 3,
+    "lastModified": "2026-11-14T23:35:13.817Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Karriere.at Scraper [$1/1K💰] | Austrian Jobs",
+    "slug": "karriere-at-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/karriere-at-scraper",
+    "description": "Scrape karriere.at job postings across Austria: title, company, location, salary, employment type, homeoffice, experience level, category, posting date and apply link. $1 per 1,000 jobs.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-KschQtCvNHjcdUqq0-nqzqbX9Oe3-unnamed_%2813%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 3,
+    "lastModified": "2026-11-14T23:35:09.045Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Reddit Stock Sentiment [$4/1K💰] | Trending Tickers",
+    "slug": "reddit-stock-sentiment",
+    "url": "https://apify.com/ahmed_jasarevic/reddit-stock-sentiment",
+    "description": "Track stocks and crypto Reddit is discussing. Rank ticker mentions across WallStreetBets, r/stocks, r/investing and r/options with growth, sentiment, engagement and sources. $4 per 1,000 tickers.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-6aaGX6n36tOosiC0j-OIPDSOaijI-images_%2835%29.jpg",
+    "category": "social_media",
+    "displayCategory": "Finance",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 19,
+    "lastModified": "2026-11-14T23:35:03.691Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "xe.gr Scraper [$1.25/1K💰] | Greek Classifieds",
+    "slug": "xe-gr-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/xe-gr-scraper",
+    "description": "Scrape xe.gr classifieds across Greece: property prices, price per m², area, rooms, year built, agents and photos, plus motors and job listings. $1.25 per 1,000 listings.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-JeD6CwBK3hwvbcIxe-Js2jCy15GL-unnamed_%2814%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 5,
+    "lastModified": "2026-11-14T23:34:53.637Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "ThatsThem Scraper [$6/1K] | Skip Trace People Finder",
+    "slug": "skip-trace-people-finder",
+    "url": "https://apify.com/ahmed_jasarevic/skip-trace-people-finder",
+    "description": "Find people records from a name, phone, address, email or lookup URL. Get phones, emails, current and previous addresses, aliases, age range, relatives and address history for lawful contact research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-4cwNhgjlNP4eWD7jd-260mBFVvy8-images_%2837%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 218,
+    "totalRuns": 27942,
+    "lastModified": "2026-11-13T23:56:44.868Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Kijiji Scraper [$0.90/1K💰] | Cars, Rentals & Jobs",
+    "slug": "kijiji-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/kijiji-scraper",
+    "description": "Scrape Kijiji.ca classifieds for cars, rentals, jobs and marketplace listings. Get price, location, seller type, specs, images and views. $0.90 per 1,000 ads.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-kCqsOItCgoMGtI8FV-cXCpHhdmOp-images_%2838%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 29,
+    "lastModified": "2026-11-13T23:35:16.954Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Faire Scraper [$1/1K💰] | Wholesale Brands & Products",
+    "slug": "faire-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/faire-scraper",
+    "description": "Scrape Faire wholesale brand profiles and product catalogs: location, categories, order minimums, shipping, reviews, images and retail prices. $1 per 1,000 brands.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-sQNx5cGuNoxlB9vGv-2Dnnu1alVs-images_%2869%29.png",
+    "category": "uncategorized",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 6,
+    "lastModified": "2026-11-13T23:35:11.074Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "FSBO Scraper [$1.50/1K💰] | For-Sale-By-Owner Listings",
+    "slug": "fsbo-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/fsbo-scraper",
+    "description": "Scrape FSBO.com for-sale-by-owner listings with address, price, beds, baths, sqft, lot size, photos, seller contact and valuations. $1.50 per 1,000 listings.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-9SewxgLLWfb7cZIcP-kuvf6SfxHT-images_%2837%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 4,
+    "lastModified": "2026-11-13T23:35:06.289Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Texas TDLR License Scraper [$1.50/1K💰] | Contractor Data",
+    "slug": "texas-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/texas-scraper",
+    "description": "Scrape Texas TDLR license records for contractors, electricians, A/C techs, mold, water well, solar and PEOs. Get status, expiry, address, county, phone and related licenses. $1.50 per 1,000 records.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-d4kllkN8PUOIs3NJ0-gFVM66Dplc-images_%2836%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 4,
+    "lastModified": "2026-11-13T23:35:00.587Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Flippa Scraper [$0.90/1K💰] | Online Business Listings",
+    "slug": "flippa-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/flippa-scraper",
+    "description": "Scrape Flippa online business, SaaS, ecommerce, app and domain listings with asking price, revenue, profit, multiples and verification flags. $0.90 per 1,000 listings.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-ZrnMsAFXb3m3OdAVF-LewVEXu2hG-images_%2870%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 13,
+    "lastModified": "2026-11-13T23:34:53.629Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "OnTheMarket Scraper [~$0.96/1K💰] | UK Property | Rent & Sale",
+    "slug": "onthemarket-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/onthemarket-scraper",
+    "description": "Scrape UK property listings for sale & rent from OnTheMarket.com: price, address, beds/baths, tenure, EPC rating, floorplans, photos, agent details & GPS. Reads embedded __NEXT_DATA__ JSON — no browser. Cheapest at ~$0.96 per 1,000 listings (details +$1/1K).",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gDCnlh3PO07tBGUcX-Bpc1ljUVOU-onthemarket-com-logo-png_seeklogo-301497.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 85,
+    "lastModified": "2026-11-13T21:03:30.083Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Zoopla Scraper [💰$0.5/1K] | UK Property | Sold Prices",
+    "slug": "zoopla-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/zoopla-scraper",
+    "description": "Scrape Zoopla.co.uk for UK property listings: sale and rental prices, sold-price history, EPC ratings, agent contacts, floor area, tenure and council tax bands. Track price drops, monitor new listings and build agent lead lists across London, Manchester and all UK postcodes.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-0pkfjDFet1W22Z5hp-1szYRqfJ2A-images_%283%29.jfif",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 121,
+    "lastModified": "2026-11-13T14:32:30.510Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Procore Scraper [$1/1K💰] | Contractor Directory",
+    "slug": "procore-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/procore-scraper",
+    "description": "Scrape the Procore Network contractor directory: company names, trades, states served, phone, website, project portfolio and Procore activity metrics. Export clean JSON or CSV. No browser required.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-XDZiXiSvPGRMkEBUo-jpAz1COc8t-images_%2868%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 9,
+    "lastModified": "2026-11-12T23:34:48.989Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Vestiaire Scraper [$0.90/1K💰] | Luxury Resale",
+    "slug": "vestiaire-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/vestiaire-scraper",
+    "description": "Scrape Vestiaire Collective luxury resale listings: brand, model, condition, size, prices, seller stats, photos and sold status. Export clean JSON or CSV. No browser or login required.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-559NwptQwAjsyg6Kg-ICeU0427ae-images_%2833%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 6,
+    "lastModified": "2026-11-12T23:34:44.401Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Dealroom Scraper [$0.90/1K💰] | Startup Data",
+    "slug": "dealroom-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/dealroom-scraper",
+    "description": "Scrape Dealroom.co startup and investor data: company profiles, valuation and revenue ranges, funding, founders, investors, headcount, web traffic and competitors. Export clean JSON or CSV. No browser required.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-SXTQ45XESFXpn9jCR-9KdcNAp32i-images_%2832%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 5,
+    "lastModified": "2026-11-12T23:34:39.865Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Homegate.ch Scraper [$1.40/1K💰] | Swiss Real Estate",
+    "slug": "homegate-ch-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/homegate-ch-scraper",
+    "description": "Scrape Homegate.ch rental and sale listings across Switzerland: prices, rooms, living space, address, coordinates, images, amenities and agency data. Export clean JSON or CSV. No browser required.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-JiUkVIMnrv8KLp35M-fgGrstoaTh-unnamed_%2810%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 21,
+    "lastModified": "2026-11-12T23:34:34.566Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Florida DBPR Scraper [$2/1K💰] | Contractor Licenses",
+    "slug": "florida-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/florida-scraper",
+    "description": "Scrape Florida DBPR contractor license records: license number, type, status, expiration, owner, business, address, county and qualifications. Export clean JSON or CSV. No browser or proxy required.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-pxFxaxcLq0sIT6HrR-b4jwooY6Wu-images_%2834%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 10,
+    "lastModified": "2026-11-12T23:34:30.025Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "YouTube Audio Extractor | MP3, M4A & Transcripts",
+    "slug": "yt-audio-extractor",
+    "url": "https://apify.com/ahmed_jasarevic/yt-audio-extractor",
+    "description": "Download audio from YouTube and YouTube Music in MP3, M4A, WebM, FLAC, WAV, Ogg Vorbis or ALAC. Each track includes a public download link, metadata, optional captions/transcripts and section trimming. Pay per delivered track plus saved storage; failed downloads are not charged.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-RNiOfPiTUDr8ZRrY7-mBxJfAdv7q-youtube-logo-youtube-icon-transparent-free-png.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 33,
+    "totalRuns": 171,
+    "lastModified": "2026-11-12T23:20:41.624Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Google Play Reviews [$0.08/1K] | ASO & Sentiment",
+    "slug": "google-play-reviews-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/google-play-reviews-scraper",
+    "description": "Collect Google Play app reviews with ratings, review text, versions, countries and helpful votes. Use the data for ASO, sentiment analysis and competitor research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-WZkgOk1Bup0XaQMFw-HMtxk2G75j-g3SAdqRzjKzKDoKX7-actor-KBD93wWVGA0u1JnMz-sjyN1YdrNh-google-play",
+    "category": "developer_tools",
+    "displayCategory": "SEO & AI Tools",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 204,
+    "lastModified": "2026-11-12T22:27:43.685Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Justia Lawyer Scraper [Only $0.9/1K💰] | Leads | Legal Data",
+    "slug": "lawyers-justia-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/lawyers-justia-scraper",
+    "description": "Scrape lawyer profiles and attorney leads from the Justia Lawyer Directory: name, firm, phone, practice areas, Justia rating, peer reviews and credentials. For legal lead generation and law firm databases. From $0.0009 per lawyer.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TqXzQaYmqfStVa4cM-uCEumQQMD2-justia_logo.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Lead Generation",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 9,
+    "totalRuns": 121,
+    "lastModified": "2026-11-12T17:29:15.656Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Weibo Scraper Pro [From $1.50/1K💰] | Posts",
+    "slug": "weibo-scraper-pro",
+    "url": "https://apify.com/ahmed_jasarevic/weibo-scraper-pro",
+    "description": "Scrape Weibo hot search, posts, comments, user profiles, fans, followers, likes and topics without login. Get text, authors, media and engagement metrics. From $1.50 per 1,000 records.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-PD2kwlPVNPsgdQyjz-m0FYDJnh6E-images_%2840%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 38,
+    "lastModified": "2026-11-12T09:39:17.086Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "ClearanceJobs Scraper [$5/1K💰] | Cleared Jobs",
+    "slug": "clearancejobs-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/clearancejobs-scraper",
+    "description": "Scrape security-cleared defense and intelligence jobs from ClearanceJobs.com. Extract clearance level, polygraph, salary, experience, location, remote/hybrid status, full description and employer profile IDs via the internal JSON API. No browser or login.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-Lcbqrd5F98KfCtiv8-X1tbfvPQTW-images_%2865%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 5,
+    "lastModified": "2026-11-11T23:31:22.319Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "TCGplayer Scraper [$2.50/1K💰] | Card Prices",
+    "slug": "tcgplayer-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/tcgplayer-scraper",
+    "description": "Scrape TCGplayer products, price guides, seller listings, recent sales and buylist prices through the site's internal JSON APIs. Search by card, set or product ID; add seller storefronts. Export JSON or CSV. No browser or API key.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-eG5WaXUm8tGJ0jBDr-kHYemHTAfH-images_%2866%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 5,
+    "lastModified": "2026-11-11T23:31:15.694Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Niche Scraper [$8/1K💰] | School & College Data",
+    "slug": "niche-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/niche-scraper",
+    "description": "Scrape Niche.com school, district, college and place profiles: Niche grades, key stats, demographics, rankings, nearby schools and full reviews. Search listings or paste profile URLs. Export clean JSON or CSV. No browser, login or API key.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-w2gALPjmfpcXnnKRe-Rb2TIKWitJ-images_%2864%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 46,
+    "lastModified": "2026-11-11T23:30:54.342Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Zola Vendor Scraper [$5/1K💰] | Wedding Vendors",
+    "slug": "zola-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/zola-scraper",
+    "description": "Scrape Zola wedding vendors (venues, photographers, florists, caterers, planners) with category, city, starting price, guest capacity, rating, review count and snippets from embedded JSON-LD. Export JSON or CSV. No browser.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-W9AnhkJKK6JrMOgxA-NPCUbTprEr-images_%2867%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 18,
+    "lastModified": "2026-11-11T23:30:49.594Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "DoneDeal Scraper [$2/1K💰] | Irish Cars & Property",
+    "slug": "donedeal-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/donedeal-scraper",
+    "description": "Scrape DoneDeal.ie car, property and services listings with prices, vehicle specs, property details, seller data, photos and county. Export clean JSON or CSV for market research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-FUpDTTSjLp9AzaeHF-Jk2eIenK6F-unnamed_%289%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 22,
+    "lastModified": "2026-11-10T23:31:16.455Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "The Org Scraper [$0.90/1K💰] | Org Charts & People",
+    "slug": "the-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/the-scraper",
+    "description": "Scrape The Org company profiles, org charts, teams, people and reporting lines. Get headcount, funding stage, offices, manager relationships and profile links in one dataset.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-FztMX6UFLI6BQsfr3-hFVgecV1kr-theorg_logo.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 12,
+    "lastModified": "2026-11-10T23:31:11.575Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "GaijinPot Scraper [$1/1K💰] | Japan Jobs & Visa Sponsorship",
+    "slug": "gaijinpot-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/gaijinpot-scraper",
+    "description": "Scrape GaijinPot Jobs postings with full descriptions, salary, English and Japanese requirements, visa sponsorship and company profiles. Filter by category, location and employment type.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-ifpN1pqnWkRZ1KDeu-2Te78aTyOV-images_%2863%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 32,
+    "lastModified": "2026-11-10T23:31:07.312Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "italki Scraper [$8.50/1K💰] | Teacher Profiles & Reviews",
+    "slug": "italki-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/italki-scraper",
+    "description": "Scrape italki teacher and tutor profiles with prices, ratings, languages, availability, reviews and specialties. Search by language or paste teacher URLs; export clean JSON or CSV.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-biAC0vEM9XbIEn2v1-e2nZLvCHcu-images_%2831%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 13,
+    "lastModified": "2026-11-10T23:30:47.495Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Mercari Japan Scraper [$1/1K💰] | Listings & Sold Comps",
+    "slug": "jp-mercari-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/jp-mercari-scraper",
+    "description": "Scrape Mercari Japan listings, item details, seller ratings and sold comps through the internal JSON API. Search by keyword, category, brand or seller; export clean JSON or CSV. No browser, login or API key.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-xYcx4YIfBndQqIMEk-ke7QvNuo1t-images_%2862%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 10,
+    "lastModified": "2026-11-10T23:30:37.204Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Lazada Scraper [Only $1💰] | SEA Prices | Reviews | Data",
+    "slug": "lazada-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/lazada-scraper",
+    "description": "Monitor Lazada prices and extract product, seller and review data across six Southeast Asia markets (Singapore, Malaysia, Thailand, Indonesia, Philippines, Vietnam). Track price, original price, discount, rating, units sold, seller, brand and LazMall flag per keyword. Pay only per result.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TyPRDDROBkUBZ3OXJ-gqesQt9Nvo-lazada-logo-rounded-lazada-logo-free-png.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 97,
+    "lastModified": "2026-11-10T23:28:39.663Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Zillow Scraper [$1/1K] | Listings | Zestimates",
+    "slug": "zillow-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/zillow-scraper",
+    "description": "Collect Zillow property listings by city, ZIP or neighborhood. Get prices, addresses, beds, baths, square footage, Zestimates, coordinates, status and photos for real estate research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-nzkusvhbQu7NY73zD-zm9OJ7uNBU-images_%2816%29.png",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 163,
+    "lastModified": "2026-11-10T16:47:28.171Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Bayut Scraper [$0.60💰] | UAE Real Estate · Projects & Agents",
+    "slug": "bayut-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/bayut-scraper",
+    "description": "[$0.60💰] Scrape Bayut.com — the Gulf's #1 property portal — for structured real estate data across 5 markets: UAE, Saudi Arabia, Qatar, Jordan & Oman. Track AED asking prices, Dubai off-plan projects, and developer & agency profiles for cross-market research and price monitoring.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-3jkuNDtlKh6lPrHNW-U9LC5jf32z-images_%282%29.png",
+    "category": "real_estate",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 23,
+    "totalRuns": 411,
+    "lastModified": "2026-11-10T16:12:55.678Z",
+    "rating": 5.000000000000001,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Boat Trader Scraper $1.3/1K💰 | Boat Listings | Dealer Data",
+    "slug": "boattrader-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/boattrader-scraper",
+    "description": "Scrape Boat Trader — America's largest boat marketplace — for complete new and used boat listings and the full dealer directory. Track boat prices, research used boat values, build marine market intelligence. Only $1.30 per 1,000 results.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-R9cF05WF23lUqizq3-LJWs5L7B8l-0x0.png",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 12,
+    "totalRuns": 350,
+    "lastModified": "2026-11-10T10:21:11.210Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "StubHub Scraper [Only $1.50/1K💰] | Ticket Prices | Deal Score",
+    "slug": "stubhub-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/stubhub-scraper",
+    "description": "Scrape StubHub ticket listings - event name, date, venue, section, row, quantity, price, fees, deal score and availability - from event URLs, performer pages, keyword search or city discovery. Track ticket prices and resale inventory over time.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-N3xDUX2Xa63tiEaDK-ZrvC4PcCqq-images_%2828%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 167,
+    "lastModified": "2026-11-10T10:12:19.121Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Idealo Scraper $2.5/1K💰 | Offers | Price History | 6 Markets",
+    "slug": "idealo-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/idealo-scraper",
+    "description": "Extract idealo price comparison data from 6 European markets: per-merchant offers with shipping and total, min/max/avg prices, ratings, specs and 3-month price history. Look up by search term, EAN/GTIN, ID, URL or category. An affordable alternative to building your own idealo scraper.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-yUuVlBzpzLL6slbPk-QYft2I4bB6-logo-idealo-computer-icons-symbol-portable-network-graphics-png-",
+    "category": "ecommerce",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 36,
+    "totalRuns": 700,
+    "lastModified": "2026-11-10T10:07:43.522Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Bonfire Hub Scraper [$5/1K💰] | Government Bids & RFPs",
+    "slug": "bonfirehub-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/bonfirehub-scraper",
+    "description": "Scrape Bonfire Hub government bids, RFPs, ITBs and RFQs from 480+ agency portals with agency, department, solicitation type, closing dates, status, addenda and document links. Monitor public procurement opportunities in one normalized feed.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-HwkIKG8xciav5Ic9a-gcPkjyaejw-images_%2860%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 23,
+    "lastModified": "2026-11-09T23:31:14.380Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Levels.fyi Scraper [$3/1K💰] | Salary & Comp Data",
+    "slug": "levels-fyi-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/levels-fyi-scraper",
+    "description": "Scrape Levels.fyi compensation bands by company, role, level and location with p10–p90 total comp, base, stock and bonus, sample counts and source URLs. Build salary benchmarks and hiring datasets from live public data.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-sizSCekEP2jWE8bqu-9XU8r5c11I-levels.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 8,
+    "lastModified": "2026-11-09T23:31:09.758Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Xome Scraper [$0.90/1K💰] | Foreclosure Auctions",
+    "slug": "xome-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/xome-scraper",
+    "description": "Scrape Xome foreclosure and auction listings with opening and current bids, reserve status, auction dates, foreclosure stage, beds/baths, square footage, occupancy and photos. Build REO and CWCOT deal pipelines from live US auction data.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-xcoC29LIdZMRCXGz3-aQz2xE7u98-images_%2859%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 11,
+    "lastModified": "2026-11-09T23:31:05.046Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "CalCareers Scraper [$3/1K💰] | California State Jobs",
+    "slug": "calcareers-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/calcareers-scraper",
+    "description": "Scrape California state civil-service job postings from CalCareers with salary ranges, classifications, departments, counties, telework status and filing deadlines. Filter by keyword or county and enrich with full job descriptions and application instructions.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-dvIGILmOYKLq1f0Nl-xubHRSXh8e-images_%2830%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 23,
+    "lastModified": "2026-11-09T23:30:46.193Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Vitals Scraper [$1/1K💰] | Doctors & Reviews",
+    "slug": "vitals-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/vitals-scraper",
+    "description": "Scrape Vitals.com doctor and dentist profiles with NPI, specialties, education, licenses, practice locations, phone numbers, ratings, insurance and patient reviews. Export provider lists and review datasets for healthcare research and outreach.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-jUq0FvMyZAu5iO45K-6fybyJZibf-images_%2861%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 14,
+    "lastModified": "2026-11-09T23:30:36.875Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "SEEK Job Scraper [$0.9/1K] | Emails & AU/NZ Jobs",
+    "slug": "seek-job-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/seek-job-scraper",
+    "description": "Collect SEEK job listings across Australia and New Zealand with contact emails extracted from job ads and employer websites. Get titles, companies, locations, salaries, employment types, work arrangements, classifications, bullet points, posting dates, expiry dates, full descriptions and emails.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-uKaK4aTWZRNuy0dP7-4KOjP5nnZ3-GqLqwauKoWHKysJo7-actor-m7tdxsBaMKJhIu4fM-ncPaH78sHQ-seek.webp",
+    "category": "jobs",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 498,
+    "lastModified": "2026-11-09T13:57:19.367Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Tock Scraper [$3/1K💰] | Restaurant Venues | Availability",
+    "slug": "exploretock-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/exploretock-scraper",
+    "description": "Extract restaurant, bar and venue data from Tock (exploretock.com) — name, city, cuisine, price tier, experience and offer counts, bookable dates and reservation availability — as structured JSON. Built for dining market research, availability monitoring and F&B lead generation. $3 per 1,000 venues.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-IjiBBisen7Wk1cQva-cUfca3jQPK-images_%2850%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 51,
+    "lastModified": "2026-11-09T11:35:40.752Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "HomeToGo Scraper [$1💰] | Vacation Rentals | Villa Prices",
+    "slug": "hometogo-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/hometogo-scraper",
+    "description": "Scrape HomeToGo vacation rentals: nightly prices, villa & holiday home listings, amenities, ratings and booking links across Europe and the USA. From $0.001 per result — for market research, price monitoring and rental investment analysis.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-w8bAWHSwQdCRutS32-f7cNhcFV7b-images_%281%29.jfif",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 90,
+    "lastModified": "2026-11-09T10:51:41.420Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Chewy Scraper [$1.90/1K💰] | Pet Prices | Reviews & Q&A",
+    "slug": "chewy-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/chewy-scraper",
+    "description": "Scrape Chewy.com pet products by URL or category and export brand, price, rating, review count, every size variant with per-variant prices, plus reviews and Q&A as clean JSON. Uses Chewy's own JSON APIs, no browser.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-183MBeH4f3zALCBVG-OcX4uShZNE-images_%2820%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 55,
+    "lastModified": "2026-11-09T09:21:34.457Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Allegro Scraper [$1.4/1K] | Prices & Sellers",
+    "slug": "allegro-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/allegro-scraper",
+    "description": "Collect Allegro.pl offers by keyword, category, seller or offer URL. Get prices, seller reputation, condition, parameters, images, delivery data, Smart! and sponsored flags, product IDs and optional stock, GTIN, warranty and full descriptions.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-o5sHa8WctGdb6IUOm-sCLgndhI8z-images_%283%29.png",
+    "category": "uncategorized",
+    "displayCategory": "E-commerce",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 11,
+    "totalRuns": 210,
+    "lastModified": "2026-11-08T23:51:06.379Z",
+    "rating": 5,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "HUD Home Store Scraper [$2.50/1K💰] | REO | Contacts",
+    "slug": "hudhomestore-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/hudhomestore-scraper",
+    "description": "Scrape HUD Home Store REO foreclosure listings with prices, beds/baths, FHA flags, bid deadlines, asset manager and broker contacts, photos and coordinates. Built for REO investors and agents.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-N08ZEZm6o3KjIaPgN-OdKS9UI8qf-af5445b37af7c6d3f34a9cb0c9747184_icon.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 18,
+    "lastModified": "2026-11-08T23:30:49.691Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Mecum Scraper [$5/1K💰] | Barrett-Jackson | Sold Prices",
+    "slug": "mecum-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/mecum-scraper",
+    "description": "Scrape Mecum and Barrett-Jackson collector-car auction lots with VINs, estimates, hammer prices, sale dates and photo galleries. Build comparable-sales databases and value classic cars from real results.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-FytyL4wSMSLMDI6Gi-pmbQRdpdT8-mecum_auctions_logo.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 9,
+    "lastModified": "2026-11-08T23:30:38.588Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Gratka Scraper [$1.50/1K💰] | Polish Real Estate",
+    "slug": "gratka-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/gratka-scraper",
+    "description": "Scrape Gratka Polish real-estate listings: price, price per m², area, rooms, floor, land size, seller, location, property type, photos and listing URLs. $1.50 per 1,000 listings.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-LAB72x0SwijOhi4SE-hbXd9fuDrh-unnamed_%2812%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 1,
+    "totalRuns": 17,
+    "lastModified": "2026-11-08T23:30:34.532Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Recreation.gov Scraper [$5/1K💰] | Campsites | Availability",
+    "slug": "recreation-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/recreation-scraper",
+    "description": "Scrape recreation.gov campgrounds and campsites with nightly fees, amenities, occupancy limits and month-by-month availability calendars. Power campsite alerts, trip planners and camping research.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-wJQGbnxrn9dQLTJQg-TvurLc0g1d-images_%2828%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 9,
+    "lastModified": "2026-11-08T23:30:22.645Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "GovEase Scraper [$3.50/1K💰] | Tax Liens | Tax Deeds",
+    "slug": "govease-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/govease-scraper",
+    "description": "Scrape GovEase tax-sale auctions across US counties: tax liens, tax deeds and upset sales with APN, owner, starting bid, assessed value, sale date and status. Screen parcels before the auction.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-UGchieVBgzLYFvIXo-KPb01xeTFM-govease_logo.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 14,
+    "lastModified": "2026-11-08T23:30:16.664Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Kaufland Scraper [$1/1k💰] | Preise | Angebote | Reviews",
+    "slug": "kaufland-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/kaufland-scraper",
+    "description": "Monitor Kaufland.de marketplace prices, UVP deals and reviews. Extract EAN, seller, variants and product data for German price comparison, market research and catalog enrichment.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-deDj6NvWoAzbPWMhM-myQbL1hek1-kaufland-logo-png_seeklogo-504867.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 4,
+    "totalRuns": 265,
+    "lastModified": "2026-11-08T16:48:17.714Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "TikTok Audience Demographics [$0.25💰] | Country | Age | Gender",
+    "slug": "tiktok-audience-demographics",
+    "url": "https://apify.com/ahmed_jasarevic/tiktok-audience-demographics",
+    "description": "Get a TikTok creator audience by country plus age, gender, devices and performance. Combines public engagement signals with the TikTok One follower profile. Export to CSV, JSON or API.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-jA9GqBquINgIp0HNr-kzvBQncHpb-images_%2858%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 3,
+    "totalRuns": 33,
+    "lastModified": "2026-11-08T10:57:55.837Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
     "title": "Note.com Creator Scraper [$1/1K💰] | Emails | Followers",
     "slug": "note-creator-scraper",
     "url": "https://apify.com/ahmed_jasarevic/note-creator-scraper",
@@ -12,7 +1038,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 40,
     "lastModified": "2026-11-07T23:30:48.988Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -31,27 +1057,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 22,
+    "totalRuns": 28,
     "lastModified": "2026-11-07T23:30:31.688Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Weibo Scraper Pro [From $1.50/1K💰] | Posts",
-    "slug": "weibo-scraper-pro",
-    "url": "https://apify.com/ahmed_jasarevic/weibo-scraper-pro",
-    "description": "Scrape Weibo hot search, posts, comments, user profiles, fans, followers, likes and topics without login. Get text, authors, media and engagement metrics. From $1.50 per 1,000 records.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-PD2kwlPVNPsgdQyjz-m0FYDJnh6E-images_%2840%29.jpg",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 30,
-    "lastModified": "2026-11-07T23:30:27.476Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -69,7 +1076,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 35,
+    "totalRuns": 41,
     "lastModified": "2026-11-07T23:30:21.501Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -88,7 +1095,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 29,
     "lastModified": "2026-11-07T23:30:16.475Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -107,27 +1114,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 9,
-    "totalRuns": 492,
+    "totalRuns": 775,
     "lastModified": "2026-11-07T22:55:37.064Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Lazada Scraper [Only $1💰] | SEA Prices | Reviews | Data",
-    "slug": "lazada-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/lazada-scraper",
-    "description": "Monitor Lazada prices and extract product, seller and review data across six Southeast Asia markets (Singapore, Malaysia, Thailand, Indonesia, Philippines, Vietnam). Track price, original price, discount, rating, units sold, seller, brand and LazMall flag per keyword. Pay only per result.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TyPRDDROBkUBZ3OXJ-gqesQt9Nvo-lazada-logo-rounded-lazada-logo-free-png.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 87,
-    "lastModified": "2026-11-07T10:33:54.873Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -144,28 +1132,9 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 12,
+    "totalUsers": 1,
+    "totalRuns": 41,
     "lastModified": "2026-11-06T23:30:43.730Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "TikTok Audience Demographics [$0.25💰] | Country | Age | Gender",
-    "slug": "tiktok-audience-demographics",
-    "url": "https://apify.com/ahmed_jasarevic/tiktok-audience-demographics",
-    "description": "Get a TikTok creator audience by country plus age, gender, devices and performance. Combines public engagement signals with the TikTok One follower profile. Export to CSV, JSON or API.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-jA9GqBquINgIp0HNr-kzvBQncHpb-images_%2858%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 19,
-    "lastModified": "2026-11-06T23:30:30.068Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -183,7 +1152,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 20,
     "lastModified": "2026-11-06T23:30:25.291Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -202,7 +1171,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 11,
+    "totalRuns": 17,
     "lastModified": "2026-11-06T23:30:19.596Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -221,27 +1190,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 26,
     "lastModified": "2026-11-06T23:30:14.637Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Kaufland Scraper [$1/1k💰] | Preise | Angebote | Reviews",
-    "slug": "kaufland-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/kaufland-scraper",
-    "description": "Monitor Kaufland.de marketplace prices, UVP deals and reviews. Extract EAN, seller, variants and product data for German price comparison, market research and catalog enrichment.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-deDj6NvWoAzbPWMhM-myQbL1hek1-kaufland-logo-png_seeklogo-504867.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 4,
-    "totalRuns": 253,
-    "lastModified": "2026-11-06T11:54:13.595Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -259,7 +1209,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 24,
     "lastModified": "2026-11-06T09:24:11.228Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -278,7 +1228,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 14,
     "lastModified": "2026-11-05T23:30:43.048Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -297,7 +1247,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 7,
+    "totalRuns": 13,
     "lastModified": "2026-11-05T23:30:22.714Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -316,7 +1266,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 16,
     "lastModified": "2026-11-05T23:30:18.334Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -335,7 +1285,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 5,
+    "totalRuns": 11,
     "lastModified": "2026-11-05T23:30:15.329Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -354,7 +1304,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 19,
+    "totalRuns": 25,
     "lastModified": "2026-11-05T23:30:07.323Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -373,7 +1323,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-11-05T09:01:15.957Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -391,8 +1341,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 29,
+    "totalUsers": 2,
+    "totalRuns": 40,
     "lastModified": "2026-11-04T23:30:26.764Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -411,7 +1361,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 22,
+    "totalRuns": 28,
     "lastModified": "2026-11-04T23:30:22.051Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -430,7 +1380,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 6,
+    "totalRuns": 12,
     "lastModified": "2026-11-04T23:30:13.604Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -449,7 +1399,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 39,
+    "totalRuns": 45,
     "lastModified": "2026-11-04T23:30:06.146Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -468,7 +1418,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 9,
+    "totalRuns": 15,
     "lastModified": "2026-11-04T16:09:28.068Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -487,7 +1437,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 35,
+    "totalRuns": 50,
     "lastModified": "2026-11-04T16:09:08.999Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -506,7 +1456,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 15,
+    "totalRuns": 21,
     "lastModified": "2026-11-04T16:06:38.092Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -525,7 +1475,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 7,
+    "totalRuns": 13,
     "lastModified": "2026-11-04T16:06:37.744Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -544,7 +1494,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 16,
     "lastModified": "2026-11-04T16:06:36.210Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -563,7 +1513,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 23,
-    "totalRuns": 696,
+    "totalRuns": 712,
     "lastModified": "2026-11-03T13:44:28.078Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -582,46 +1532,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 6,
-    "totalRuns": 355,
+    "totalRuns": 361,
     "lastModified": "2026-11-03T12:42:06.498Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Studapart Scraper [$1.50/1K💰] | Student Rooms",
-    "slug": "studapart-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/studapart-scraper",
-    "description": "Scrape Studapart student-housing listings in France and Belgium: rent, charges, deposit, surface, amenities, lease terms, photos and nested room offers. $1.50 per 1,000 properties.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-CnlchWcbqHHQymTTy-V0wZyKaYdx-0x0.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 10,
-    "lastModified": "2026-11-02T23:29:40.680Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Uniplaces Scraper [$2/1K💰] | Student Housing",
-    "slug": "uniplaces-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/uniplaces-scraper",
-    "description": "Scrape Uniplaces student accommodation by city: rent, bills, deposit, minimum stay, availability, address, amenities, photos, provider stats and reviews. $2 per 1,000 listings.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-siH1oFag3giHPZIVA-KATvFGpY3n-images_%2871%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 12,
-    "lastModified": "2026-11-02T23:29:15.523Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -639,7 +1551,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 9,
+    "totalRuns": 15,
     "lastModified": "2026-11-02T23:28:51.275Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -658,7 +1570,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 8,
+    "totalRuns": 14,
     "lastModified": "2026-11-02T23:28:25.085Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -676,8 +1588,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 23,
+    "totalUsers": 3,
+    "totalRuns": 31,
     "lastModified": "2026-11-02T23:28:14.574Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -696,7 +1608,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 16,
+    "totalRuns": 22,
     "lastModified": "2026-11-02T09:03:52.267Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -714,8 +1626,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 5,
-    "totalRuns": 86,
+    "totalUsers": 10,
+    "totalRuns": 250,
     "lastModified": "2026-11-01T23:29:36.241Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -734,7 +1646,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 9,
+    "totalRuns": 15,
     "lastModified": "2026-11-01T23:28:42.837Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -772,7 +1684,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 28,
+    "totalRuns": 34,
     "lastModified": "2026-11-01T23:28:07.209Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -791,7 +1703,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 26,
     "lastModified": "2026-11-01T23:27:49.122Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -810,7 +1722,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 141,
+    "totalRuns": 253,
     "lastModified": "2026-11-01T12:58:25.687Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -828,8 +1740,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 23,
-    "totalRuns": 5675,
+    "totalUsers": 26,
+    "totalRuns": 5705,
     "lastModified": "2026-11-01T11:57:50.531Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -848,27 +1760,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 23,
-    "totalRuns": 353,
+    "totalRuns": 364,
     "lastModified": "2026-11-01T10:12:38.103Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Skip Trace Scraper [$6/1K] | People Finder",
-    "slug": "skip-trace-people-finder",
-    "url": "https://apify.com/ahmed_jasarevic/skip-trace-people-finder",
-    "description": "Find people records from a name, phone, address, email or lookup URL. Get phones, emails, current and previous addresses, aliases, age range, relatives and address history for lawful contact research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-4cwNhgjlNP4eWD7jd-260mBFVvy8-images_%2837%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 150,
-    "totalRuns": 27890,
-    "lastModified": "2026-11-01T09:22:48.601Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -886,7 +1779,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 16,
     "lastModified": "2026-10-31T23:28:55.238Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -905,7 +1798,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 10,
+    "totalRuns": 16,
     "lastModified": "2026-10-31T23:28:40.277Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -924,7 +1817,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 13,
+    "totalRuns": 19,
     "lastModified": "2026-10-31T23:28:22.239Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -943,7 +1836,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 20,
     "lastModified": "2026-10-31T23:28:05.760Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -962,7 +1855,26 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 39,
+    "lastModified": "2026-10-31T15:44:37.727Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Malt Freelancer Scraper [$3/1K💰] | Freelance Data",
+    "slug": "malt-fr-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/malt-fr-scraper",
+    "description": "Scrape public Malt freelancer profiles across France, Germany and Spain: names, headlines, skills, day rates, location, ratings, missions and availability. $3 per 1,000 profiles.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-paMvPM6UgVzSMbpWP-1n1Mmqx478-images_%2831%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Jobs",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 39,
     "lastModified": "2026-10-31T15:44:37.727Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -980,8 +1892,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 109,
+    "totalUsers": 3,
+    "totalRuns": 116,
     "lastModified": "2026-10-31T13:48:05.612Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1000,7 +1912,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 14,
+    "totalRuns": 20,
     "lastModified": "2026-10-30T23:28:30.650Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1019,7 +1931,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 21,
     "lastModified": "2026-10-30T23:28:22.854Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1038,7 +1950,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 16,
+    "totalRuns": 22,
     "lastModified": "2026-10-30T23:28:07.182Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1057,27 +1969,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 39,
+    "totalRuns": 45,
     "lastModified": "2026-10-30T23:27:52.373Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Tock Scraper [$3/1K💰] | Restaurant Venues | Availability",
-    "slug": "exploretock-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/exploretock-scraper",
-    "description": "Extract restaurant, bar and venue data from Tock (exploretock.com) — name, city, cuisine, price tier, experience and offer counts, bookable dates and reservation availability — as structured JSON. Built for dining market research, availability monitoring and F&B lead generation. $3 per 1,000 venues.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-IjiBBisen7Wk1cQva-cUfca3jQPK-images_%2850%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 29,
-    "lastModified": "2026-10-30T23:27:36.292Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1095,7 +1988,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 95,
+    "totalRuns": 101,
     "lastModified": "2026-10-30T12:27:55.046Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1114,7 +2007,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 207,
+    "totalRuns": 213,
     "lastModified": "2026-10-30T11:57:00.035Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1133,7 +2026,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 35,
     "lastModified": "2026-10-30T10:47:37.775Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1152,7 +2045,26 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 27,
+    "lastModified": "2026-10-30T09:49:06.926Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "BrickLink Scraper [$1.5/1K💰] | LEGO Prices | Market Data",
+    "slug": "bricklink-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/bricklink-scraper",
+    "description": "Scrape BrickLink price guides for LEGO sets, parts and minifigures — 6-month sold data, current listings, monthly price history, seller counts and category signals. Built for LEGO price research, resale comps and collection valuation. $1.50 per 1,000 items.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-PbRCgcN5ZutYirqBa-C2w2M9wcYi-images_%2848%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 27,
     "lastModified": "2026-10-30T09:49:06.926Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1170,8 +2082,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 80,
+    "totalUsers": 4,
+    "totalRuns": 89,
     "lastModified": "2026-10-29T23:29:12.637Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1190,7 +2102,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 17,
+    "totalRuns": 24,
     "lastModified": "2026-10-29T23:27:50.395Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1209,7 +2121,26 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 24,
+    "lastModified": "2026-10-29T23:27:40.171Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Morningstar Scraper [$1💰/1K] | Quotes | Holdings | Ratings",
+    "slug": "morningstar-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/morningstar-scraper",
+    "description": "Pull Morningstar quotes, live prices, fund holdings, star and analyst ratings, performance tables, profiles, market news and movers — seven resources, each in its own dataset, no API key and no browser. Built for advisors, fintech apps and investment research. From $1 per 1,000 quotes.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-7GhwB1PhUHZyi1Hk5-V1Hhr69QkK-images_%2819%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 24,
     "lastModified": "2026-10-29T23:27:40.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1228,7 +2159,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 16,
+    "totalRuns": 22,
     "lastModified": "2026-10-29T23:27:36.203Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1247,7 +2178,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 14,
+    "totalRuns": 20,
     "lastModified": "2026-10-29T23:27:33.094Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1266,27 +2197,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 12,
+    "totalRuns": 18,
     "lastModified": "2026-10-29T23:27:25.528Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Home Depot Scraper [Only $1.5💰] | Prices | Stock | Data",
-    "slug": "homedepot-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/homedepot-scraper",
-    "description": "Scrape Home Depot product data — price, list price, promotions, ratings, per-store stock, specs, UPC and images — from product URLs, item IDs or keyword search. Store-aware pricing by ZIP code. No Home Depot API key required; $0.0015 per product on Apify.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-vA6APKJCqA7LyFxEF-U1JFTyQtmU-images_%2813%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Finance",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 6,
-    "totalRuns": 264,
-    "lastModified": "2026-10-29T17:13:33.735Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1304,7 +2216,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 45,
+    "totalRuns": 51,
     "lastModified": "2026-10-29T17:10:49.899Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1323,28 +2235,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 32,
+    "totalRuns": 38,
     "lastModified": "2026-10-29T16:59:50.877Z",
     "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Allegro Scraper [$1.4/1K] | Prices & Sellers",
-    "slug": "allegro-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/allegro-scraper",
-    "description": "Collect Allegro.pl offers by keyword, category, seller or offer URL. Get prices, seller reputation, condition, parameters, images, delivery data, Smart! and sponsored flags, product IDs and optional stock, GTIN, warranty and full descriptions.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-o5sHa8WctGdb6IUOm-sCLgndhI8z-images_%283%29.png",
-    "category": "uncategorized",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 9,
-    "totalRuns": 177,
-    "lastModified": "2026-10-29T16:52:26.789Z",
-    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -1361,7 +2254,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 105,
-    "totalRuns": 359,
+    "totalRuns": 365,
     "lastModified": "2026-10-29T16:52:02.577Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1380,7 +2273,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 74,
+    "totalRuns": 80,
     "lastModified": "2026-10-29T16:51:22.047Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1399,7 +2292,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 35,
+    "totalRuns": 41,
     "lastModified": "2026-10-29T16:48:11.601Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1418,7 +2311,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 22,
+    "totalRuns": 28,
     "lastModified": "2026-10-29T16:46:33.645Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1437,7 +2330,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 11,
-    "totalRuns": 200,
+    "totalRuns": 206,
     "lastModified": "2026-10-29T14:56:43.689Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1456,9 +2349,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 16,
-    "totalRuns": 450,
+    "totalRuns": 456,
     "lastModified": "2026-10-29T14:50:03.017Z",
-    "rating": 3.044236573534491,
+    "rating": 3.04423657353449,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -1475,7 +2368,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 23,
+    "totalRuns": 29,
     "lastModified": "2026-10-28T23:27:44.671Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1494,7 +2387,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 25,
+    "totalRuns": 31,
     "lastModified": "2026-10-28T23:27:39.167Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1513,7 +2406,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 29,
+    "totalRuns": 35,
     "lastModified": "2026-10-28T23:27:28.883Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1532,7 +2425,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 269,
+    "totalRuns": 275,
     "lastModified": "2026-10-28T15:25:11.310Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1551,7 +2444,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 27,
     "lastModified": "2026-10-27T23:22:52.847Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1570,7 +2463,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 26,
     "lastModified": "2026-10-27T23:22:33.424Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1589,7 +2482,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 68,
+    "totalRuns": 74,
     "lastModified": "2026-10-27T19:44:14.380Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1608,7 +2501,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 64,
+    "totalRuns": 70,
     "lastModified": "2026-10-27T18:40:43.138Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1627,7 +2520,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 72,
+    "totalRuns": 78,
     "lastModified": "2026-10-27T18:40:27.502Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1646,7 +2539,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 65,
+    "totalRuns": 78,
     "lastModified": "2026-10-27T18:40:05.391Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1665,7 +2558,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 59,
+    "totalRuns": 70,
     "lastModified": "2026-10-27T18:29:06.942Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1684,7 +2577,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 61,
+    "totalRuns": 67,
     "lastModified": "2026-10-27T18:28:29.078Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1703,7 +2596,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 58,
+    "totalRuns": 64,
     "lastModified": "2026-10-27T18:28:16.593Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1721,8 +2614,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 63,
+    "totalUsers": 3,
+    "totalRuns": 71,
     "lastModified": "2026-10-27T18:27:08.354Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1741,7 +2634,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 66,
+    "totalRuns": 72,
     "lastModified": "2026-10-27T18:25:53.696Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1760,7 +2653,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 70,
+    "totalRuns": 76,
     "lastModified": "2026-10-27T18:25:10.911Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1779,7 +2672,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 22,
+    "totalRuns": 28,
     "lastModified": "2026-10-26T23:22:57.691Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1798,7 +2691,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 19,
+    "totalRuns": 25,
     "lastModified": "2026-10-26T23:22:51.443Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1816,8 +2709,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 61,
+    "totalUsers": 2,
+    "totalRuns": 78,
     "lastModified": "2026-10-26T23:22:45.173Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1836,7 +2729,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 27,
     "lastModified": "2026-10-26T23:22:38.497Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1854,28 +2747,9 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 19,
+    "totalUsers": 3,
+    "totalRuns": 27,
     "lastModified": "2026-10-26T23:22:31.664Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "YouTube Audio Extractor | MP3, M4A & Transcripts",
-    "slug": "yt-audio-extractor",
-    "url": "https://apify.com/ahmed_jasarevic/yt-audio-extractor",
-    "description": "Download audio from YouTube and YouTube Music in MP3, M4A, WebM, FLAC, WAV, Ogg Vorbis or ALAC. Each track includes a public download link, metadata, optional captions/transcripts and section trimming. Pay per delivered track plus saved storage; failed downloads are not charged.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-RNiOfPiTUDr8ZRrY7-mBxJfAdv7q-youtube-logo-youtube-icon-transparent-free-png.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 24,
-    "totalRuns": 130,
-    "lastModified": "2026-10-26T13:10:21.484Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1893,27 +2767,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 24,
+    "totalRuns": 31,
     "lastModified": "2026-10-25T23:22:50.619Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "ZAP Imóveis Scraper [Only $1/1K💰] | Brazil Property Leads",
-    "slug": "zapimoveis-com-br-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/zapimoveis-com-br-scraper",
-    "description": "Extract ZAP Imóveis (zapimoveis.com.br) sale and rental listings as structured JSON: BRL price, condomínio, IPTU, beds, baths, area in m², address and GPS, photos, and the agency plus CRECI. Filter by city, price and type. No login.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-lmocqE2JlRTIu41li-532lfBtdi4-unnamed_%283%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 24,
-    "lastModified": "2026-10-25T23:22:46.043Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1931,27 +2786,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 19,
+    "totalRuns": 25,
     "lastModified": "2026-10-25T23:22:41.453Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Bandsintown Scraper [Only $1/1K💰] | Concerts | Tour Dates",
-    "slug": "bandsintown-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/bandsintown-scraper",
-    "description": "Get upcoming and past concert, tour and festival data from Bandsintown as structured JSON — artist, date, venue, city, coordinates, ticket links, lineup and RSVP counts. Search artists, festivals or venues. No API key, no login.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-c1vtU3yHQ6q6bsufs-hVh8sxr7jX-images_%2839%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 21,
-    "lastModified": "2026-10-25T23:22:35.965Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -1969,7 +2805,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 60,
+    "totalRuns": 66,
     "lastModified": "2026-10-25T22:32:53.484Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -1988,7 +2824,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 68,
+    "totalRuns": 74,
     "lastModified": "2026-10-25T22:32:51.735Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2006,8 +2842,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 71,
+    "totalUsers": 2,
+    "totalRuns": 80,
     "lastModified": "2026-10-25T22:32:46.598Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2026,7 +2862,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 52,
+    "totalRuns": 58,
     "lastModified": "2026-10-25T22:32:46.001Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2045,7 +2881,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 60,
+    "totalRuns": 66,
     "lastModified": "2026-10-25T22:32:43.822Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2064,7 +2900,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 55,
+    "totalRuns": 61,
     "lastModified": "2026-10-25T22:32:38.743Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2082,8 +2918,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 65,
+    "totalUsers": 3,
+    "totalRuns": 72,
     "lastModified": "2026-10-25T22:32:34.037Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2102,7 +2938,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 49,
+    "totalRuns": 55,
     "lastModified": "2026-10-25T22:32:27.985Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2121,7 +2957,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 63,
+    "totalRuns": 69,
     "lastModified": "2026-10-25T22:32:05.504Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2140,7 +2976,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 73,
+    "totalRuns": 79,
     "lastModified": "2026-10-25T18:18:48.539Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2159,7 +2995,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 80,
+    "totalRuns": 86,
     "lastModified": "2026-10-25T17:55:53.096Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2178,27 +3014,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 68,
+    "totalRuns": 76,
     "lastModified": "2026-10-25T17:55:30.321Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "StubHub Scraper [Only $1.50/1K💰] | Ticket Prices | Deal Score",
-    "slug": "stubhub-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/stubhub-scraper",
-    "description": "Scrape StubHub ticket listings - event name, date, venue, section, row, quantity, price, fees, deal score and availability - from event URLs, performer pages, keyword search or city discovery. Track ticket prices and resale inventory over time.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-N3xDUX2Xa63tiEaDK-ZrvC4PcCqq-images_%2828%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 146,
-    "lastModified": "2026-10-25T17:53:47.287Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -2216,7 +3033,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 64,
+    "totalRuns": 79,
     "lastModified": "2026-10-25T17:49:19.768Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2235,7 +3052,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 73,
+    "totalRuns": 79,
     "lastModified": "2026-10-25T17:48:37.482Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2254,7 +3071,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 75,
+    "totalRuns": 81,
     "lastModified": "2026-10-25T17:47:10.872Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2273,7 +3090,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 73,
+    "totalRuns": 79,
     "lastModified": "2026-10-25T17:47:03.008Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2292,7 +3109,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 77,
+    "totalRuns": 83,
     "lastModified": "2026-10-25T17:46:44.072Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2311,7 +3128,7 @@
       "pricePerUnit": 0.0015
     },
     "totalUsers": 1,
-    "totalRuns": 75,
+    "totalRuns": 81,
     "lastModified": "2026-10-25T17:46:27.651Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2329,8 +3146,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 79,
+    "totalUsers": 1,
+    "totalRuns": 87,
     "lastModified": "2026-10-25T17:45:32.305Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2349,7 +3166,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T17:45:05.519Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2368,7 +3185,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 62,
+    "totalRuns": 68,
     "lastModified": "2026-10-25T17:43:55.190Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2387,7 +3204,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 69,
+    "totalRuns": 75,
     "lastModified": "2026-10-25T17:43:50.231Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2406,7 +3223,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 62,
+    "totalRuns": 68,
     "lastModified": "2026-10-25T17:43:48.900Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2425,7 +3242,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 68,
+    "totalRuns": 74,
     "lastModified": "2026-10-25T17:43:45.306Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2444,7 +3261,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 26,
+    "totalRuns": 32,
     "lastModified": "2026-10-25T17:43:43.773Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2463,7 +3280,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 53,
+    "totalRuns": 59,
     "lastModified": "2026-10-25T17:43:42.664Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2482,7 +3299,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 44,
+    "totalRuns": 50,
     "lastModified": "2026-10-25T17:43:36.942Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2501,7 +3318,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 52,
+    "totalRuns": 58,
     "lastModified": "2026-10-25T17:43:30.215Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2520,7 +3337,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 49,
+    "totalRuns": 55,
     "lastModified": "2026-10-25T17:07:34.497Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2539,7 +3356,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 64,
+    "totalRuns": 70,
     "lastModified": "2026-10-25T17:07:16.707Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2558,7 +3375,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 60,
+    "totalRuns": 66,
     "lastModified": "2026-10-25T17:07:12.180Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2576,8 +3393,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 66,
+    "totalUsers": 3,
+    "totalRuns": 75,
     "lastModified": "2026-10-25T17:07:05.046Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2596,7 +3413,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 63,
+    "totalRuns": 71,
     "lastModified": "2026-10-25T17:07:03.428Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2614,8 +3431,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 48,
+    "totalUsers": 1,
+    "totalRuns": 55,
     "lastModified": "2026-10-25T17:07:01.124Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2634,7 +3451,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 59,
+    "totalRuns": 65,
     "lastModified": "2026-10-25T17:06:55.410Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2653,7 +3470,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 27,
-    "totalRuns": 251,
+    "totalRuns": 257,
     "lastModified": "2026-10-25T17:06:46.501Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2671,10 +3488,10 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 292,
-    "totalRuns": 113074,
+    "totalUsers": 295,
+    "totalRuns": 113616,
     "lastModified": "2026-10-25T16:57:26.532Z",
-    "rating": 4.999999999999999,
+    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -2691,7 +3508,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 30,
-    "totalRuns": 435,
+    "totalRuns": 441,
     "lastModified": "2026-10-25T16:36:31.341Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -2710,7 +3527,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 10,
-    "totalRuns": 434,
+    "totalRuns": 440,
     "lastModified": "2026-10-25T16:36:22.197Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2729,7 +3546,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 38,
-    "totalRuns": 543,
+    "totalRuns": 549,
     "lastModified": "2026-10-25T16:35:37.077Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2747,8 +3564,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 59,
-    "totalRuns": 677,
+    "totalUsers": 60,
+    "totalRuns": 684,
     "lastModified": "2026-10-25T16:34:35.389Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2767,7 +3584,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 73,
-    "totalRuns": 809,
+    "totalRuns": 822,
     "lastModified": "2026-10-25T16:34:22.659Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -2785,8 +3602,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 99,
-    "totalRuns": 1839,
+    "totalUsers": 104,
+    "totalRuns": 1990,
     "lastModified": "2026-10-25T16:32:16.071Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -2805,7 +3622,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 79,
+    "totalRuns": 85,
     "lastModified": "2026-10-25T15:55:40.481Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2824,7 +3641,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 63,
+    "totalRuns": 69,
     "lastModified": "2026-10-25T15:55:32.811Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2842,8 +3659,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 67,
+    "totalUsers": 2,
+    "totalRuns": 74,
     "lastModified": "2026-10-25T15:55:32.661Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2862,7 +3679,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 57,
+    "totalRuns": 63,
     "lastModified": "2026-10-25T15:55:16.998Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2881,7 +3698,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 79,
+    "totalRuns": 90,
     "lastModified": "2026-10-25T15:55:09.988Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2900,7 +3717,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 71,
+    "totalRuns": 77,
     "lastModified": "2026-10-25T15:55:08.023Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2919,7 +3736,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 73,
+    "totalRuns": 80,
     "lastModified": "2026-10-25T15:55:07.432Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2938,7 +3755,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 65,
+    "totalRuns": 71,
     "lastModified": "2026-10-25T15:55:05.994Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2957,7 +3774,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 56,
+    "totalRuns": 62,
     "lastModified": "2026-10-25T15:55:03.330Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2976,7 +3793,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 62,
+    "totalRuns": 68,
     "lastModified": "2026-10-25T15:55:01.662Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -2995,7 +3812,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 54,
+    "totalRuns": 60,
     "lastModified": "2026-10-25T15:18:38.053Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3013,8 +3830,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 54,
+    "totalUsers": 4,
+    "totalRuns": 61,
     "lastModified": "2026-10-25T15:11:09.260Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3033,7 +3850,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 52,
+    "totalRuns": 58,
     "lastModified": "2026-10-25T15:10:11.179Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3051,8 +3868,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 62,
+    "totalUsers": 1,
+    "totalRuns": 69,
     "lastModified": "2026-10-25T15:08:42.861Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3071,27 +3888,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 67,
+    "totalRuns": 73,
     "lastModified": "2026-10-25T15:07:51.023Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "OnTheMarket Scraper [~$0.96/1K💰] | UK Property | Rent & Sale",
-    "slug": "onthemarket-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/onthemarket-scraper",
-    "description": "Scrape UK property listings for sale & rent from OnTheMarket.com: price, address, beds/baths, tenure, EPC rating, floorplans, photos, agent details & GPS. Reads embedded __NEXT_DATA__ JSON — no browser. Cheapest at ~$0.96 per 1,000 listings (details +$1/1K).",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gDCnlh3PO07tBGUcX-Bpc1ljUVOU-onthemarket-com-logo-png_seeklogo-301497.png",
-    "category": "uncategorized",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 66,
-    "lastModified": "2026-10-25T15:07:08.332Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -3109,7 +3907,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 70,
+    "totalRuns": 76,
     "lastModified": "2026-10-25T15:06:15.867Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3128,7 +3926,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 72,
+    "totalRuns": 78,
     "lastModified": "2026-10-25T15:05:16.994Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3147,7 +3945,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 47,
+    "totalRuns": 53,
     "lastModified": "2026-10-25T15:03:03.669Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3165,8 +3963,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 58,
+    "totalUsers": 4,
+    "totalRuns": 65,
     "lastModified": "2026-10-25T13:46:22.369Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3185,7 +3983,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 56,
+    "totalRuns": 62,
     "lastModified": "2026-10-25T13:46:22.003Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3204,7 +4002,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 73,
+    "totalRuns": 79,
     "lastModified": "2026-10-25T13:46:21.883Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3223,7 +4021,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 67,
+    "totalRuns": 73,
     "lastModified": "2026-10-25T13:46:15.531Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3241,8 +4039,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 72,
+    "totalUsers": 2,
+    "totalRuns": 81,
     "lastModified": "2026-10-25T13:46:14.779Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3261,7 +4059,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 67,
+    "totalRuns": 74,
     "lastModified": "2026-10-25T13:46:12.000Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3280,7 +4078,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 74,
+    "totalRuns": 80,
     "lastModified": "2026-10-25T13:46:07.969Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3299,7 +4097,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 77,
+    "totalRuns": 83,
     "lastModified": "2026-10-25T13:46:02.618Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3318,7 +4116,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 76,
+    "totalRuns": 82,
     "lastModified": "2026-10-25T13:46:02.426Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3337,7 +4135,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T13:43:55.305Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3356,7 +4154,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 77,
+    "totalRuns": 83,
     "lastModified": "2026-10-25T13:43:14.143Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3375,7 +4173,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T13:42:25.812Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3394,7 +4192,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 77,
+    "totalRuns": 83,
     "lastModified": "2026-10-25T13:41:34.016Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3413,7 +4211,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T13:40:48.111Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3432,7 +4230,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T13:39:49.699Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3451,7 +4249,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 77,
+    "totalRuns": 83,
     "lastModified": "2026-10-25T13:38:58.963Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3470,7 +4268,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 79,
+    "totalRuns": 85,
     "lastModified": "2026-10-25T13:38:03.369Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3489,7 +4287,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 79,
+    "totalRuns": 85,
     "lastModified": "2026-10-25T13:37:12.208Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3508,7 +4306,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 107,
+    "totalRuns": 113,
     "lastModified": "2026-10-25T13:36:25.148Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3527,7 +4325,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 92,
+    "totalRuns": 99,
     "lastModified": "2026-10-25T12:39:30.002Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3546,7 +4344,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 93,
+    "totalRuns": 99,
     "lastModified": "2026-10-25T12:37:56.034Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3565,7 +4363,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 41,
+    "totalRuns": 47,
     "lastModified": "2026-10-25T12:37:38.424Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3584,7 +4382,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 45,
+    "totalRuns": 51,
     "lastModified": "2026-10-25T12:36:59.181Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3603,7 +4401,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 46,
+    "totalRuns": 52,
     "lastModified": "2026-10-25T12:36:10.452Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3622,7 +4420,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T12:35:21.551Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3641,7 +4439,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T12:34:28.189Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3660,7 +4458,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 93,
+    "totalRuns": 99,
     "lastModified": "2026-10-25T12:33:28.682Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3679,7 +4477,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 118,
+    "totalRuns": 124,
     "lastModified": "2026-10-25T12:32:30.786Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3698,7 +4496,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 57,
+    "totalRuns": 64,
     "lastModified": "2026-10-25T12:32:14.953Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3717,7 +4515,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 83,
+    "totalRuns": 89,
     "lastModified": "2026-10-25T12:14:18.074Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3736,7 +4534,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 81,
+    "totalRuns": 87,
     "lastModified": "2026-10-25T12:14:00.518Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3755,7 +4553,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 82,
+    "totalRuns": 88,
     "lastModified": "2026-10-25T12:13:53.642Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3774,7 +4572,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 82,
+    "totalRuns": 88,
     "lastModified": "2026-10-25T12:13:47.603Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3793,7 +4591,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 82,
+    "totalRuns": 88,
     "lastModified": "2026-10-25T12:13:46.900Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3812,7 +4610,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 81,
+    "totalRuns": 87,
     "lastModified": "2026-10-25T12:13:46.823Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3831,7 +4629,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 78,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T12:13:42.699Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3850,7 +4648,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 79,
+    "totalRuns": 85,
     "lastModified": "2026-10-25T12:13:42.544Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3868,8 +4666,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 86,
+    "totalUsers": 3,
+    "totalRuns": 94,
     "lastModified": "2026-10-25T12:13:37.712Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3888,7 +4686,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 10,
-    "totalRuns": 113,
+    "totalRuns": 119,
     "lastModified": "2026-10-25T11:43:58.230Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3907,7 +4705,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 84,
+    "totalRuns": 90,
     "lastModified": "2026-10-25T11:37:49.853Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3926,7 +4724,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 91,
+    "totalRuns": 97,
     "lastModified": "2026-10-25T11:37:24.422Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3945,7 +4743,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 88,
+    "totalRuns": 94,
     "lastModified": "2026-10-25T11:37:21.902Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3964,7 +4762,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 87,
+    "totalRuns": 93,
     "lastModified": "2026-10-25T11:37:20.574Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -3983,7 +4781,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 90,
+    "totalRuns": 96,
     "lastModified": "2026-10-25T11:37:20.522Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4002,7 +4800,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 90,
+    "totalRuns": 96,
     "lastModified": "2026-10-25T11:37:19.187Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4021,7 +4819,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 83,
+    "totalRuns": 89,
     "lastModified": "2026-10-25T11:37:19.154Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4040,7 +4838,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 83,
+    "totalRuns": 89,
     "lastModified": "2026-10-25T11:37:14.110Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4059,7 +4857,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 93,
+    "totalRuns": 99,
     "lastModified": "2026-10-25T11:36:57.899Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4077,8 +4875,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 83,
+    "totalUsers": 5,
+    "totalRuns": 93,
     "lastModified": "2026-10-25T11:16:36.846Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4097,7 +4895,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 6,
-    "totalRuns": 83,
+    "totalRuns": 89,
     "lastModified": "2026-10-25T11:16:22.527Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4116,7 +4914,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 75,
+    "totalRuns": 81,
     "lastModified": "2026-10-25T11:14:15.143Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4135,7 +4933,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 80,
+    "totalRuns": 86,
     "lastModified": "2026-10-25T11:13:44.123Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4154,7 +4952,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 75,
+    "totalRuns": 81,
     "lastModified": "2026-10-25T11:09:36.558Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4173,7 +4971,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 76,
+    "totalRuns": 82,
     "lastModified": "2026-10-25T11:07:30.806Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4192,7 +4990,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 77,
+    "totalRuns": 83,
     "lastModified": "2026-10-25T11:06:16.313Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4211,27 +5009,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 70,
+    "totalRuns": 77,
     "lastModified": "2026-10-25T11:05:21.108Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Justia Lawyer Scraper [Only $0.9/1K💰] | Leads | Legal Data",
-    "slug": "lawyers-justia-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/lawyers-justia-scraper",
-    "description": "Scrape lawyer profiles and attorney leads from the Justia Lawyer Directory: name, firm, phone, practice areas, Justia rating, peer reviews and credentials. For legal lead generation and law firm databases. From $0.0009 per lawyer.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-TqXzQaYmqfStVa4cM-uCEumQQMD2-justia_logo.jfif",
-    "category": "uncategorized",
-    "displayCategory": "Lead Generation",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 7,
-    "totalRuns": 108,
-    "lastModified": "2026-10-25T11:04:36.576Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -4249,7 +5028,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 56,
+    "totalRuns": 62,
     "lastModified": "2026-10-25T11:04:20.607Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4268,7 +5047,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 91,
+    "totalRuns": 97,
     "lastModified": "2026-10-25T10:45:35.491Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4287,7 +5066,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 90,
+    "totalRuns": 96,
     "lastModified": "2026-10-25T10:44:42.175Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4306,7 +5085,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 86,
+    "totalRuns": 92,
     "lastModified": "2026-10-25T10:44:38.123Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4324,8 +5103,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 7,
-    "totalRuns": 111,
+    "totalUsers": 9,
+    "totalRuns": 119,
     "lastModified": "2026-10-25T10:44:36.681Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4344,7 +5123,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 89,
+    "totalRuns": 95,
     "lastModified": "2026-10-25T10:44:36.242Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4362,8 +5141,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 93,
+    "totalUsers": 4,
+    "totalRuns": 101,
     "lastModified": "2026-10-25T10:44:35.280Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4382,7 +5161,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 83,
+    "totalRuns": 89,
     "lastModified": "2026-10-25T10:44:34.404Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4401,7 +5180,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 92,
+    "totalRuns": 98,
     "lastModified": "2026-10-25T10:44:25.748Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4420,27 +5199,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 86,
+    "totalRuns": 92,
     "lastModified": "2026-10-25T10:44:00.249Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Zoopla Scraper [💰$0.5/1K] | UK Property | Sold Prices",
-    "slug": "zoopla-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/zoopla-scraper",
-    "description": "Scrape Zoopla.co.uk for UK property listings: sale and rental prices, sold-price history, EPC ratings, agent contacts, floor area, tenure and council tax bands. Track price drops, monitor new listings and build agent lead lists across London, Manchester and all UK postcodes.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-0pkfjDFet1W22Z5hp-1szYRqfJ2A-images_%283%29.jfif",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 98,
-    "lastModified": "2026-10-25T10:07:44.391Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -4457,8 +5217,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 95,
+    "totalUsers": 1,
+    "totalRuns": 102,
     "lastModified": "2026-10-25T10:07:10.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4477,7 +5237,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 96,
+    "totalRuns": 103,
     "lastModified": "2026-10-25T10:07:02.128Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4496,7 +5256,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 97,
+    "totalRuns": 103,
     "lastModified": "2026-10-25T10:07:00.366Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4515,7 +5275,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 93,
+    "totalRuns": 100,
     "lastModified": "2026-10-25T10:06:55.169Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4533,8 +5293,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 97,
+    "totalUsers": 2,
+    "totalRuns": 109,
     "lastModified": "2026-10-25T10:06:51.493Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4553,7 +5313,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 97,
+    "totalRuns": 103,
     "lastModified": "2026-10-25T10:06:50.423Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4572,7 +5332,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 114,
+    "totalRuns": 134,
     "lastModified": "2026-10-25T10:06:46.515Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4591,7 +5351,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 123,
+    "totalRuns": 129,
     "lastModified": "2026-10-25T10:06:46.026Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4610,7 +5370,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 67,
+    "totalRuns": 73,
     "lastModified": "2026-10-25T10:04:02.655Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4628,8 +5388,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 6,
-    "totalRuns": 94,
+    "totalUsers": 7,
+    "totalRuns": 101,
     "lastModified": "2026-10-25T10:03:23.606Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4647,8 +5407,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 96,
+    "totalUsers": 7,
+    "totalRuns": 307,
     "lastModified": "2026-10-25T10:02:10.599Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4667,9 +5427,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 112,
+    "totalRuns": 118,
     "lastModified": "2026-10-25T10:01:41.367Z",
-    "rating": 5.000000000000001,
+    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -4686,7 +5446,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 53,
+    "totalRuns": 62,
     "lastModified": "2026-10-25T10:01:24.461Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4705,7 +5465,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 7,
-    "totalRuns": 94,
+    "totalRuns": 100,
     "lastModified": "2026-10-25T10:01:02.319Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4724,7 +5484,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 115,
+    "totalRuns": 122,
     "lastModified": "2026-10-25T09:59:43.249Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4743,7 +5503,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 6,
-    "totalRuns": 99,
+    "totalRuns": 105,
     "lastModified": "2026-10-25T09:58:57.139Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4762,7 +5522,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 72,
+    "totalRuns": 78,
     "lastModified": "2026-10-25T09:58:22.692Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4780,8 +5540,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 5,
-    "totalRuns": 66,
+    "totalUsers": 6,
+    "totalRuns": 84,
     "lastModified": "2026-10-25T09:57:33.619Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4800,7 +5560,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 103,
+    "totalRuns": 109,
     "lastModified": "2026-10-25T09:29:57.920Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4818,8 +5578,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 104,
+    "totalUsers": 2,
+    "totalRuns": 112,
     "lastModified": "2026-10-25T09:29:36.142Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4838,7 +5598,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 102,
+    "totalRuns": 108,
     "lastModified": "2026-10-25T09:29:19.726Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4857,7 +5617,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 100,
+    "totalRuns": 106,
     "lastModified": "2026-10-25T09:29:19.208Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4875,8 +5635,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 105,
+    "totalUsers": 2,
+    "totalRuns": 113,
     "lastModified": "2026-10-25T09:29:18.545Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4894,8 +5654,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 103,
+    "totalUsers": 4,
+    "totalRuns": 112,
     "lastModified": "2026-10-25T09:29:18.094Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4914,7 +5674,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 115,
+    "totalRuns": 125,
     "lastModified": "2026-10-25T09:29:12.321Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4933,7 +5693,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 107,
+    "totalRuns": 113,
     "lastModified": "2026-10-25T09:28:44.845Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4952,7 +5712,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 18,
+    "totalRuns": 24,
     "lastModified": "2026-10-24T22:22:51.587Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -4970,28 +5730,9 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 26,
+    "totalUsers": 1,
+    "totalRuns": 35,
     "lastModified": "2026-10-24T22:22:42.751Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Made-in-China Scraper [Only $0.95/1K💰] | Suppliers | FOB | MOQ",
-    "slug": "made-in-china-com-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/made-in-china-com-scraper",
-    "description": "Scrape Made-in-China.com B2B products and suppliers - product name, FOB price range, MOQ, specs, images, supplier company profile, business type, member tier and audited status. Build China sourcing shortlists and price data with no login.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-is3nszMqeXcrt7v0c-T7QoP79QrO-images_%2836%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 20,
-    "lastModified": "2026-10-24T22:22:36.757Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -5009,7 +5750,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 26,
+    "totalRuns": 32,
     "lastModified": "2026-10-24T22:22:28.746Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5028,7 +5769,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 111,
+    "totalRuns": 117,
     "lastModified": "2026-10-24T21:32:58.450Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5047,7 +5788,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 114,
+    "totalRuns": 120,
     "lastModified": "2026-10-24T21:29:12.564Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5066,7 +5807,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 6,
-    "totalRuns": 119,
+    "totalRuns": 125,
     "lastModified": "2026-10-24T21:28:45.561Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5084,8 +5825,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 114,
+    "totalUsers": 3,
+    "totalRuns": 126,
     "lastModified": "2026-10-24T21:28:43.713Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5104,7 +5845,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 110,
+    "totalRuns": 116,
     "lastModified": "2026-10-24T21:28:28.330Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5123,7 +5864,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 114,
+    "totalRuns": 120,
     "lastModified": "2026-10-24T21:28:26.204Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5142,7 +5883,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 106,
+    "totalRuns": 112,
     "lastModified": "2026-10-24T21:28:21.056Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5161,7 +5902,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 115,
+    "totalRuns": 121,
     "lastModified": "2026-10-24T21:27:53.572Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5180,7 +5921,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 115,
+    "totalRuns": 121,
     "lastModified": "2026-10-24T15:44:12.621Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5199,7 +5940,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 119,
+    "totalRuns": 125,
     "lastModified": "2026-10-24T15:43:22.173Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5218,7 +5959,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 120,
+    "totalRuns": 126,
     "lastModified": "2026-10-24T15:41:48.376Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5237,7 +5978,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 123,
+    "totalRuns": 129,
     "lastModified": "2026-10-24T15:40:36.993Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5256,7 +5997,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 123,
+    "totalRuns": 129,
     "lastModified": "2026-10-24T15:39:50.625Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5275,7 +6016,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 132,
+    "totalRuns": 138,
     "lastModified": "2026-10-24T15:38:41.995Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5293,8 +6034,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 147,
+    "totalUsers": 6,
+    "totalRuns": 161,
     "lastModified": "2026-10-24T15:37:50.485Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5312,8 +6053,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 5,
-    "totalRuns": 156,
+    "totalUsers": 6,
+    "totalRuns": 164,
     "lastModified": "2026-10-24T15:37:00.377Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5332,7 +6073,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 240,
+    "totalRuns": 246,
     "lastModified": "2026-10-24T15:35:48.124Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5351,7 +6092,26 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 133,
+    "totalRuns": 139,
+    "lastModified": "2026-10-24T14:40:11.986Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Heureka Scraper [Only $2💰] | Prices | Shops | Reviews",
+    "slug": "heureka-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/heureka-scraper",
+    "description": "Scrape Heureka.cz and Heureka.sk products for price monitoring and market research: current prices, per-shop offers, specifications, ratings and reviews, from any category, search query or product URL.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-NARcXIqUvd8Ote7JF-E6MeabOPOn-images_%2821%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Other",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 139,
     "lastModified": "2026-10-24T14:40:11.986Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5370,7 +6130,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 149,
+    "totalRuns": 155,
     "lastModified": "2026-10-24T09:55:29.381Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5408,7 +6168,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 145,
+    "totalRuns": 151,
     "lastModified": "2026-10-24T09:55:00.662Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5427,7 +6187,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 105,
+    "totalRuns": 111,
     "lastModified": "2026-10-24T09:54:59.450Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5446,7 +6206,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 166,
+    "totalRuns": 172,
     "lastModified": "2026-10-24T09:54:55.671Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5464,8 +6224,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 5,
-    "totalRuns": 143,
+    "totalUsers": 6,
+    "totalRuns": 166,
     "lastModified": "2026-10-24T09:54:38.756Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5484,7 +6244,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 148,
+    "totalRuns": 154,
     "lastModified": "2026-10-24T09:54:24.423Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5503,27 +6263,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 32,
+    "totalRuns": 38,
     "lastModified": "2026-10-23T22:22:59.314Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "BambooHR Scraper [Only $0.90/1K💰] | Jobs | Salary | Openings",
-    "slug": "bamboohr-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/bamboohr-scraper",
-    "description": "Extract every open role from any BambooHR careers board - title, department, location, remote flag, salary and full description - via BambooHR's public JSON endpoints. Build job feeds, hiring-intent lists and labour-market datasets with no API key, no login and no browser.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-SsffwgsckhJUIdkgO-zV4geG7lGa-unnamed_%282%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Jobs",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 23,
-    "lastModified": "2026-10-23T22:22:51.214Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -5541,7 +6282,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 27,
+    "totalRuns": 33,
     "lastModified": "2026-10-23T22:22:42.675Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5560,7 +6301,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 20,
+    "totalRuns": 26,
     "lastModified": "2026-10-23T22:22:36.112Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5579,27 +6320,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 123,
+    "totalRuns": 129,
     "lastModified": "2026-10-23T21:29:19.923Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "SEEK Job Scraper [$0.9/1K] | Australia & NZ Jobs",
-    "slug": "seek-job-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/seek-job-scraper",
-    "description": "Collect SEEK job listings across Australia and New Zealand. Get titles, companies, locations, salaries, employment types, work arrangements, classifications, bullet points, posting dates, expiry dates and full descriptions.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-uKaK4aTWZRNuy0dP7-4KOjP5nnZ3-GqLqwauKoWHKysJo7-actor-m7tdxsBaMKJhIu4fM-ncPaH78sHQ-seek.webp",
-    "category": "jobs",
-    "displayCategory": "Jobs",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 405,
-    "lastModified": "2026-10-23T21:29:16.794Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -5616,8 +6338,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 149,
+    "totalUsers": 3,
+    "totalRuns": 156,
     "lastModified": "2026-10-23T21:29:15.289Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5635,8 +6357,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 8,
-    "totalRuns": 87,
+    "totalUsers": 10,
+    "totalRuns": 100,
     "lastModified": "2026-10-23T21:29:13.794Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5654,8 +6376,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 134,
+    "totalUsers": 5,
+    "totalRuns": 143,
     "lastModified": "2026-10-23T21:29:12.338Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5673,8 +6395,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 6,
-    "totalRuns": 74,
+    "totalUsers": 8,
+    "totalRuns": 91,
     "lastModified": "2026-10-23T21:29:10.812Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5693,7 +6415,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 6,
-    "totalRuns": 80,
+    "totalRuns": 86,
     "lastModified": "2026-10-23T21:29:07.611Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5711,8 +6433,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 6,
-    "totalRuns": 111,
+    "totalUsers": 7,
+    "totalRuns": 118,
     "lastModified": "2026-10-23T21:29:06.118Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5731,7 +6453,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 12,
-    "totalRuns": 95,
+    "totalRuns": 112,
     "lastModified": "2026-10-23T21:29:03.090Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5750,28 +6472,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 19,
-    "totalRuns": 201,
+    "totalRuns": 212,
     "lastModified": "2026-10-23T21:29:01.744Z",
     "rating": 5,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Zillow Scraper [$1/1K] | Listings | Zestimates",
-    "slug": "zillow-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/zillow-scraper",
-    "description": "Collect Zillow property listings by city, ZIP or neighborhood. Get prices, addresses, beds, baths, square footage, Zestimates, coordinates, status and photos for real estate research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-nzkusvhbQu7NY73zD-zm9OJ7uNBU-images_%2816%29.png",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 155,
-    "lastModified": "2026-10-23T16:58:14.245Z",
-    "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -5788,7 +6491,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 185,
+    "totalRuns": 191,
     "lastModified": "2026-10-23T15:40:57.977Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5807,7 +6510,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 216,
+    "totalRuns": 222,
     "lastModified": "2026-10-23T15:40:56.124Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5826,7 +6529,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 191,
+    "totalRuns": 197,
     "lastModified": "2026-10-23T15:40:54.252Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5844,8 +6547,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 29,
-    "totalRuns": 411,
+    "totalUsers": 42,
+    "totalRuns": 479,
     "lastModified": "2026-10-23T15:40:52.582Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5864,7 +6567,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 201,
+    "totalRuns": 207,
     "lastModified": "2026-10-23T15:40:50.689Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5883,7 +6586,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 198,
+    "totalRuns": 204,
     "lastModified": "2026-10-23T15:40:47.274Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5901,8 +6604,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 20,
-    "totalRuns": 226,
+    "totalUsers": 26,
+    "totalRuns": 246,
     "lastModified": "2026-10-23T15:40:43.453Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5921,7 +6624,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 8,
-    "totalRuns": 209,
+    "totalRuns": 215,
     "lastModified": "2026-10-23T15:40:41.737Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5940,7 +6643,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 6,
-    "totalRuns": 328,
+    "totalRuns": 334,
     "lastModified": "2026-10-23T13:15:19.507Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5959,7 +6662,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 152,
+    "totalRuns": 158,
     "lastModified": "2026-10-23T13:09:42.712Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -5978,27 +6681,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 187,
+    "totalRuns": 193,
     "lastModified": "2026-10-23T13:09:39.850Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Google Play Reviews [$0.08/1K] | ASO & Sentiment",
-    "slug": "google-play-reviews-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/google-play-reviews-scraper",
-    "description": "Collect Google Play app reviews with ratings, review text, versions, countries and helpful votes. Use the data for ASO, sentiment analysis and competitor research.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-WZkgOk1Bup0XaQMFw-HMtxk2G75j-g3SAdqRzjKzKDoKX7-actor-KBD93wWVGA0u1JnMz-sjyN1YdrNh-google-play",
-    "category": "developer_tools",
-    "displayCategory": "SEO & AI Tools",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 1,
-    "totalRuns": 197,
-    "lastModified": "2026-10-23T13:09:37.177Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -6016,7 +6700,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 203,
+    "totalRuns": 209,
     "lastModified": "2026-10-23T13:09:31.819Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6034,8 +6718,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 209,
+    "totalUsers": 5,
+    "totalRuns": 216,
     "lastModified": "2026-10-23T13:09:29.628Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6054,7 +6738,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 220,
+    "totalRuns": 232,
     "lastModified": "2026-10-23T13:09:26.617Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6072,8 +6756,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 14,
-    "totalRuns": 262,
+    "totalUsers": 15,
+    "totalRuns": 269,
     "lastModified": "2026-10-23T13:09:23.819Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6111,7 +6795,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 12,
-    "totalRuns": 215,
+    "totalRuns": 221,
     "lastModified": "2026-10-23T10:39:28.528Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6130,7 +6814,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 26,
-    "totalRuns": 214,
+    "totalRuns": 220,
     "lastModified": "2026-10-23T10:39:26.995Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -6149,7 +6833,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 7,
-    "totalRuns": 226,
+    "totalRuns": 232,
     "lastModified": "2026-10-23T10:39:25.360Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6168,7 +6852,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 8,
-    "totalRuns": 223,
+    "totalRuns": 229,
     "lastModified": "2026-10-23T10:39:23.962Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6187,7 +6871,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 213,
+    "totalRuns": 219,
     "lastModified": "2026-10-23T10:39:22.384Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6205,28 +6889,9 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 23,
-    "totalRuns": 221,
+    "totalUsers": 24,
+    "totalRuns": 230,
     "lastModified": "2026-10-23T10:39:20.867Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Idealo Scraper $2.5/1K💰 | Offers | Price History | 6 Markets",
-    "slug": "idealo-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/idealo-scraper",
-    "description": "Extract idealo price comparison data from 6 European markets: per-merchant offers with shipping and total, min/max/avg prices, ratings, specs and 3-month price history. Look up by search term, EAN/GTIN, ID, URL or category. An affordable alternative to building your own idealo scraper.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-yUuVlBzpzLL6slbPk-QYft2I4bB6-logo-idealo-computer-icons-symbol-portable-network-graphics-png-",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 26,
-    "totalRuns": 582,
-    "lastModified": "2026-10-23T08:27:43.203Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -6244,7 +6909,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 233,
+    "totalRuns": 239,
     "lastModified": "2026-10-23T08:27:38.193Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -6262,8 +6927,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 5,
-    "totalRuns": 217,
+    "totalUsers": 7,
+    "totalRuns": 226,
     "lastModified": "2026-10-23T08:27:25.687Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6282,7 +6947,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 235,
+    "totalRuns": 241,
     "lastModified": "2026-10-23T08:27:00.016Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6301,7 +6966,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-10-22T22:22:56.728Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6320,7 +6985,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 28,
+    "totalRuns": 34,
     "lastModified": "2026-10-22T22:22:51.136Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6339,7 +7004,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 23,
+    "totalRuns": 29,
     "lastModified": "2026-10-22T22:22:39.575Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6358,7 +7023,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 43,
+    "totalRuns": 49,
     "lastModified": "2026-10-22T22:22:34.541Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6377,7 +7042,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 30,
+    "totalRuns": 36,
     "lastModified": "2026-10-22T22:22:27.454Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6396,27 +7061,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 251,
+    "totalRuns": 257,
     "lastModified": "2026-10-22T16:06:38.094Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Boat Trader Scraper $1.3/1K💰 | Boat Listings | Dealer Data",
-    "slug": "boattrader-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/boattrader-scraper",
-    "description": "Scrape Boat Trader — America's largest boat marketplace — for complete new and used boat listings and the full dealer directory. Track boat prices, research used boat values, build marine market intelligence. Only $1.30 per 1,000 results.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-R9cF05WF23lUqizq3-LJWs5L7B8l-0x0.png",
-    "category": "ecommerce",
-    "displayCategory": "E-commerce",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 10,
-    "totalRuns": 317,
-    "lastModified": "2026-10-22T16:02:51.859Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -6434,7 +7080,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 241,
+    "totalRuns": 247,
     "lastModified": "2026-10-22T16:02:39.024Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6453,7 +7099,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 11,
-    "totalRuns": 356,
+    "totalRuns": 362,
     "lastModified": "2026-10-22T16:02:35.748Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6471,8 +7117,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 12,
-    "totalRuns": 237,
+    "totalUsers": 14,
+    "totalRuns": 244,
     "lastModified": "2026-10-22T16:02:29.025Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6491,7 +7137,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 33,
-    "totalRuns": 268,
+    "totalRuns": 274,
     "lastModified": "2026-10-22T16:02:26.484Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6510,7 +7156,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 241,
+    "totalRuns": 247,
     "lastModified": "2026-10-22T16:02:08.305Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6528,8 +7174,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 4,
-    "totalRuns": 353,
+    "totalUsers": 5,
+    "totalRuns": 456,
     "lastModified": "2026-10-22T14:34:41.031Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6548,7 +7194,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 13,
-    "totalRuns": 428,
+    "totalRuns": 434,
     "lastModified": "2026-10-22T14:33:37.930Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6567,7 +7213,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 24,
-    "totalRuns": 338,
+    "totalRuns": 344,
     "lastModified": "2026-10-22T14:27:31.457Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6586,7 +7232,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 22,
-    "totalRuns": 281,
+    "totalRuns": 287,
     "lastModified": "2026-10-22T14:26:16.924Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6605,7 +7251,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 16,
-    "totalRuns": 318,
+    "totalRuns": 324,
     "lastModified": "2026-10-22T14:25:40.861Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -6624,7 +7270,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 11,
-    "totalRuns": 329,
+    "totalRuns": 335,
     "lastModified": "2026-10-22T14:25:30.150Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6643,7 +7289,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 14,
-    "totalRuns": 269,
+    "totalRuns": 275,
     "lastModified": "2026-10-22T14:25:11.091Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6662,7 +7308,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 26,
-    "totalRuns": 361,
+    "totalRuns": 844,
     "lastModified": "2026-10-22T14:25:03.744Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6680,8 +7326,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 130,
+    "totalUsers": 1,
+    "totalRuns": 143,
     "lastModified": "2026-10-22T14:06:57.958Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6700,7 +7346,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 13,
-    "totalRuns": 459,
+    "totalRuns": 502,
     "lastModified": "2026-10-22T13:06:21.045Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6719,7 +7365,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 127,
+    "totalRuns": 133,
     "lastModified": "2026-10-22T11:59:31.690Z",
     "rating": 5,
     "hasDeepDive": false,
@@ -6738,7 +7384,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 108,
+    "totalRuns": 114,
     "lastModified": "2026-10-22T11:59:24.263Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6757,7 +7403,26 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 164,
+    "totalRuns": 170,
+    "lastModified": "2026-10-22T11:59:15.042Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "RentHop Scraper [Only $3.5💰] | NYC Rentals | Broker Data",
+    "slug": "renthop-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/renthop-scraper",
+    "description": "Scrape RentHop rental listings for apartment market research and broker lead generation: rent, beds and baths, square footage, address, neighborhood and ZIP, no-fee flag, broker name and phone, photos and description.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-z3K6P6UY2eZOiSybW-t27iapUV4w-images_%2822%29.png",
+    "category": "uncategorized",
+    "displayCategory": "Real Estate",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 170,
     "lastModified": "2026-10-22T11:59:15.042Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6776,7 +7441,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 35,
+    "totalRuns": 41,
     "lastModified": "2026-10-22T11:59:09.810Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6795,28 +7460,9 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 31,
+    "totalRuns": 37,
     "lastModified": "2026-10-22T11:59:08.067Z",
     "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Bayut Scraper [$0.60💰] | UAE Real Estate · Projects & Agents",
-    "slug": "bayut-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/bayut-scraper",
-    "description": "[$0.60💰] Scrape Bayut.com — the Gulf's #1 property portal — for structured real estate data across 5 markets: UAE, Saudi Arabia, Qatar, Jordan & Oman. Track AED asking prices, Dubai off-plan projects, and developer & agency profiles for cross-market research and price monitoring.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-3jkuNDtlKh6lPrHNW-U9LC5jf32z-images_%282%29.png",
-    "category": "real_estate",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 23,
-    "totalRuns": 399,
-    "lastModified": "2026-10-22T11:58:57.315Z",
-    "rating": 5,
     "hasDeepDive": false,
     "deepDiveUrl": ""
   },
@@ -6832,8 +7478,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 9,
-    "totalRuns": 313,
+    "totalUsers": 10,
+    "totalRuns": 334,
     "lastModified": "2026-10-22T11:58:48.096Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6852,7 +7498,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 25,
+    "totalRuns": 31,
     "lastModified": "2026-10-21T22:22:38.511Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6871,7 +7517,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 21,
+    "totalRuns": 27,
     "lastModified": "2026-10-21T22:22:34.221Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6890,7 +7536,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 5,
-    "totalRuns": 69,
+    "totalRuns": 75,
     "lastModified": "2026-10-21T22:07:30.513Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6909,7 +7555,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 127,
+    "totalRuns": 174,
     "lastModified": "2026-10-20T22:22:38.437Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6927,8 +7573,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 31,
+    "totalUsers": 1,
+    "totalRuns": 39,
     "lastModified": "2026-10-20T22:22:33.433Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6947,7 +7593,26 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 27,
+    "totalRuns": 33,
+    "lastModified": "2026-10-20T22:22:22.919Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Agoda Scraper [Only $1.5💰] | Hotel Prices | Reviews | Photos",
+    "slug": "agoda-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/agoda-scraper",
+    "description": "Scrape Agoda hotels for price monitoring and travel market research: nightly rates, star ratings, review scores, amenities, photos and geo-coordinates, for any city, date and currency.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-gCUZXukR7dhgnfUfR-vyYgyWMaDk-agoda.png",
+    "category": "uncategorized",
+    "displayCategory": "Travel",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 33,
     "lastModified": "2026-10-20T22:22:22.919Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6966,7 +7631,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 35,
+    "totalRuns": 41,
     "lastModified": "2026-10-20T09:29:19.590Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -6985,7 +7650,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-10-19T22:22:40.066Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7004,7 +7669,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 4,
-    "totalRuns": 51,
+    "totalRuns": 57,
     "lastModified": "2026-10-19T22:22:34.649Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7023,7 +7688,26 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 26,
+    "totalRuns": 32,
+    "lastModified": "2026-10-19T22:22:31.037Z",
+    "rating": 0,
+    "hasDeepDive": false,
+    "deepDiveUrl": ""
+  },
+  {
+    "title": "Link.me Scraper [Only $5💰] | Bio, Emails & Social Links",
+    "slug": "linkme-bio-email-scraper",
+    "url": "https://apify.com/ahmed_jasarevic/linkme-bio-email-scraper",
+    "description": "Extract emails, social handles, links and bio from Link.me profiles for lead generation and creator outreach. Fully server-rendered, no login, export JSON at $5 per 1,000 profiles.",
+    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-dXJGnsv82wNZl29d4-mbJH5mecFy-images_%2811%29.jpg",
+    "category": "uncategorized",
+    "displayCategory": "Social Media",
+    "pricing": {
+      "model": "pay-per-event",
+      "pricePerUnit": null
+    },
+    "totalUsers": 2,
+    "totalRuns": 32,
     "lastModified": "2026-10-19T22:22:31.037Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7041,8 +7725,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 36,
+    "totalUsers": 1,
+    "totalRuns": 45,
     "lastModified": "2026-10-19T22:22:27.048Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7061,7 +7745,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 40,
+    "totalRuns": 46,
     "lastModified": "2026-10-19T22:22:22.044Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7080,7 +7764,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 39,
+    "totalRuns": 45,
     "lastModified": "2026-10-19T13:15:26.220Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7098,8 +7782,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 36,
+    "totalUsers": 1,
+    "totalRuns": 46,
     "lastModified": "2026-10-18T22:22:34.295Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7118,7 +7802,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 31,
+    "totalRuns": 37,
     "lastModified": "2026-10-18T22:22:25.390Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7137,27 +7821,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 47,
+    "totalRuns": 53,
     "lastModified": "2026-10-17T22:22:29.063Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "Chewy Scraper [$1.90/1K💰] | Pet Prices | Reviews & Q&A",
-    "slug": "chewy-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/chewy-scraper",
-    "description": "Scrape Chewy.com pet products by URL or category and export brand, price, rating, review count, every size variant with per-variant prices, plus reviews and Q&A as clean JSON. Uses Chewy's own JSON APIs, no browser.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-183MBeH4f3zALCBVG-OcX4uShZNE-images_%2820%29.png",
-    "category": "uncategorized",
-    "displayCategory": "Other",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 43,
-    "lastModified": "2026-10-16T22:22:26.385Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -7175,7 +7840,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 41,
+    "totalRuns": 47,
     "lastModified": "2026-10-15T22:22:21.916Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7194,7 +7859,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 34,
+    "totalRuns": 40,
     "lastModified": "2026-10-15T22:22:11.076Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7213,7 +7878,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 30,
+    "totalRuns": 36,
     "lastModified": "2026-10-15T22:22:06.768Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7232,7 +7897,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 30,
+    "totalRuns": 36,
     "lastModified": "2026-10-14T22:22:00.540Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7251,7 +7916,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 38,
+    "totalRuns": 44,
     "lastModified": "2026-10-14T22:21:44.422Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7270,7 +7935,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 31,
+    "totalRuns": 37,
     "lastModified": "2026-10-14T22:21:18.314Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7288,8 +7953,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 30,
+    "totalUsers": 3,
+    "totalRuns": 38,
     "lastModified": "2026-10-13T22:21:49.289Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7307,8 +7972,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 32,
+    "totalUsers": 3,
+    "totalRuns": 39,
     "lastModified": "2026-10-13T22:21:43.280Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7327,7 +7992,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 32,
+    "totalRuns": 38,
     "lastModified": "2026-10-13T22:21:31.646Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7346,7 +8011,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 43,
+    "totalRuns": 49,
     "lastModified": "2026-10-13T22:21:16.303Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7365,7 +8030,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 49,
+    "totalRuns": 55,
     "lastModified": "2026-10-13T07:47:38.585Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7384,7 +8049,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 33,
+    "totalRuns": 39,
     "lastModified": "2026-10-12T22:21:48.131Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7403,7 +8068,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 37,
+    "totalRuns": 43,
     "lastModified": "2026-10-12T22:21:15.313Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7422,7 +8087,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 46,
+    "totalRuns": 52,
     "lastModified": "2026-10-11T22:01:32.171Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7441,7 +8106,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 42,
+    "totalRuns": 48,
     "lastModified": "2026-10-11T22:00:36.418Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7460,7 +8125,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 40,
     "lastModified": "2026-10-11T22:00:25.020Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7479,7 +8144,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 321,
+    "totalRuns": 327,
     "lastModified": "2026-10-11T16:51:44.695Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7498,7 +8163,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 42,
+    "totalRuns": 48,
     "lastModified": "2026-10-10T20:56:23.612Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7517,7 +8182,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 40,
+    "totalRuns": 46,
     "lastModified": "2026-10-10T20:56:20.510Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7555,7 +8220,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 48,
+    "totalRuns": 54,
     "lastModified": "2026-10-09T20:56:06.301Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7573,8 +8238,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 3,
-    "totalRuns": 81,
+    "totalUsers": 4,
+    "totalRuns": 92,
     "lastModified": "2026-10-08T20:55:33.458Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7593,7 +8258,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 36,
+    "totalRuns": 42,
     "lastModified": "2026-10-08T20:55:19.292Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7612,7 +8277,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 34,
+    "totalRuns": 40,
     "lastModified": "2026-10-08T20:55:14.681Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7631,7 +8296,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 50,
+    "totalRuns": 56,
     "lastModified": "2026-10-07T16:15:01.290Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7650,7 +8315,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 39,
+    "totalRuns": 45,
     "lastModified": "2026-10-07T16:14:42.654Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7669,7 +8334,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 37,
+    "totalRuns": 43,
     "lastModified": "2026-10-06T14:44:10.459Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7688,7 +8353,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 35,
+    "totalRuns": 41,
     "lastModified": "2026-10-05T07:06:09.754Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7707,7 +8372,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 55,
+    "totalRuns": 61,
     "lastModified": "2026-10-04T05:03:18.322Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7726,7 +8391,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 51,
+    "totalRuns": 57,
     "lastModified": "2026-10-04T05:03:06.582Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7764,7 +8429,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 39,
+    "totalRuns": 45,
     "lastModified": "2026-10-01T22:24:09.854Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7783,7 +8448,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 55,
+    "totalRuns": 61,
     "lastModified": "2026-10-01T22:23:54.120Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7802,7 +8467,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 45,
+    "totalRuns": 51,
     "lastModified": "2026-10-01T22:22:52.274Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7821,7 +8486,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 52,
+    "totalRuns": 58,
     "lastModified": "2026-10-01T14:35:53.587Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7840,7 +8505,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 3,
-    "totalRuns": 40,
+    "totalRuns": 46,
     "lastModified": "2026-10-01T14:28:31.214Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7859,7 +8524,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 42,
+    "totalRuns": 48,
     "lastModified": "2026-10-01T13:29:37.691Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7878,7 +8543,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 54,
+    "totalRuns": 60,
     "lastModified": "2026-09-30T22:23:01.562Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7897,7 +8562,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 54,
+    "totalRuns": 62,
     "lastModified": "2026-09-29T22:22:19.293Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7915,8 +8580,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 2,
-    "totalRuns": 50,
+    "totalUsers": 3,
+    "totalRuns": 57,
     "lastModified": "2026-09-28T22:21:39.605Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7935,7 +8600,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 48,
+    "totalRuns": 54,
     "lastModified": "2026-09-27T22:22:22.866Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7954,7 +8619,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 50,
+    "totalRuns": 56,
     "lastModified": "2026-09-27T22:21:42.060Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7973,7 +8638,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 49,
+    "totalRuns": 55,
     "lastModified": "2026-09-26T22:22:54.793Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -7992,7 +8657,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 44,
+    "totalRuns": 50,
     "lastModified": "2026-09-26T22:21:01.547Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8011,7 +8676,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 51,
+    "totalRuns": 57,
     "lastModified": "2026-09-24T22:15:18.658Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8030,7 +8695,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 46,
+    "totalRuns": 52,
     "lastModified": "2026-09-24T22:14:32.882Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8049,27 +8714,8 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 51,
+    "totalRuns": 57,
     "lastModified": "2026-09-23T22:13:26.729Z",
-    "rating": 0,
-    "hasDeepDive": false,
-    "deepDiveUrl": ""
-  },
-  {
-    "title": "HomeToGo Scraper [$1💰] | Vacation Rentals | Villa Prices",
-    "slug": "hometogo-scraper",
-    "url": "https://apify.com/ahmed_jasarevic/hometogo-scraper",
-    "description": "Scrape HomeToGo vacation rentals: nightly prices, villa & holiday home listings, amenities, ratings and booking links across Europe and the USA. From $0.001 per result — for market research, price monitoring and rental investment analysis.",
-    "imageUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/dtR7qnTbQrNiSCmj7-actor-w8bAWHSwQdCRutS32-f7cNhcFV7b-images_%281%29.jfif",
-    "category": "uncategorized",
-    "displayCategory": "Real Estate",
-    "pricing": {
-      "model": "pay-per-event",
-      "pricePerUnit": null
-    },
-    "totalUsers": 2,
-    "totalRuns": 78,
-    "lastModified": "2026-09-23T22:12:31.489Z",
     "rating": 0,
     "hasDeepDive": false,
     "deepDiveUrl": ""
@@ -8087,7 +8733,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 49,
+    "totalRuns": 55,
     "lastModified": "2026-09-23T08:14:31.204Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8106,7 +8752,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 50,
+    "totalRuns": 56,
     "lastModified": "2026-09-20T22:11:19.864Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8124,8 +8770,8 @@
       "model": "pay-per-event",
       "pricePerUnit": null
     },
-    "totalUsers": 1,
-    "totalRuns": 61,
+    "totalUsers": 3,
+    "totalRuns": 69,
     "lastModified": "2026-09-19T22:04:28.347Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8144,7 +8790,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 50,
+    "totalRuns": 56,
     "lastModified": "2026-09-19T21:25:59.354Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8163,7 +8809,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 59,
+    "totalRuns": 65,
     "lastModified": "2026-09-14T18:28:43.045Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8182,7 +8828,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 56,
+    "totalRuns": 62,
     "lastModified": "2026-09-14T13:25:43.689Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8201,7 +8847,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 2,
-    "totalRuns": 55,
+    "totalRuns": 61,
     "lastModified": "2026-09-14T13:14:01.359Z",
     "rating": 0,
     "hasDeepDive": false,
@@ -8220,7 +8866,7 @@
       "pricePerUnit": null
     },
     "totalUsers": 1,
-    "totalRuns": 61,
+    "totalRuns": 67,
     "lastModified": "2026-09-14T09:12:36.186Z",
     "rating": 0,
     "hasDeepDive": false,
